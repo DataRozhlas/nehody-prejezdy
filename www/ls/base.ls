@@ -81,3 +81,7 @@ trateLayer = L.geoJson do
 trateLayer.addTo map
 baseLayer.addTo map
 labelLayer.addTo map
+
+geocoder = new ig.Geocoder mapElement.node!
+  ..on \latLng (latlng) ->
+    map.setView latlng, 12
