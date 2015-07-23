@@ -61,9 +61,9 @@ markers = for datum in data
     ..bindPopup "<b>#{datum.nazev}</b>
     <p>Celkem nehod: <b>#{datum.nehod}</b><br></p>
     <p>Při nich zraněno</p>
-    <pre>Lehce\t\t<b>#{datum.lehce}</b><br>
-    Těžce\t\t<b>#{datum.tezce}</b><br>
-    Smrtelně\t<b>#{datum.usmrceno}</b></pre>"
+    <pre>Lehce: <b>#{datum.lehce}</b><br>
+    Těžce: <b>#{datum.tezce}</b><br>
+    Smrtelně: <b>#{datum.usmrceno}</b></pre>"
 
 
 trate = topojson.feature do
