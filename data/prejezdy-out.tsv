@@ -1,1819 +1,1819 @@
-id	nazev	lat	lon	nehod	lehce	tezce	usmrceno
-P1	Bubenská třída	50.10468	14.43635	7	0	0	0
-P3	Špejchar	50.09811	14.40749	1	0	0	0
-P4	na Hradčanské	50.09768	14.40474	1	0	0	0
-P9	Veleslavínský	50.09520	14.34800	2	0	0	0
-P10	ulice Krajní	50.09054	14.32893	2	1	3	0
-P11	ul. U stanice	50.08983	14.32529	2	1	0	1
-P12	ulice Litovická	50.08932	14.32439	2	0	1	0
-P13	Ruzyně (ul. Drnovská)	50.08390	14.30984	2	1	0	0
-P18	ulice „Lidická“	50.09296	14.21461	2	0	0	0
-P18		50.09306	14.21461	2	0	0	0
-P19	Jeneč - Unhošť	50.09229	14.18698	6	0	0	0
-P20	Jeneč - Unhošť	50.09476	14.16607	3	0	0	0
-P21	Jeneč - Unhošť	50.09761	14.16178	2	0	0	0
-P22	Jeneč - Unhošť	50.10461	14.13877	4	0	0	0
-P24	U masokombinátu	50.11659	14.11925	3	1	0	0
-P27	Kladno - Kamenné Žehrovice	50.12691	14.08994	1	0	0	0
-P29	u zastávky Kladno - Rozdělov	50.13191	14.06692	1	0	0	0
-P30	Bílé Vršky	50.13293	14.05128	2	0	0	0
-P31	žst. Kamenné Žehrovice	50.14052	14.03449	1	0	0	0
-P35	žst. Stochov	50.14168	13.96072	2	0	1	0
-P37	Stochov - Nové Strašecí	50.13480	13.90636	1	0	0	0
-P40	Nové Strašecí - Řevničov	50.14901	13.83827	1	0	0	0
-P44	Lužná u Rakovníka - Krupá	50.15774	13.74453	2	0	0	0
-P47	Krupá - Hranice OŘ-ST 665/671	50.17107	13.71563	2	0	0	0
-P48	Krupá - Hranice OŘ-ST 665/671	50.20185	13.67136	1	0	0	0
-P50	Hranice OŘ-ST 665/671 - Měcholupy	50.23170	13.59857	1	0	0	0
-P53	Hranice OŘ-ST 665/671 - Měcholupy	50.25351	13.56392	1	0	0	0
-P55	Měcholupy - Trnovany	50.28185	13.55717	1	0	0	0
-P62	žst. Žatec	50.33872	13.54966	2	0	0	0
-P62	ulice Lounská	50.33868	13.54946	2	0	0	0
-P63	Velichov - Hořetice	50.36482	13.54157	2	0	0	0
-P65	Velichov - Hořetice	50.37721	13.50895	1	0	0	0
-P66	žst. Hořetice	50.37998	13.50101	4	1	0	0
-P67	Hořetice - Březno u Chomutova	50.38174	13.48002	1	0	0	0
-P69	Hořetice - Březno u Chomutova	50.39311	13.42834	3	0	0	0
-P74	ul. Pražská	50.38637	13.19189	2	0	0	0
-P78	žst. Ostrov nad Ohří	50.30036	12.95252	5	0	0	0
-P80	Hájek - Dalovice	50.27342	12.91309	1	0	0	0
-P81	Hájek - Dalovice	50.27243	12.91017	1	0	0	0
-P82	žst. Dalovice	50.25678	12.88635	3	1	0	1
-P83	Teplárenská ulice	50.24302	12.87964	3	0	0	0
-P85	Karlovy Vary-Dvory - Chodov-karlovarské zhlaví	50.23516	12.79043	3	0	0	0
-P86	Karlovy Vary-Dvory - Chodov-karlovarské zhlaví	50.22960	12.76726	3	1	1	0
-P89	žst. Dasnice	50.13567	12.56814	1	0	0	0
-P90	žst. Kynšperk n.Ohří	50.12891	12.52171	2	0	0	0
-P94	Nebanice - Tršnice	50.11599	12.47528	1	0	0	0
-P96	Nebanice - Tršnice	50.11684	12.43986	1	0	0	0
-P100	Hradiště	50.09292	12.39604	8	1	0	0
-P105	Tršnice - Nový Drahov	50.14498	12.40190	1	0	0	0
-P113	LB MINERALS Skalná - Velký Luh	50.18671	12.37598	2	0	1	0
-P117	LB MINERALS Skalná - Velký Luh	50.20312	12.37254	1	0	0	0
-P121	Nový Kostel - Luby u Chebu	50.22104	12.42115	1	4	1	0
-P130	žst. Svatava - ZV 5	50.18899	12.62670	2	0	0	0
-P135	Svatava - Oloví	50.24379	12.56534	1	0	0	0
-P137	Oloví - Rotava	50.25896	12.55300	2	0	0	0
-P140	Oloví - Rotava	50.28133	12.54582	2	0	0	0
-P147	Kraslice - Kraslice st.hr.	50.34043	12.49690	1	0	0	0
-P149	Stará Role - Nová Role	50.24730	12.82964	5	0	0	0
-P155	Stará Role - Nová Role	50.26946	12.78288	6	6	1	0
-P156	Stará Role - Nová Role	50.27143	12.77976	4	0	0	0
-P156	SEDLECKÝ KAOLIN Božičany - Nová Role	50.27143	12.77976	4	0	0	0
-P157	Nová Role - Nejdek	50.27497	12.78034	4	0	0	0
-P165	Nová Role - Nejdek	50.30048	12.75299	1	0	0	0
-P166	Nová Role - Nejdek	50.30540	12.75470	1	0	0	0
-P171	žst. Nejdek	50.31963	12.73272	2	0	1	0
-P172	žst. Nejdek	50.31965	12.73078	1	1	0	0
-P173	Nejdek - METALIS	50.32331	12.72582	1	0	0	0
-P177	METALIS - Nové Hamry	50.33210	12.71954	2	1	0	0
-P180	METALIS - Nové Hamry	50.34294	12.71053	1	0	0	0
-P206	Merklín - Hroznětín	50.31331	12.86128	1	1	0	0
-P208	Hroznětín - Sadov	50.30593	12.86904	1	5	0	1
-P255	Chodov-staniční kolejiště - CHODOS	50.23896	12.76171	2	1	0	0
-P260	SEDLECKÝ KAOLIN Božičany - Nová Role	50.26226	12.77938	1	0	0	0
-P261	U závodiště	50.01177	14.38885	5	1	1	0
-P261	U závodiště	50.01177	14.38885	5	1	1	0
-P261	U závodiště	50.01177	14.38885	5	1	1	0
-P262	u okrsku, ul. Na Betonce	49.98402	14.36170	10	1	0	0
-P263	Praha-Radotín - Dobřichovice	49.97496	14.34653	2	0	0	0
-P264	Černošice-velký, ul.Radotínská	49.96043	14.32359	4	0	0	0
-P265	ul. Kazínská, Vrážská	49.95932	14.32342	4	0	2	0
-P267	za zast. Černošice Mokropsy	49.94424	14.32906	2	0	0	0
-P268	Praha-Radotín - Dobřichovice	49.93147	14.30202	4	0	0	0
-P269	ul. Svážná	49.92671	14.28374	1	0	0	1
-P270	u mostu	49.92499	14.27677	10	0	0	0
-P274	Řevnice - Zadní Třebaň	49.91934	14.20927	1	0	0	0
-P275	Zadní Třebaň - Karlštejn	49.93231	14.17978	5	0	0	0
-P276	žst. Karlštejn	49.93121	14.16495	1	0	0	0
-P277	Karlštejn - Beroun-os.n.	49.93329	14.13175	2	1	0	0
-P278	okresní silnice	49.94553	14.04656	2	1	0	0
-P278	u KDC (Cementky)	49.94553	14.04656	2	1	0	0
-P279	okr.silnice na Křižatky	49.93782	14.03014	4	0	0	0
-P286	okr.silnice	49.79159	13.49103	4	1	0	0
-P287	Polní	49.76560	13.22521	1	0	0	0
-P290	okr.silnice III	49.76273	13.03960	1	0	0	0
-P298	okr.silnice	49.89485	12.72269	2	0	0	0
-P299	silnice I tř. č.21	49.89940	12.72661	4	1	1	0
-P301	U nádraží	49.95578	12.69842	1	1	0	0
-P305	okr.silnice	49.99382	12.60985	1	0	0	0
-P308	Lipová u Chebu - Cheb (velenické staničení)	50.04966	12.41152	1	0	0	0
-P318	Vojtanov-ČR - Františkovy Lázně	50.13335	12.33915	7	0	0	0
-P318	Františkovy Lázně - Hazlov	50.13335	12.33915	7	0	0	0
-P326	Hazlov - Aš	50.16990	12.25512	1	0	0	0
-P331	Aš - Aš město	50.21605	12.18764	3	2	0	0
-P333	Aš město - Studánka	50.21967	12.18100	3	2	0	0
-P344	Studánka - Hranice v Čechách	50.27858	12.17547	1	0	0	0
-P349	Mariánské Lázně - Vlkovice	49.95874	12.70521	1	1	0	0
-P366	Teplá - Poutnov	49.97683	12.85814	1	0	0	0
-P379	Krásný Jez - Teplička u Karlových Varů	50.12367	12.84903	1	0	0	0
-P380	Krásný Jez - Teplička u Karlových Varů	50.14880	12.85292	1	2	2	0
-P394	Karlovy Vary-Březová - Karlovy Vary dol.n.	50.22859	12.84984	2	5	0	0
-P405	Loket - Nové Sedlo u Lokte	50.19228	12.74889	7	4	0	0
-P443	mistní u zastávky	49.88472	12.97407	1	0	0	0
-P448	okr.silnice II.tř	49.79490	13.48933	3	3	0	0
-P457	okresní silnice	49.81495	13.55909	1	0	0	0
-P459	okr.silnice	49.81687	13.57132	2	0	0	0
-P473	mistní	49.86002	13.59347	1	0	0	0
-P484	žst. Písek	49.29405	14.14608	3	0	0	0
-P485	Písek - Čížová	49.30191	14.13663	1	0	0	0
-P486	Písek - Čížová	49.31673	14.12935	3	2	0	0
-P488	Dobešický	49.32767	14.10996	3	2	1	3
-P491	U Čížové	49.35578	14.09979	1	0	0	0
-P499	Vráž u Písku - Čimelice	49.41645	14.10826	1	0	0	0
-P502	Vráž u Písku - Čimelice	49.44111	14.09458	1	0	0	0
-P505	Vráž u Písku - Čimelice	49.45995	14.07459	3	0	0	0
-P516	Mirovice - Březnice	49.51339	14.02806	2	0	1	1
-P521	Mirovice - Březnice	49.55699	13.96672	1	0	0	0
-P522	Březnice - Přední Poříčí	49.56081	13.95906	3	6	0	1
-P525	okr.silnice	49.58498	13.97817	7	0	0	0
-P526	okresní silnice	49.58764	13.98505	1	0	0	0
-P527	okresní silnice	49.59501	13.99443	1	0	0	2
-P531	okresní silnice	49.63209	14.02612	2	0	0	0
-P537	okr.silnice	49.69769	14.00147	2	0	0	0
-P539	okr.silnice	49.71434	14.01012	1	0	0	0
-P544	okr.silnice	49.74193	14.00086	6	1	1	2
-P550	obecní cesta	49.77763	14.00042	2	2	0	0
-P551	okr.silnice	49.79340	13.98232	2	0	0	1
-P557	souběh trati 0291, okr.silnice	49.84869	13.97472	1	0	0	0
-P557	souběh trati 0291, okr.silnice	49.84869	13.97472	1	0	0	0
-P558	souběh trati 0291, okr.silnice	49.85363	13.97525	1	0	0	0
-P558	souběh trati 0291, okr.silnice	49.85363	13.97525	1	0	0	0
-P575	okresní silnice III tř.	49.90090	14.16503	1	1	0	0
-P584	okr.silnice	49.85710	14.10043	2	1	0	0
-P592	Hostomice pod Brdy - Neumětely	49.83603	14.02379	2	0	0	0
-P597	okr.silnice	49.85492	13.98474	1	1	0	0
-P598	Domažlická ulice	49.74055	13.34234	2	0	1	0
-P599	Vejprnice-Líně	49.72799	13.27884	2	0	0	0
-P600	Tlučná MK	49.72437	13.24161	1	1	0	0
-P604	Nýřany-Blatnice	49.71281	13.20375	1	0	0	0
-P609	Stod - plz. zhlaví	49.64197	13.15793	1	0	0	0
-P612	Hradec u Stoda	49.63627	13.12311	2	1	0	1
-P615	do průmyslové zóny	49.60741	13.10313	4	0	0	0
-P616	I.tř. č.26 Plzeň-Domažlice	49.59438	13.10076	4	2	0	0
-P618	Staňkov-H.Kamen.	49.55330	13.07832	1	0	0	0
-P619	Staňkov-Krchleby	49.55090	13.07705	1	0	0	0
-P623	Chotiměř-Chotiměř	49.50716	13.01988	1	1	0	0
-P632	Domažlice-Bořice	49.43042	12.96362	1	0	0	0
-P633	Domažlice-Klatovy	49.43091	12.95636	4	0	0	0
-P634	Domažlice-Domažlice MK	49.43699	12.93262	1	0	0	0
-P646	Nýřany	49.71714	13.19077	2	0	0	0
-P647	Nýřany - Kamenný Újezd	49.71728	13.18390	2	1	0	0
-P679	Hor.Týn MK /cesta-pole	49.52303	12.92475	1	0	0	0
-P683	Meclov III.tř 1962	49.51191	12.87885	2	1	0	0
-P686	Zámělič st.sil./zastávka	49.51619	12.83313	1	0	0	1
-P687	zast. Havlovice st.sil. I./26	49.41658	12.87335	5	1	2	0
-P691	Trhanov-Chodov-Pec st.sil.	49.41802	12.84131	2	4	0	0
-P692	Chodov-Trhanov st.sil.	49.41960	12.83986	1	0	0	0
-P695	Klenčí st.sil. II.tř.	49.43827	12.82328	3	2	0	0
-P703	Vlkanov - Ohnišťovice 19522	49.49082	12.81766	1	1	0	0
-P705	Otov-Poběžovice st.sil.	49.50588	12.81548	1	2	0	0
-P706	Hor.Týn-Poběžovice st.sil.	49.51271	12.81743	3	0	0	0
-P715	Svržno-Újezd st.sil.	49.57659	12.76643	2	2	0	0
-P717	Újezd-Bělá st.sil.	49.57913	12.74558	3	3	0	0
-P732	Třemešné - Dubec	49.62804	12.70738	1	0	0	0
-P755	Bor - Tachov II.tř.200	49.72165	12.77876	1	0	0	0
-P766	Částkov II/198 u zast.Pernolec	49.77125	12.67861	2	0	0	0
-P784	Tachov MK	49.80455	12.65061	1	1	0	0
-P792	Holostřevy st.sil. II.tř.	49.72243	12.86927	1	1	0	0
-P799	Skviřín st.sil.	49.71319	12.81357	1	0	0	0
-P808	Pocínovice - Běhařov státní s	49.34367	13.13761	1	0	0	0
-P834	Zelená Lhota u žst.-Prenet	49.25082	13.17802	1	0	0	0
-P845	Janovice-Běhařov st.sil.	49.34956	13.20046	2	0	0	0
-P845	Janovice-Běhařov st.sil.	49.34956	13.20046	2	0	0	0
-P847	Rohozno st.sil.	49.37428	13.22699	3	0	0	0
-P850	Klatovy-Domažlice st.s.č.22	49.39165	13.25309	2	0	0	0
-P866	Borovy st.sil. II.tř. č.182	49.52661	13.29917	1	0	0	0
-P870	Přeštice-Cihelna	49.57899	13.32124	2	0	0	0
-P872	Přeštice Zastávka	49.60061	13.29913	3	0	0	4
-P875	Keramička st.sil. III.tř.	49.62349	13.29265	1	0	0	0
-P880	Šlovice st.sil. III.tř.	49.67648	13.31988	1	0	0	0
-P881	Šlovice - pole/domek	49.68278	13.32503	1	0	0	0
-P884	Samaritská ulice	49.72879	13.38093	1	0	0	0
-P886	Přechod zastávka Plzeň	49.73778	13.37417	1	0	0	0
-P899	Sušice - Hrádek , Žichovice	49.24631	13.53901	4	0	0	0
-P902	Hrádek u S. - Sušice	49.25771	13.49881	2	0	0	0
-P913	Malonice pole-Jindřichovice po	49.29281	13.38896	1	0	0	0
-P916	Malonice - Jindřichovice	49.29700	13.37389	3	0	0	0
-P921	Nemilkov - Běšiny II.tř.	49.28312	13.34600	3	0	0	0
-P930	st.sil. III.tř.	49.30738	13.30019	1	0	0	0
-P936	Luby - pole	49.36097	13.30257	1	0	0	0
-P938	Luby - Sobětice	49.37457	13.30463	1	0	0	1
-P941	Klatovy - zahrádky - Vodárny	49.39118	13.28589	2	4	1	0
-P943	ČZ	49.25340	13.91043	1	0	0	0
-P944	u ČZ	49.25014	13.91112	1	1	0	0
-P947	K silu	49.23532	13.90891	2	0	0	0
-P948	Strakonice - Strunkovice nad Volyňkou	49.23205	13.90171	1	0	0	0
-P960	Strunkovice nad Volyňkou - Volyně	49.17371	13.89392	1	0	0	1
-P965	MOTOTECHNA Volyně - Čkyně	49.14992	13.90593	2	1	0	1
-P984	Hradčanský	49.11041	13.83508	4	0	0	1
-P989	Čkyně - Bohumilice v Čechách	49.09380	13.80731	1	1	0	0
-P1002	Vimperk - BRLOH	49.04858	13.76342	1	1	0	0
-P1032	Lenora - Volary	48.92299	13.79794	1	0	0	0
-P1034	Hlavní lenorský	48.92222	13.81088	1	0	0	0
-P1047	ulice Ottova	50.10036	13.72576	5	0	0	0
-P1047	ulice Ottova	50.10036	13.72576	5	0	0	0
-P1048	Rakovník - Rakona	50.10108	13.71911	1	0	0	0
-P1048	"""k ZZN"""	50.10110	13.71920	1	0	0	0
-P1052	KERAMO, ATESO - Senomaty	50.09646	13.65502	1	1	0	0
-P1056	Senomaty - Pšovlky	50.09302	13.63368	1	0	0	0
-P1059	Pšovlky - Oráčov	50.10530	13.59583	1	0	0	0
-P1074	Jesenice - Blatno u Jesenice	50.09044	13.43451	1	0	0	0
-P1081	Buděš.ul./Vít.Nováka	48.95437	14.47236	2	0	0	1
-P1082	Pařízka ul.(Plavská sil.)již.z	48.95937	14.47589	1	1	1	0
-P1084	"Mladé \""C\""-Novohradská ul."	48.96098	14.48901	1	1	0	0
-P1084	"""V Mladém"""	48.96101	14.48899	1	1	0	0
-P1085	"\""Novohradská silnice\"""	48.77547	14.93506	5	2	1	0
-P1086	"\""Fišerky\"" ,u Nakolického ryb."	48.79165	14.89130	1	0	0	0
-P1106	zastávka Hluboká u Borovan	48.89621	14.67535	2	0	1	0
-P1107	Jílovice - Borovany	48.89786	14.65761	1	1	0	0
-P1114	"\""u hnoje\"""	48.92738	14.55254	1	1	0	0
-P1118	Nová Ves u Č.Budějovic - Č.Budějovice-stav.1	48.92501	14.51816	1	0	1	0
-P1122	"\""Vidovský\"""	48.94560	14.50260	1	0	0	0
-P1123	Říční/Ke studánce,zast.N.Hoděj	48.95137	14.49906	2	2	0	0
-P1125	"\""A\"" Sfinx"	48.98057	14.48657	3	1	0	0
-P1126	"\""B\""u Křížku"	48.98215	14.48572	1	0	0	0
-P1128	"\""A\"" Motor"	48.99835	14.47780	1	1	0	0
-P1128		48.99835	14.47780	1	1	0	0
-P1129	"\""B\""mezi výh.1,2,3 -Nemanic.ul."	49.00329	14.47749	2	0	0	0
-P1130	"\""F\"" Sokolovna"	49.00883	14.47699	2	0	1	2
-P1133	Bezdrevský	49.03804	14.40895	3	5	0	0
-P1139	Dívčice hlavní	49.10387	14.30360	1	0	0	0
-P1139		49.10392	14.30374	1	0	0	0
-P1140	Dubenecký 1	49.11395	14.29357	1	0	0	0
-P1144	Hlavní	49.15061	14.22280	1	0	0	0
-P1148	U zastávky	49.19675	14.22258	4	3	0	1
-P1149	Ke hřbitovu	49.19927	14.22253	2	2	0	1
-P1150	U Protivína	49.21562	14.20345	6	0	0	0
-P1158	Na vysoké	49.24991	14.08180	1	0	2	0
-P1164	K cihelně	49.25111	14.01937	1	0	0	0
-P1166	Sedlíkovický	49.25447	13.99242	3	1	0	0
-P1173	Na Poříčí	49.28885	13.80076	2	1	1	0
-P1178	U zastávky Velký Bor	49.34594	13.70017	8	0	0	0
-P1180	Kovčín - Nekvasovy	49.41940	13.60931	2	0	1	1
-P1183	U stavědla č.2	49.50061	13.60799	1	0	0	0
-P1184	U zastávky Srby	49.52435	13.59183	2	0	0	0
-P1190	Blovice U SILA	49.57183	13.53642	2	0	1	0
-P1191	státní u stavědla č. 1	49.57844	13.53153	3	1	0	0
-P1200	státní silnice	49.67140	13.50161	1	0	0	0
-P1207	U stavebnin Šabata	49.73608	13.60202	3	2	0	0
-P1208	U zastávky Rokycany předměstí	49.73141	13.60357	7	0	0	0
-P1211	U zastávky Kamenný Újezd u R.	49.72235	13.61757	1	0	0	0
-P1217	U zahradníka - Na ovčíně	49.71436	13.65198	1	0	0	0
-P1227	u vlečky STELL Rosso	49.68401	13.66181	1	0	0	0
-P1229	Příkosice - na Štitov	49.66826	13.66562	1	0	0	0
-P1232	před nádražím	49.66344	13.65535	1	0	0	0
-P1243	státní u zastávky Lipnice	49.64493	13.60941	1	0	0	0
-P1251	Lipnice - Nezvěstice	49.66037	13.55499	2	0	0	0
-P1282	Kasejovice - Kotouň	49.46116	13.73286	1	0	0	0
-P1309	Stará hudčická zastávka	49.53656	13.93601	3	0	0	1
-P1313	Koupský vršek	49.52852	13.91777	3	0	0	0
-P1324	Bělčice pod višňovkou	49.49707	13.88479	1	0	0	0
-P1339	Bezdědovice	49.44485	13.87600	1	0	0	0
-P1345	Směr Hajany	49.43195	13.87439	2	1	0	0
-P1347	U školy	49.42707	13.86762	4	1	0	0
-P1352	Zabořský	49.41334	13.87239	1	0	0	0
-P1356	Mačkov	49.40169	13.88557	1	0	0	0
-P1360	Němčice	49.39409	13.91635	1	0	0	0
-P1367	Písek státní	49.36936	13.95461	1	0	0	0
-P1370	Milava	49.35689	13.95518	1	0	0	0
-P1383	Radomyšl	49.32004	13.94773	2	0	0	0
-P1387	Domanice hlavní	49.30685	13.92330	1	1	0	0
-P1397	Řepice VÚD	49.27849	13.91376	2	0	0	0
-P1398	Elektrárna	49.27159	13.92229	1	0	0	0
-P1419	Stožický	49.14405	14.17262	3	1	0	0
-P1422	Pod Pražákem	49.14686	14.14582	3	1	0	1
-P1456	Žernovický	49.01242	14.00651	1	0	0	0
-P1456		49.01242	14.00655	1	0	0	0
-P1461	U Maršana	48.98917	14.02407	1	0	0	0
-P1467	Chroboly - Zbytiny	48.95082	14.05587	1	0	0	1
-P1492	Na Lipno	48.90803	13.88760	1	0	0	0
-P1493	U Harvalíka	48.90264	13.87415	1	0	0	0
-P1493	U Harvalíka	48.90264	13.87415	1	0	0	0
-P1496	Pod Křížem	48.86216	13.86474	1	0	0	0
-P1527	Temelín hlavní	49.19500	14.34337	1	0	0	0
-P1527		49.19527	14.34321	1	0	0	0
-P1530	Do Bohunic	49.19873	14.38004	1	1	0	0
-P1539	Bohunický	49.21968	14.39847	1	0	0	0
-P1540	Cihelňácký	49.21729	14.40966	1	3	0	0
-P1558	U cihelny	49.05681	14.20329	2	0	0	0
-P1563	U zahrad	48.94418	14.47002	2	0	1	1
-P1564	K samotám	48.93487	14.46420	4	2	0	0
-P1566	Boršov	48.92631	14.44262	1	1	0	0
-P1576	Vrábče	48.91683	14.35691	2	0	0	0
-P1577	U plynu	48.91504	14.35520	1	1	0	0
-P1583	Švanďák	48.89748	14.32163	1	1	0	0
-P1584	Holubov	48.89298	14.32517	2	0	0	0
-P1587	Třísov hlavní	48.88634	14.34236	2	1	0	0
-P1589	zast. Třísov	48.88358	14.34832	1	0	0	0
-P1594	Zlatá Koruna	48.85194	14.35350	1	0	0	0
-P1597	Srnín	48.84088	14.34375	1	0	0	0
-P1603	Český Krumlov	48.82217	14.31528	1	0	0	0
-P1605	U statku	48.81933	14.29032	1	0	0	0
-P1638	Na Karláku	48.75072	14.05348	1	1	1	2
-P1648	Nová Pec	48.78991	13.95067	1	0	0	0
-P1648		48.78972	13.95056	1	0	0	0
-P1657	U prostřední boudy	48.82747	13.93380	1	1	0	0
-P1660	Polní	48.84157	13.92511	1	0	0	0
-P1671	do závodu Orlík - Škoda JE	49.80275	13.39493	2	2	0	0
-P1673	Revoluční ul.	49.81092	13.40133	1	0	0	1
-P1675	st.silnice	49.81963	13.39245	1	0	0	0
-P1677	okr.silnice	49.85043	13.37944	1	0	0	0
-P1678	okr.silnice	49.87116	13.40322	1	0	0	0
-P1679	st.silnice I./27	49.87283	13.38793	6	2	1	1
-P1681	statní silnice	49.89405	13.37892	3	0	0	0
-P1684	polní	49.98808	13.36856	1	0	0	0
-P1697	okr.silnice	50.09367	13.39292	1	0	1	0
-P1702	Petrohrad - Kryry	50.14112	13.43108	1	0	0	0
-P1703	Kryry - Vroutek	50.16447	13.39938	2	1	0	0
-P1705	Kryry - Vroutek	50.17956	13.37680	1	0	0	0
-P1706	žst. Vroutek	50.18223	13.37631	1	0	0	0
-P1710	Podbořany - Kaštice	50.22583	13.40643	2	1	0	0
-P1711	Podbořany - Kaštice	50.23184	13.40671	1	0	0	0
-P1712	Podbořany - Kaštice	50.23391	13.40846	1	0	0	0
-P1714	žst. Kaštice	50.26023	13.41810	3	10	3	0
-P1721	Žabokliky	50.33197	13.46740	2	8	0	0
-P1722	Ovčín (poč. náprav)	50.33189	13.50176	1	0	0	0
-P1724	Žabokliky - Žatec západ	50.33521	13.52563	3	0	1	1
-P1725	Žatec západ - Žatec	50.33839	13.54825	1	0	0	0
-P1729	Rakona - Lubná	50.08108	13.69483	2	0	0	0
-P1740	Zavidov - Čistá	50.05552	13.62816	1	0	0	0
-P1757	Čistá - Kralovice u Rakovníka	49.98969	13.49229	1	0	0	0
-P1758	dD3 Kralovice u Rakovníka	49.98831	13.48838	1	0	0	0
-P1778	Blatno u Jesenice - Lubenec	50.11102	13.38479	1	0	0	0
-P1799	Lubenec - Chyše	50.11185	13.24984	1	0	0	0
-P1890	Pětipsy - Poláky	50.32359	13.34605	1	0	0	0
-P1917	Bažantnice - Březno u Postoloprt	50.35269	13.72003	1	0	0	0
-P1921	Louny předměstí-stav.I - Louny město	50.34871	13.78275	1	0	0	0
-P1923	Louny město - Louny	50.35344	13.80542	4	0	0	0
-P1924	Louny město - Louny	50.35761	13.81011	2	0	0	0
-P1927	Žatec - Lišany u Žatce	50.34501	13.63980	1	1	0	0
-P1931	žst. Počerady	50.41806	13.68568	2	0	0	0
-P1936	žst. Ústí n.L.záp.-průmyslová kol. - kol. mezi výh.č.1S,1V,1F,1J,1C	50.65641	14.00331	1	0	0	0
-P1940	lokodepo	50.65605	14.01207	1	0	0	0
-P1941	Bohosudov	50.67229	13.87453	1	0	0	0
-P1944	Proboštov	50.66169	13.83879	1	0	0	0
-P1945	Zemská-Ditmar	50.65831	13.83542	3	1	0	0
-P1946	Teplice E.Dvořákové u Knotka	50.65589	13.83410	1	0	0	0
-P1947	Teplice v Čechách - Řetenice	50.64236	13.81333	6	0	0	0
-P1948	Krušnoh. strojírny	50.64262	13.79285	1	0	0	0
-P1948		51.07360	14.32437	1	0	0	0
-P1961	Dolní Rybník - Chomutov město	50.47448	13.42595	1	0	0	2
-P1963	Chomutov-os.n. - Černovice u Chomutova	50.46228	13.40377	6	2	1	0
-P1967	dD3 Černovice u Chomutova	50.45710	13.36476	1	0	0	0
-P1972	Křímov	50.48732	13.29059	2	0	0	0
-P1983	KAMENOLOM Č.Hamry - Vejprty	50.49028	13.03338	1	0	0	0
-P1986	Háj zast.	50.61923	13.72507	1	0	0	0
-P1986	Hájský přejezd	50.61927	13.72511	1	0	0	0
-P1987	Osek - Louka u Litvínova	50.59920	13.67769	7	3	0	0
-P1994	Dolní Rybník - Jirkov	50.48450	13.44199	3	0	1	0
-P1995	Dolní Rybník - Jirkov	50.48506	13.44259	4	2	2	0
-P2004	spojka hl.-záp.	50.76959	14.19831	1	0	0	0
-P2048	Novosedlice zast.	50.65904	13.82050	1	0	0	0
-P2052	Úpořiny - Žalany	50.59183	13.88122	1	0	0	0
-P2059	u vč. 1	50.58876	13.96211	3	0	0	0
-P2063	U ŽST	50.58189	14.00129	1	0	0	0
-P2070	M.Žernoseky	50.53407	14.04730	1	0	0	0
-P2071	Chotiměř - Lovosice	50.52495	14.04586	1	0	0	0
-P2076	na Miladu	50.64612	13.98117	1	0	0	0
-P2077	u Lihovaru	50.64108	13.98385	3	2	0	0
-P2079	Ústí nad Labem západ-Trmice - Řehlovice	50.61639	13.96884	3	1	0	0
-P2080	Řehlovice - Úpořiny	50.60867	13.93737	1	0	1	0
-P2085	žst. Úpořiny	50.61155	13.88207	2	0	0	0
-P2085	U OSPAPU	50.61155	13.88207	2	0	0	0
-P2086	Úpořiny - Ohníč	50.60546	13.85870	1	0	0	0
-P2091	Řetenice - Teplice zámecká zahrada	50.64216	13.79261	2	0	0	0
-P2093	Duchcovský	50.63697	13.79548	1	0	0	0
-P2094	Řetenice - Teplice zámecká zahrada	50.63435	13.80234	2	0	0	0
-P2095	Teplice zámecká zahrada - Bystřany v Čechách	50.63258	13.81860	2	0	1	0
-P2096	Teplice zámecká zahrada - Bystřany v Čechách	50.63151	13.82236	1	0	1	0
-P2098	Bystřany v Čechách - Úpořiny	50.62118	13.87032	1	0	0	0
-P2099	Bystřany v Čechách - Úpořiny	50.61242	13.88346	2	0	0	0
-P2102	Kralupy nad Vltavou předměstí - Velká Bučina	50.23608	14.26951	1	0	0	0
-P2104	Kralupy nad Vltavou předměstí - Velká Bučina	50.23838	14.26301	2	0	0	0
-P2105	Kralupy nad Vltavou předměstí - Velká Bučina	50.24528	14.25493	1	0	0	0
-P2106	Kralupy nad Vltavou předměstí - Velká Bučina	50.24762	14.25356	3	1	0	0
-P2113	U Kréty	50.23186	14.29124	1	0	0	0
-P2116	Kralupy nad Vltavou předměstí - Olovnice	50.23242	14.25474	1	0	0	0
-P2119	Olovnice - Zvoleněves	50.23504	14.24109	1	0	0	0
-P2124	Olovnice - Zvoleněves	50.23928	14.20572	1	1	0	1
-P2126	žst. Zvoleněves	50.23420	14.19010	1	0	0	0
-P2129	ulice Pražská	50.22659	14.10357	1	0	0	0
-P2133	žst. Slaný	50.23121	14.07734	1	1	0	0
-P2134	Slaný - Zlonice	50.23403	14.07786	2	0	0	0
-P2137	Slaný - Zlonice	50.27120	14.07458	1	0	0	0
-P2140	Zlonice - Klobuky v Čechách	50.29177	14.02313	1	1	2	0
-P2154	Louny - Lenešice	50.37484	13.78968	3	0	0	0
-P2158	Lenešice - Břvany	50.39818	13.71890	5	2	4	0
-P2161	Břvany - Bečov u Mostu	50.41775	13.72294	1	0	0	0
-P2164	Bečov u Mostu - Obrnice	50.46460	13.71378	1	0	0	0
-P2165	Obrnice - Most	50.50628	13.69311	1	0	0	0
-P2166	Most nové nádraží - Most-Herkules seř.n.	50.56417	13.62344	2	0	0	0
-P2169	Lom zast.	50.59822	13.65163	1	0	0	0
-P2187	Dubí - Mikulov-Nové Město	50.70221	13.70212	1	0	1	0
-P2192	ul. Výmolova, ke hřbitovu	50.05607	14.39342	2	0	1	0
-P2197	Na Radosti	50.06092	14.30409	1	1	0	0
-P2199	ul. ŽalanskéhoXStrojírenská	50.06702	14.29013	3	0	0	0
-P2200	ke hřbitovu	50.06743	14.28529	1	0	2	1
-P2202	Beroun-Závodí - Vráž u Berouna	49.96880	14.08167	1	2	0	0
-P2203	Beroun-Závodí - Vráž u Berouna	49.97008	14.08202	2	1	0	0
-P2207	žst. Vráž u Berouna	49.98487	14.12566	1	0	0	0
-P2214	Loděnice - Nučice-odb. KND	50.00817	14.19605	1	0	0	0
-P2218	Nučice - Ing. Fr. Hustoles	50.02511	14.22922	2	0	0	0
-P2219	Nučice - Ing. Fr. Hustoles	50.03097	14.23293	1	0	0	0
-P2222	ul. Slivenecká	50.04077	14.39371	1	0	0	0
-P2224	žst. Praha-Řeporyje	50.03196	14.31081	1	0	0	0
-P2225	hranice k.ú. Řeporyje-Zbuzany	50.02957	14.29500	1	0	1	0
-P2229	Praha-Řeporyje - Rudná u Prahy	50.03191	14.25845	6	1	1	2
-P2230	Praha-Řeporyje - Rudná u Prahy	50.03976	14.24720	2	0	0	0
-P2232	Rudná u Prahy - Hostivice-Litovice	50.04651	14.22618	1	0	0	0
-P2236	Rudná u Prahy - Hostivice-Litovice	50.06896	14.22234	2	0	0	0
-P2248	Ulice „Nádražní“	50.12270	14.25337	1	1	0	0
-P2248		50.12271	14.25338	1	1	0	0
-P2250	Středokluky - FM ČESKÁ Tuchoměřice	50.13651	14.26863	1	1	0	0
-P2254	Noutonice - Podlešín	50.18221	14.24712	1	0	0	0
-P2261	Noutonice - Podlešín	50.20663	14.19585	1	0	0	0
-P2262	Noutonice - Podlešín	50.20821	14.18868	1	0	0	0
-P2266	Za okrskem	50.50946	14.04746	2	0	0	0
-P2267	LABENA Sulejovice - Čížkovice	50.49980	14.03681	1	0	0	0
-P2273	u zast. Úpohlavy	50.46521	14.03781	3	1	0	0
-P2278	Chotěšov	50.44286	14.07085	2	4	0	0
-P2284	Veltěže	50.35841	13.85861	2	1	0	0
-P2295	Louny - Koštice n. Ohří	50.38392	13.94173	1	0	0	0
-P2299	Koštice nad Ohří - Libochovice	50.40093	13.95566	1	0	0	0
-P2307	Koštice nad Ohří - Libochovice	50.40769	14.03809	3	0	0	0
-P2309	Koštice nad Ohří - Libochovice	50.40780	14.04629	5	1	1	0
-P2315	okresní silnice	49.97964	14.07521	2	0	0	0
-P2317	Ulice Berounská	49.98882	14.05477	1	0	0	0
-P2318	Beroun-Závodí - Hýskov	49.98830	14.04863	1	1	0	0
-P2319	Hýskov - Nižbor	49.99084	14.03556	6	3	0	0
-P2320	Hýskov - Nižbor	50.00255	14.00281	1	0	0	0
-P2330	Rakovník - TOS Rakovník	50.10155	13.72023	4	6	0	1
-P2331	VÚ 1859 Rakovník - Chrášťany	50.10988	13.68838	1	0	0	0
-P2332	Kněževes	50.12917	13.66376	3	0	0	0
-P2335	Hořesedly	50.16733	13.64243	5	1	0	0
-P2348	Domoušice - Hřivice	50.23070	13.71305	1	0	0	0
-P2355	Hřivice - Louny předměstí	50.32157	13.74641	1	1	0	0
-P2357	Hřivice - Louny předměstí	50.32715	13.75135	2	2	1	0
-P2359	Čížkovice - Třebenice	50.47903	14.03453	1	0	0	0
-P2381	Třebívlice - Libčeves	50.44443	13.85528	1	0	0	0
-P2394	u Barev a Laků	50.23773	14.30654	4	0	0	0
-P2397	k zahrádkám	50.16778	14.36385	1	0	0	0
-P2403	Vraňany - Dolní Beřkovice	50.34257	14.38293	3	2	0	1
-P2405	Vraňany - Dolní Beřkovice	50.36611	14.41837	4	5	3	0
-P2409	Dolní Beřkovice - Hněvice	50.42277	14.38636	1	0	0	0
-P2409	Hněvice - ČEZ-EMĚ (vl. ČEZ)	50.42277	14.38636	1	0	0	0
-P2416	Oleško	50.47775	14.19417	3	0	0	0
-P2417	Nové Kopisty	50.49745	14.11938	2	0	0	0
-P2418	Prosmyky	50.49969	14.10845	1	0	0	0
-P2420	Lovosice - Prackovice nad Labem	50.52142	14.04519	2	1	0	0
-P2422	Prackovice nad Labem - Ústí nad Labem jih	50.58375	14.03083	2	0	0	0
-P2423	U Kotvy	50.62554	14.05419	2	0	0	0
-P2424	vlečka LUNA	50.63981	14.04573	3	1	0	0
-P2425	SCVK	50.64270	14.04436	1	0	0	0
-P2426	modernizace-není konstrukce	50.66902	14.10321	3	0	0	0
-P2431	Povrly - Děčín hl.n.	50.67498	14.16411	1	0	0	0
-P2435	k celnímu skladu z ul. Práce	50.76885	14.20022	2	0	0	0
-P2437	k.u. Podmokly	50.78498	14.20930	3	0	0	0
-P2439	BETONIKA, RAF Lužec n.Vlt. - Lužec nad Vltavou	50.32626	14.39664	3	1	0	0
-P2440	BETONIKA, RAF Lužec n.Vlt. - Lužec nad Vltavou	50.32384	14.40034	1	0	0	0
-P2446	Kladno-Ostrovec - Kladno-Dubí	50.14918	14.09150	1	0	0	0
-P2447	ul. Kratochvílova	50.15060	14.09204	3	0	1	0
-P2448	Kladno-Ostrovec - Kladno-Dubí	50.15821	14.10826	3	1	0	0
-P2449	ul. Na Cikánce	50.16141	14.11475	3	0	0	0
-P2451	Vrapický, směr Cvrčovice	50.16576	14.15090	1	0	0	0
-P2466	Otvovice - Kralupy nad Vltavou	50.22506	14.29776	1	0	0	0
-P2469	na teplické	50.25059	14.35586	4	0	0	0
-P2471	U cukrovaru	50.25626	14.38062	2	0	0	0
-P2473	šikmý Netřebský	50.26073	14.42792	1	0	1	0
-P2474	Chlumínský	50.26773	14.45813	1	0	0	0
-P2478	na Staré štaci	50.26744	14.49588	1	0	0	0
-P2488	Blikače	50.40598	14.13391	1	0	0	0
-P2510	U sila	50.36080	14.23481	1	0	0	0
-P2515	Vodochody	50.35994	14.26352	1	0	0	0
-P2537	Meva-Procházka	50.42904	14.28690	3	3	0	0
-P2542	ul. Švermova	50.42173	14.27040	3	1	0	0
-P2553	Roudnice nad Labem - Straškov-odbočka	50.36675	14.26537	1	0	0	0
-P2554	Vodochody	50.36058	14.26304	1	0	0	0
-P2564	Straškov - Kmetiněves	50.30318	14.16970	1	0	1	1
-P2573	Kmetiněves - INTERIER Zlonice	50.28285	14.09521	1	0	0	0
-P2575	INTERIER Zlonice - Zlonice	50.28330	14.08794	1	0	0	0
-P2578	Březiny	50.76088	14.24502	2	0	0	0
-P2581	Děčín východ-horní nádraží - Benešov nad Ploučnicí	50.75884	14.25338	1	0	0	0
-P2600	Markvartice - Česká Kamenice	50.78641	14.34278	3	0	0	0
-P2604	Markvartice - Česká Kamenice	50.79181	14.38657	2	0	0	0
-P2634	ul. Českolipská	50.72949	14.31489	2	1	0	0
-P2637	zast. Starý Šachov	50.72106	14.37621	1	0	0	0
-P2641	před žst. Horní Police	50.70966	14.39190	3	1	0	0
-P2642	žst. Horní Police	50.70587	14.40357	3	0	0	0
-P2643	Horní Police - Stružnice	50.70543	14.41427	1	0	0	0
-P2653	Hornopočernická	50.12691	14.55748	1	0	0	0
-P2655	Jilemnická	50.13963	14.55146	2	1	0	0
-P2656	Semilská	50.14128	14.54685	3	0	0	0
-P2658	Cukrovarská	50.15098	14.51535	4	0	0	0
-P2659	do Calofrigu	50.15225	14.51345	1	1	0	0
-P2660	u Teplárny Třeboradice	50.16912	14.52179	2	0	0	0
-P2662	Praha-Čakovice - Měšice u Prahy	50.19367	14.51865	4	0	0	0
-P2663	Praha-Čakovice - Měšice u Prahy	50.19666	14.51519	1	0	0	0
-P2669	žst. Neratovice - (kralupské zhlaví)	50.26407	14.51020	1	0	0	1
-P2670	hlavní Neratovický na Mělnické	50.26325	14.51275	5	0	0	0
-P2671	do Spolany Neratovice	50.26201	14.52392	1	0	0	0
-P2673	Neratovice - Všetaty	50.26630	14.55433	1	0	0	0
-P2675	žst. Všetaty-pražsko-turnovská část	50.28370	14.58645	5	0	0	0
-P2677	Všetaty - Byšice	50.30316	14.59418	1	0	0	0
-P2678	žst. Byšice	50.30618	14.61154	1	0	0	0
-P2685	Byšice - Kropáčova Vrutice	50.32379	14.69355	1	0	0	0
-P2686	žst. Kropáčova Vrutice	50.32222	14.70754	1	0	0	0
-P2688	Kropáčova Vrutice - Chotětov	50.31994	14.71565	2	0	0	0
-P2690	Kropáčova Vrutice - Chotětov	50.31447	14.74903	1	0	1	0
-P2692	Kropáčova Vrutice - Chotětov	50.33028	14.80530	2	0	2	1
-P2693	žst. Chotětov	50.33746	14.80834	3	0	0	0
-P2695	Chotětov - Mladá Boleslav hl.n.	50.37653	14.86910	3	1	0	0
-P2697	žst. Mladá Boleslav hl.n.	50.40709	14.89123	2	0	0	0
-P2699	U Putny	50.43522	14.89045	1	0	0	0
-P2703	ulice 5. května	50.47739	14.93486	1	0	0	2
-P2704	ul.Boleslavská,kdysi R.armády	50.47869	14.93863	2	0	0	0
-P2706	na býv.st.sil.do MB,ul.5.května	50.49105	14.96288	3	2	0	0
-P2709	ul.Jiráskova, hl.přejezd v MH	50.51987	14.98160	1	0	0	0
-P2709	Jiráskova	50.51977	14.98155	1	0	0	0
-P2715	na býv. st. silnici ve Březině	50.54586	15.03669	1	0	0	0
-P2717	druhý přejezd před Loukovem	50.55355	15.04923	2	0	0	0
-P2720	směr firma GIGA, s. r. o.	50.57672	15.07057	4	0	1	0
-P2723	přejezd v Přepeřích	50.58799	15.11406	2	0	0	0
-P2725	Čelákovický	50.15331	14.75071	1	0	0	0
-P2726	Brandýský v centru	50.18296	14.65749	9	0	0	0
-P2729	Brandýský šikmý u sadu	50.18783	14.64153	3	4	0	0
-P2731	Čelákovice - Lázně Toušeň	50.16509	14.71541	1	0	0	0
-P2739	Toušeňský (směr Zápy)	50.17387	14.69766	1	1	0	0
-P2745	obecní cesta	50.18342	14.66823	1	0	0	0
-P2752	Jiřický směr Nová Ves	50.22740	14.55262	2	4	0	0
-P2753	Jiřický směr Čakovičky	50.23306	14.54738	1	0	0	0
-P2755	Jiřice - Neratovice	50.24149	14.54382	1	0	0	0
-P2759	U zast. Lobkovice	50.25070	14.53103	1	0	0	0
-P2761	Jiřice - Neratovice	50.25270	14.52723	1	0	0	0
-P2762	Jiřice - Neratovice	50.25613	14.52149	2	0	0	1
-P2767	žst. Čelákovice - (mochovská kol.)	50.15283	14.75083	1	0	0	0
-P2772	Kovona	50.19681	14.83160	1	0	0	0
-P2773	Lysá nad Labem - Stará Boleslav	50.19731	14.82723	1	0	0	0
-P2776	Lysá nad Labem - Stará Boleslav	50.20437	14.76487	1	0	0	1
-P2778	Lysá nad Labem - Stará Boleslav	50.20598	14.73838	2	2	1	0
-P2779	Lysá nad Labem - Stará Boleslav	50.20566	14.70717	4	0	0	0
-P2782	žst. Dřísy	50.24135	14.63691	1	0	0	0
-P2783	Dřísy - Všetaty	50.25366	14.61439	3	0	0	0
-P2784	Dřísy - Všetaty	50.26589	14.58815	1	0	0	0
-P2787	žst. Veleliby	50.21253	15.02462	1	1	0	0
-P2789	Veleliby - Cachovice	50.23757	14.99377	2	1	0	1
-P2792	Cachovice - Luštěnice	50.28501	14.94687	1	0	0	0
-P2796	Cachovice - Luštěnice	50.30933	14.95160	2	0	1	0
-P2797	žst. Luštěnice	50.32069	14.94488	1	0	0	0
-P2800	Luštěnice - Dobrovice	50.35305	14.94314	4	0	0	0
-P2803	Dobrovice - Mladá Boleslav hl.n.	50.36624	14.92326	1	0	0	0
-P2804	Dobrovice - Mladá Boleslav hl.n.	50.37406	14.91138	2	3	2	1
-P2805	Dobrovice - Mladá Boleslav hl.n.	50.38330	14.89428	2	3	1	3
-P2806	Neuberk	50.39889	14.87887	3	1	0	0
-P2808	Pod strání, do ul.Stříb.kopec	50.78423	15.01811	1	0	0	1
-P2810	ulice Tolstého	50.78788	14.99190	2	0	0	0
-P2813	Liberec - Chrastava	50.80055	14.95842	2	1	0	1
-P2815	Chrastava - Hrádek nad Nisou	50.82542	14.89593	1	0	0	0
-P2816	Liberecká ulice	50.85368	14.84896	1	0	0	0
-P2819	Neumannova ulice, z. Stráž n/N	50.78926	15.02661	2	2	1	0
-P2823	Liberec - Mníšek u Liberce	50.81172	15.04020	2	0	0	0
-P2828	u hřbitova, ul. Fojtecká	50.82914	15.05899	1	0	0	1
-P2832	zast. Oldřichov v Hájích	50.85573	15.09189	1	0	0	0
-P2842	hl. přejezd, Žitavská ul.	50.91969	15.06824	4	1	0	0
-P2847	u mostu na Poustku	50.95556	15.02817	1	0	0	0
-P2848	u skály za Minkovicemi	50.95583	15.02783	1	0	0	2
-P2850	u smeťáku	50.96431	15.02706	2	0	0	0
-P2851	u Jelínka	50.96681	15.02782	1	1	0	0
-P2852	u školy, před žst. Višňová	50.96985	15.02861	2	1	0	0
-P2853	na konci žst. Višňová	50.97641	15.02817	2	2	0	0
-P2877	ul. Jiráskova	50.92536	15.06928	1	0	0	0
-P2878	ul. Fr. Palackého	50.92553	15.07087	2	0	0	0
-P2883	ul. Pod rozhlednou	50.92735	15.07860	1	0	0	0
-P2888	před z. Krásný Les-bažantnice	50.93087	15.10853	1	0	0	0
-P2891	Frýdlant v Čechách předměstí - Řasnice	50.93405	15.12536	1	0	0	0
-P2899	na z. Řasnice zastávka	50.93932	15.16347	2	0	0	0
-P2909	Nové Město pod Smrkem - HANS WOLF	50.93261	15.21438	2	0	0	0
-P2922	Lysá nad Labem - Milovice	50.19823	14.85528	1	0	0	0
-P2923	U Výzkumáku	50.20029	14.85760	2	0	0	0
-P2928	Všetaty - Mělník	50.29298	14.58363	2	0	0	0
-P2931	Mikov	50.31893	14.54691	2	0	1	0
-P2933	Skuhrov	50.34123	14.51186	1	0	0	0
-P2936	ul.Kokořínská	50.35120	14.49523	2	0	1	0
-P2937	U stavidla (Jatka)	50.35749	14.48550	3	0	0	0
-P2939	7 zlodějů	50.36902	14.47267	2	0	0	3
-P2940	Na ráji	50.37207	14.47023	1	0	0	0
-P2941	Mlazice	50.37552	14.46756	1	0	0	0
-P2942	Kamenný šraňk	50.38024	14.46532	3	0	0	1
-P2944	Vehlovice	50.38738	14.46288	1	1	0	0
-P2947	u podniku Sport (Stračí)	50.45019	14.39770	1	0	0	0
-P2948	u žst. Štětí (Radouň)	50.45917	14.39155	7	0	0	0
-P2950	Hoštka z náměstí (Malešov)	50.49044	14.33578	1	0	0	0
-P2954	Montažni základna	50.50998	14.27161	2	0	0	0
-P2954		50.50969	14.27172	2	0	0	0
-P2957	ústav Křešice	50.52328	14.23226	3	0	0	0
-P2958	U zastávky Křešice	50.52627	14.21634	1	0	0	0
-P2959	U strážního domku	50.52488	14.20457	6	0	0	0
-P2960	U Čestmíra	50.52740	14.18936	2	0	0	0
-P2963	Bělina	50.52312	14.09451	1	0	0	0
-P2964	Rybena	50.52237	14.08776	5	1	0	0
-P2965	Setuza	50.65567	14.05074	4	2	2	0
-P2966	fi:Signal - n.p.Obnova	50.65905	14.06537	1	0	0	0
-P2968	Rafanda - Olšinky	50.65789	14.07827	1	1	0	0
-P2973	zastávka Valtířov	50.67240	14.12179	1	0	0	0
-P2975	U stražního domku	50.66445	14.13608	2	0	0	0
-P2977	u žst. Velké Březno	50.66327	14.14158	1	0	0	0
-P2978	Zastávka	50.67142	14.16826	1	2	1	0
-P2989	Obalex	50.74032	14.18827	1	0	0	0
-P2990	U výboru	50.74349	14.18795	1	0	0	0
-P2992	Loděnice	50.75461	14.20070	2	0	0	0
-P2995	zast. Staré Město	50.76666	14.21492	1	0	0	0
-P2996	Březová ulice	50.76786	14.23087	1	1	0	0
-P2999	Plavecký bazén	50.36004	14.48124	4	0	0	0
-P3000	U koupaliště	50.36081	14.47814	2	1	0	0
-P3001	Bezručova	50.35941	14.47118	1	0	0	0
-P3002	Slavín	50.34929	14.49873	1	0	0	0
-P3013	Mělník - Lhotka u Mělníka	50.34629	14.55515	1	0	0	0
-P3015	Mělník - Lhotka u Mělníka	50.35579	14.57123	3	0	0	0
-P3022	Mělník - Lhotka u Mělníka	50.38076	14.54199	3	1	0	0
-P3027	Lhotka u Mělníka - Nebužely	50.38545	14.58762	1	0	0	0
-P3031	Nebužely - Živonín	50.39293	14.61270	1	1	0	0
-P3046	Vrátno - Sudoměř u Mladé Boleslavi	50.43869	14.74233	1	0	0	0
-P3047	Sudoměř u Mladé Boleslavi - Skalsko	50.43353	14.75385	1	0	0	0
-P3065	Čechova ulice	50.75567	15.05379	4	3	0	0
-P3066	Doubská ulice	50.74786	15.05459	6	3	0	0
-P3068	prostřední přejezd v Ústí	50.51526	15.45850	1	0	0	1
-P3068	prostřední přejezd v Ústí	50.51526	15.45850	1	0	0	1
-P3073	Stará Paka - Koštálov	50.55375	15.41940	1	0	0	0
-P3075	za z. Libštát	50.55747	15.41511	3	0	0	0
-P3076	u st. 2 v žst. Košťálov	50.56985	15.40163	1	0	0	0
-P3083	u st. 1 žst. Semily, ul. Nádr.	50.60117	15.32479	2	0	0	0
-P3087	přejezd u sokolovny	50.63768	15.19307	1	0	0	0
-P3092	zast. Dolánky	50.60385	15.17196	1	1	0	0
-P3096	u 70-ky, ve Čtveříně	50.59685	15.09929	1	0	0	0
-P3098	u zastávky Doubí u Turnova	50.60767	15.10161	2	0	0	0
-P3099	pod Husou	50.61514	15.09992	1	0	0	0
-P3105	na zast. Rádlo	50.69443	15.10840	3	2	0	2
-P3109	dol.šimon.př., ul.Minkovická	50.71294	15.05379	2	2	0	0
-P3110	Puškinova ul., na z. Pilínkov	50.72708	15.03545	2	1	0	0
-P3112	Pilínkovská ulice	50.72988	15.04063	1	0	0	0
-P3115	U Kameňáku	50.36793	15.53453	1	0	0	0
-P3126	V lese	50.38884	15.44801	1	0	0	2
-P3131	u zast. Vitiněves	50.39911	15.38086	2	0	0	0
-P3134	Butoves - Jičín	50.42266	15.36329	3	0	0	0
-P3134	Staré Místo u Jičína - Jičín	50.42266	15.36329	3	0	0	0
-P3144	V Železnici	50.46362	15.37569	1	0	0	0
-P3151	v Libuni k nádraží	50.49222	15.30093	1	0	0	0
-P3154	na z. Libuň zastávka	50.49995	15.30124	1	1	0	0
-P3163	za z. Semínova Lhota	50.51799	15.28005	2	1	0	0
-P3168	v Ktové na silnici Tu - Jc	50.52747	15.24235	1	0	0	0
-P3169	1. přejezd v Borku	50.53601	15.23150	1	1	0	0
-P3170	2. přejezd v Borku	50.53706	15.22999	1	0	0	0
-P3178	u benzínové pumpy	50.57276	15.17190	1	0	0	0
-P3181	na z. Turnov město	50.57972	15.15178	1	0	0	1
-P3182	ul. Nad Perchtou	50.58479	15.14312	1	0	0	0
-P3195	před zast. Lítkovice	50.46187	15.05015	1	3	0	0
-P3199	hl.přejezd Kněžm.,ul.U nádraží	50.47251	15.01812	2	0	0	0
-P3207	Bakov nad Jizerou - PAPÍRNY Bělá pod Bezdězem	50.49170	14.91407	1	0	0	0
-P3208	Bakov nad Jizerou - PAPÍRNY Bělá pod Bezdězem	50.49535	14.90731	1	1	1	0
-P3227	hl. přejezd ve Splavech	50.58684	14.62968	1	0	0	0
-P3240	Arbesova ulice	50.68902	14.53181	3	1	2	0
-P3241	před CL střelnice,Českokamenická	50.69153	14.53320	1	1	0	0
-P3247	za zn. Skalice u České Lípy	50.74225	14.52394	1	0	0	0
-P3253	za žst. Nový Bor, B. Egermanna	50.76289	14.54973	3	0	0	0
-P3255	Žižkova ul.	50.76593	14.55247	1	0	0	0
-P3268	U pily	50.87488	14.50310	1	0	0	0
-P3277	Dymník	50.94847	14.53424	1	0	2	1
-P3278	U nádraží	50.95670	14.54490	4	1	0	0
-P3278	U nádraží	50.95670	14.54490	4	1	0	0
-P3278	U nádraží	50.95670	14.54490	4	1	0	0
-P3288	u zast. Ledkov	50.34462	15.23580	1	0	0	0
-P3311	Dětenice - Dolní Bousov	50.39045	15.10126	1	0	0	0
-P3338	Richard	50.53852	14.11776	1	0	1	0
-P3340	Ul. Masarykova	50.54192	14.12510	3	1	0	1
-P3341	Pod mostkou	50.54047	14.13432	1	0	0	0
-P3345	za zastávkou Trnovany	50.54407	14.17751	1	1	1	0
-P3346	hl. přejezd v Trnovanech	50.54418	14.18380	3	1	0	0
-P3350	před zast. Horní Řepčice	50.55723	14.26492	2	0	0	0
-P3354	před žst. Liběšice	50.57075	14.27809	1	0	0	0
-P3357	Zimoř	50.57837	14.30942	1	0	0	0
-P3361	ul. Konojedská, za žst. Úštěk	50.58989	14.34505	1	0	0	0
-P3365	před zast. Dubičná	50.61118	14.35698	1	0	1	0
-P3367	Úštěk - Blíževedly	50.60869	14.37770	8	2	1	0
-P3369	před zast. Blíževedly	50.61062	14.39553	1	0	0	0
-P3383	za žst. Zahrádky	50.63765	14.50943	1	0	0	0
-P3385	"ul. 5. května, (\""kopeček\"")"	50.66895	14.53829	3	0	0	0
-P3395	zast. Božíkov, ul. U zastávky	50.67833	14.65064	5	0	2	1
-P3402	za žst. Mimoň, ul. Vrchlického	50.66017	14.71830	2	0	0	0
-P3407	za zast. Velký Grunov	50.70001	14.72943	1	0	0	0
-P3408	před žst. Brniště	50.71375	14.73039	1	0	0	0
-P3408		50.71376	14.73041	1	0	0	0
-P3414	ul.Cvikovská,u vj.náv.před Jabl.	50.76616	14.75060	2	1	0	0
-P3417	na býv.st.silnici Jablonné-Lbc	50.77894	14.78163	2	3	0	0
-P3423	zač. zn. Zdislava	50.76978	14.87389	1	0	0	0
-P3426	před žst. Křižany	50.75154	14.91594	3	0	0	0
-P3435	u Kovošrotu, ul. Švermova	50.76289	15.01702	3	0	0	0
-P3435		50.76243	15.02198	3	0	0	0
-P3436	u Slévárny, ul. Domky	50.76201	15.02093	8	4	1	0
-P3437	ul. Volgogradská	50.75429	15.02789	1	0	0	0
-P3442	u Ekoagroproduktu, ul. Potoční	50.64818	14.73210	1	1	0	0
-P3448	U hřbitova	50.88439	14.52065	1	0	0	0
-P3454	Rybniště - Dolní Podluží	50.88299	14.55791	1	0	0	0
-P3459	Rybniště - Dolní Podluží	50.88337	14.57890	1	0	0	0
-P3467	Rybniště - Dolní Podluží	50.88117	14.61489	1	1	0	0
-P3471	U jatek	50.89020	14.62154	1	0	0	0
-P3476	U slévárny	50.90223	14.63045	3	0	0	0
-P3480	Varnsdorf - Varnsdorf staré nádraží	50.90474	14.61966	2	1	0	0
-P3481	Varnsdorf - Varnsdorf staré nádraží	50.90509	14.61694	1	0	0	0
-P3486	U pivovaru	50.91826	14.60442	1	1	0	0
-P3514	Mikulášovice dolní nádraží - Panský	50.95105	14.42817	1	1	0	0
-P3532	Rumburk - Šluknov	50.96067	14.53685	2	1	0	0
-P3533	Rumburk - Šluknov	50.96389	14.53024	2	0	0	0
-P3537	Valdek	50.98122	14.50662	1	0	1	0
-P3540	Rumburk - Šluknov	51.00249	14.46646	3	0	1	1
-P3543	Šluknov - KAMENOLOM	51.00774	14.45326	1	0	0	0
-P3545	Šluknov - KAMENOLOM	51.00659	14.44870	1	0	0	0
-P3560	Velký Šenov - Mikulášovice dolní nádraží	50.99431	14.35518	1	0	0	0
-P3569	Mikulášovice dolní nádraží - Dolní Poustevna	50.99612	14.29932	1	0	0	0
-P3576	"Zálabí - \""Rozkoš\"""	50.03213	15.21195	2	0	0	0
-P3577	U Korama	50.04742	15.20614	1	0	0	0
-P3580	U Zastávky	50.07363	15.20002	1	0	0	1
-P3581	Osek - na prvním zhlaví	50.09655	15.19479	1	0	0	0
-P3583	Kánínský	50.12218	15.18774	1	0	1	0
-P3588	U Sklárny	50.14608	15.12928	4	0	0	0
-P3590	U Velkoobchodu	50.15420	15.11686	1	0	0	0
-P3595	Do Depa	50.18831	15.06459	1	0	0	0
-P3598	Zbožský	50.19091	15.01395	1	0	0	0
-P3602	Lánský	50.18684	14.95576	1	0	0	0
-P3606	na zast.Stratov	50.18741	14.90781	3	0	0	0
-P3608	Kostomlaty nad Labem - Lysá nad Labem	50.18979	14.87834	1	0	0	0
-P3609	U Výtahu	50.19362	14.85979	1	0	0	0
-P3611	Šikmý směr Byšičky	50.19057	14.80407	2	0	0	1
-P3613	Mstětice hlavní, čtyřkolejný	50.13866	14.69602	1	0	0	0
-P3613		50.14435	14.68611	1	0	0	0
-P3615	Mstětice - Praha-Horní Počernice	50.13016	14.66453	3	0	0	0
-P3617	ulice Bystrá	50.11466	14.60214	3	0	0	0
-P3624	Hálková ulice	48.85986	16.06182	1	2	0	0
-P3625	není	48.86054	16.05825	1	1	0	0
-P3630	není	48.94054	15.87641	1	0	0	0
-P3637	není	49.01890	15.83181	1	0	0	0
-P3639	není	49.07090	15.82120	1	0	0	2
-P3640	není	49.08657	15.85907	2	1	0	0
-P3642	není	49.09819	15.85685	1	0	0	0
-P3643	není	49.10684	15.84617	1	2	0	1
-P3646	není	49.14267	15.83812	2	1	0	1
-P3648	není	49.16003	15.83319	1	1	0	0
-P3651	není	49.17545	15.81355	1	0	0	0
-P3658	není	49.24374	15.76171	1	1	1	0
-P3658	není	49.24374	15.76171	1	1	1	0
-P3662	není	49.26578	15.77371	1	0	0	0
-P3663	není	49.30336	15.75274	1	1	0	0
-P3674	Střítež	49.45896	15.62597	1	0	0	0
-P3678	Štoky-Přibyslav	49.54216	15.65409	1	1	0	0
-P3681	Šlapanov - Havlíčkův Brod	49.57942	15.61103	2	0	0	0
-P3690	Josefodolský	49.67184	15.41281	2	0	0	0
-P3690	Josefodolský	49.67184	15.41281	2	0	0	0
-P3692	Patnáctka	49.67970	15.42095	3	0	0	0
-P3698	Na Prvním zhlaví	49.75706	15.39974	3	0	0	0
-P3699	Na Druhém zhlaví	49.76475	15.39701	1	0	0	0
-P3708	Stupárovický	49.83425	15.46847	1	0	0	0
-P3713	Horky	49.87258	15.44310	1	0	0	0
-P3716	U Nemocnice	49.90485	15.40382	2	0	0	0
-P3717	Chotusická	49.91920	15.38947	1	1	0	0
-P3719	Kalabousek	49.92905	15.36334	1	0	0	0
-P3723	Čáslav - Kutná Hora hl.n.	49.94267	15.32895	4	0	0	0
-P3724	Do Depa	49.95684	15.31469	1	0	0	1
-P3727	Libenický	49.99744	15.27078	1	0	0	0
-P3736	Čáslav-místní nádr. - Skovice	49.91361	15.40773	1	0	0	0
-P3737	Čáslav-místní nádr. - Skovice	49.91711	15.42269	8	0	2	0
-P3738	Čáslav-místní nádr. - Skovice	49.91713	15.42326	2	1	0	0
-P3745	Skovice	49.90583	15.45969	1	0	0	0
-P3745	Skovice	49.90585	15.45969	1	0	0	0
-P3747	Skovice - Žleby	49.89556	15.47461	1	0	1	1
-P3760	Ronov nad Doubravou - Třemošnice	49.88318	15.55584	1	0	0	0
-P3761	Ronov nad Doubravou - Třemošnice	49.87712	15.56277	2	0	0	0
-P3762	Ronov nad Doubravou - Třemošnice	49.87427	15.56866	2	1	0	1
-P3765	obecní cesta	49.59536	15.56911	1	1	0	0
-P3767	obecní cesta	49.58610	15.56460	1	0	0	0
-P3774	stát.silnice	49.55747	15.53885	1	0	1	0
-P3791	stát.silnice	49.52580	15.47765	2	1	0	0
-P3793	stát.silnice	49.52121	15.45728	1	0	0	0
-P3795	Herálec - Humpolec	49.52411	15.44160	1	0	0	0
-P3798	polní cesta	49.52777	15.42368	1	0	0	0
-P3805	silnice na Jihlavu	49.53268	15.36582	1	0	0	0
-P3807	U Zahrádek	49.53095	15.35480	1	1	0	0
-P3809	Dobronín - Dobronín zastávka	49.48317	15.64607	1	0	0	0
-P3812	Dobronín - Dobronín zastávka	49.47892	15.66602	1	0	0	0
-P3821	v žst.Tetčice	49.17202	16.40942	2	0	0	0
-P3822	v Rosicích u Brna; ul.Zbýšovská	49.17756	16.38711	1	0	0	1
-P3823	v Zastávce u Brna	49.18612	16.36165	1	0	0	0
-P3836	není	49.19071	16.20179	8	0	0	0
-P3839	není	49.19022	16.16988	1	0	0	0
-P3841	Boženy Němcové	49.20528	16.15193	1	0	0	0
-P3848	K Častoticím	49.22171	16.07793	1	0	0	0
-P3854	není	49.21391	16.02399	1	0	0	1
-P3858	není	49.21266	15.97036	2	0	0	0
-P3864	ul. Ruská	49.21147	15.87790	1	0	1	0
-P3866	Borovina	49.20973	15.85478	1	0	0	0
-P3868	Krahulov	49.21282	15.81269	2	0	0	0
-P3875	není	49.04601	15.79361	3	1	0	0
-P3894	není	49.02118	15.65129	1	0	0	0
-P3901	není	49.22824	16.05915	1	0	0	0
-P3902	není	49.23405	16.05334	1	0	1	1
-P3903	není	49.23937	16.03963	1	1	0	0
-P3908	není	49.27373	16.00790	1	0	0	0
-P3916	U zastávky Oslavička	49.31935	15.96660	2	0	0	0
-P3927	u Sedláka	48.83207	16.37395	1	0	0	0
-P3931	není	48.92263	16.36312	1	1	0	0
-P3932	není	48.96373	16.35139	1	0	0	0
-P3937	Mor.Krumlov ČD	49.04475	16.33932	3	0	0	0
-P3941	u Obulanových	49.09238	16.44247	1	0	0	0
-P3942	U Hronových	49.10257	16.44632	1	0	0	0
-P3945	u žel.zastávky Troubsko	49.16373	16.52608	2	2	0	2
-P3946	K sadům, ul.Klobásova	49.16204	16.56453	2	0	1	0
-P3950	Skřípák	49.09812	16.39642	3	1	0	0
-P3954	u žst.Ivančice	49.09823	16.37392	1	0	0	0
-P3962	nemá	48.77419	16.38761	1	2	0	0
-P3965	na zhlaví č.2	50.10603	15.19307	1	1	1	0
-P3968	u zast. Sány	50.12996	15.24076	1	0	0	0
-P3969	Badra	50.13497	15.25103	1	0	0	0
-P3972	Hradčanský	50.14698	15.28402	1	0	0	1
-P3973	90	50.14939	15.29116	2	0	0	0
-P3980	Chlumec nad Cidlinou - Nové Město nad Cidlinou	50.16184	15.46121	3	0	0	0
-P3980	Chlumec n/Cidlinou - Nový Bydžov	50.16184	15.46121	3	0	0	0
-P3980		50.16252	15.45770	3	0	0	0
-P3983	žst. Káranice	50.15453	15.55411	3	0	0	0
-P3983		50.15452	15.55411	3	0	0	0
-P3990	U Ditricha	50.15880	15.63775	3	0	0	0
-P3991	Dobřenice - Praskačka	50.15984	15.66061	4	0	0	0
-P3993	Lhota	50.16658	15.69570	1	0	0	0
-P3997	Vlčkovice	50.17961	15.74898	1	0	0	0
-P4005	Pouchov	50.22239	15.84180	1	0	0	0
-P4014	U cikánů	50.20546	15.96902	6	1	0	0
-P4015	U hradla	50.20273	15.97568	1	0	0	0
-P4016	U Tanexu	50.19883	15.98521	4	0	0	0
-P4017	Krňovický	50.19715	15.98937	2	0	0	1
-P4019	Amerika	50.19041	16.00596	2	0	0	1
-P4023	0	50.15899	16.06868	2	0	0	0
-P4024	Měnírna Týniště n. O. - Týniště n/Orlicí	50.15112	16.07875	1	0	0	0
-P4024	Týniště n/Orlicí - Častolovice	50.15112	16.07875	1	0	0	0
-P4034	Ke koupališti	50.11884	16.20931	1	0	0	1
-P4035	Kostelec n/Orlicí - Doudleby n/Orlicí	50.11515	16.22745	1	0	0	0
-P4035		50.11526	16.22773	1	0	0	0
-P4037	žst. Doudleby n/Orlicí	50.10984	16.25567	1	0	0	0
-P4038	u hradla Doudleby	50.10811	16.26196	2	0	0	0
-P4044	u dřevařských závodů	50.08014	16.31798	3	0	0	0
-P4058	u benzinky	50.07273	16.45513	4	1	0	0
-P4058		50.07273	16.45513	4	1	0	0
-P4064	u Hedvy	50.02896	16.51515	2	0	0	0
-P4070	u Myslivny	50.01326	16.53962	1	1	0	0
-P4073	u lomu	50.01348	16.57968	1	0	0	0
-P4074	u betonárky	50.02015	16.58927	1	0	0	0
-P4075	u autobusového nadrazi	50.02835	16.59685	1	0	0	0
-P4077	u Mikysku, pod tělocvičnou	50.03259	16.60268	3	0	0	1
-P4086	Mladkov, zastavka ČD	50.09208	16.62991	1	0	0	0
-P4107	U hřbitova	50.15467	16.27472	5	4	0	0
-P4109	U ZNZ	50.15914	16.27277	2	0	0	0
-P4110	U Bottkových	50.16215	16.27110	1	2	0	0
-P4111	U školky	50.16447	16.27058	1	0	0	0
-P4112	u zast. Rychnov	50.16655	16.27095	1	0	0	1
-P4118	ŠKODA Kvasiny průmyslová zóna	50.20015	16.25620	1	0	0	0
-P4121	žst. Vamberk	50.11563	16.27964	1	0	0	0
-P4124	U železáren	50.12108	16.28844	1	0	0	0
-P4124		50.12096	16.28848	1	0	0	0
-P4132	Vamberk - Slatina n/Zdobnicí	50.13689	16.37509	1	1	0	0
-P4136	U Pitry	50.13957	16.38637	1	0	0	0
-P4141	Slatina n/Zdobnicí - Rokytnice v Orlických horách	50.16360	16.44396	1	1	0	0
-P4148	Podlesí - Červený Potok	50.08840	16.84768	2	0	0	0
-P4161	k.ú.Dolní lipka	50.08990	16.71422	1	0	0	0
-P4168	u Tesly	50.08524	16.75493	1	1	0	0
-P4170	u vodárny	50.07393	16.75554	1	0	1	1
-P4175	v blízkosti dopravny Č.Voda	50.04930	16.74585	1	0	0	0
-P4182	u firmy ITEMA, s.r.o.	50.02035	16.74816	1	1	0	0
-P4184	I/11	50.01414	16.74788	1	1	0	0
-P4191	Štíty	49.97265	16.75261	2	0	0	0
-P4199	U podjezdu	49.60232	17.27599	3	3	0	0
-P4202	U vodárny	49.61829	17.27817	1	1	1	1
-P4203	Trusovice	49.65533	17.28298	1	0	1	1
-P4207	Lhota	49.71788	17.28803	3	0	0	0
-P4216	u zastávky	49.77511	17.18794	1	0	0	0
-P4219	Újezd u Uničova - UNEX Uničov	49.77663	17.16110	1	0	0	0
-P4220	UNEX Uničov - Uničov	49.77772	17.14177	2	0	0	0
-P4225	Troubelice - Libina	49.80880	17.07757	2	0	0	0
-P4233	u kadeřnictví	49.94309	17.03448	1	1	0	0
-P4237	u Benziny	49.96631	17.00552	2	1	0	0
-P4238	Nový Malín - Šumperk	49.96423	16.99993	1	2	0	0
-P4238	ul.Luže	49.96432	16.99992	1	2	0	0
-P4239	ul.Příčná - u prádelny	49.96364	16.99626	1	0	0	0
-P4239	ul.Příčná	49.95837	16.99632	1	0	0	0
-P4240	Lidická	49.96255	16.98730	1	0	0	1
-P4245	u stanice	49.92408	16.93546	2	1	0	0
-P4246	Bludov-Chromeč - OP papírna, s.r.o. vlečka Olšany	49.92886	16.92203	3	1	0	0
-P4247	Bludov-Chromeč - OP papírna, s.r.o. vlečka Olšany	49.94054	16.90300	2	0	0	0
-P4249	Bludov-Chromeč - OP papírna, s.r.o. vlečka Olšany	49.95218	16.87526	1	0	0	0
-P4250	Bludov-Chromeč - OP papírna, s.r.o. vlečka Olšany	49.95711	16.87009	1	0	0	0
-P4251	OP papírna, s.r.o. vl. Olšany - Ruda n/Moravou	49.96830	16.87484	1	0	0	1
-P4253	Ruda n/Moravou - Bohdíkov	49.99839	16.89484	3	1	0	0
-P4257	Ruda n/Moravou - Bohdíkov	50.02462	16.89909	1	1	0	0
-P4266	Hanušovice - Jindřichov na Moravě	50.07748	16.95359	1	0	0	0
-P4268	Hanušovice - Jindřichov na Moravě	50.08072	16.96553	2	0	0	0
-P4283	Branná - Ostružná	50.16861	17.02896	1	0	0	0
-P4287	Petříkov	50.19106	17.05276	1	0	0	0
-P4288	Ostružná - SLEZSKÝ KÁMEN H.Lipová	50.19465	17.06314	1	0	0	0
-P4301	Lipová Lázně - Jeseník	50.22877	17.16307	1	0	0	0
-P4303	žst. Jeseník	50.22659	17.18809	1	0	0	0
-P4305	Jeseník - ŘETĚZÁRNA Česká Ves	50.23101	17.19946	1	0	0	0
-P4340	Lipová Lázně jeskyně - Vápenná	50.27229	17.10915	1	0	0	0
-P4342	Lipová Lázně jeskyně - Vápenná	50.28095	17.09932	1	0	0	0
-P4346	Vápenná - Žulová	50.29080	17.09958	1	0	0	0
-P4404	Mikulovice - Zlaté Hory	50.26295	17.35369	1	0	0	0
-P4435	Luková 2 zast.	50.19018	15.48690	1	1	1	0
-P4443	U tenisu	50.23790	15.48364	1	0	0	0
-P4444	U nemocnice	50.24205	15.48454	3	0	0	0
-P4445	cihelna Flekačka	50.24994	15.48808	1	0	0	0
-P4448	Nový Bydžov - Skřivany	50.26499	15.49468	1	0	0	0
-P4450	u zast. Skřivany	50.27151	15.49846	5	0	0	0
-P4453	Smidary - stanice	50.29648	15.49278	4	0	0	0
-P4458	u zast. Ohnišťany	50.33373	15.50713	1	1	0	0
-P4459	Na stopce	50.34102	15.51342	1	1	0	0
-P4462	Ostroměř - Šárovcova Lhota	50.37164	15.55834	3	0	0	0
-P4467	Pod Lhotou	50.40513	15.55123	1	0	0	0
-P4468	Šárovcova Lhota - Lázně Bělohrad	50.40789	15.56162	1	0	0	0
-P4472	Lázně Bělohrad - Nová Paka	50.42904	15.57566	2	0	0	0
-P4472	ne	50.42906	15.57548	2	0	0	0
-P4484	u zast. N. Paka město	50.49480	15.51249	2	1	0	0
-P4485	Šlejharka	50.49849	15.50744	1	0	0	0
-P4486	u koně	50.50131	15.50209	1	0	0	0
-P4496	Stará Paka - Roztoky u Jilemnice	50.54511	15.46450	1	0	0	0
-P4501	Roztoky u Jilemnice - Martinice v Krkonoších	50.56971	15.49130	1	0	0	0
-P4511	Martinice v Krkonoších - Kunčice n/Labem	50.59683	15.58651	1	0	0	0
-P4513	Martinice v Krkonoších - Kunčice n/Labem	50.59388	15.59436	4	0	0	0
-P4517	Martinice v Krkonoších - Kunčice n/Labem	50.58825	15.61484	2	0	0	0
-P4523	Kunčice n/Labem - Hostinné	50.56802	15.65041	3	1	0	0
-P4529	Kunčice n/Labem - Hostinné	50.54765	15.69582	1	1	0	0
-P4530	Kunčice n/Labem - Hostinné	50.54593	15.69949	2	1	0	0
-P4534	Kunčice n/Labem - Hostinné	50.53872	15.72974	3	0	0	0
-P4536	Hostinné - Pilníkov	50.53504	15.74064	1	0	0	0
-P4536	U TOSu	50.53233	15.74272	1	0	0	0
-P4538	Amerika	50.51720	15.74294	2	0	0	0
-P4539	Hostinné - Pilníkov	50.51468	15.75043	1	0	0	0
-P4543	Hostinné - Pilníkov	50.52060	15.76409	1	0	0	0
-P4546	Chotěvický	50.52201	15.77817	1	0	0	1
-P4553	Pilníkov - Trutnov hl.n.	50.53673	15.81551	3	0	0	0
-P4556	Vlčický	50.54677	15.83485	1	1	0	0
-P4559	Břečštejnská	50.56420	15.89704	1	1	0	0
-P4560	Novoměstská /dříve Lomní /	50.56551	15.92186	1	0	0	0
-P4561	Polská	50.56737	15.92793	3	0	0	0
-P4573	Chlumec n/Cidlinou - Městec Králové	50.18647	15.34029	1	0	0	0
-P4574	Chlumec n/Cidlinou - Městec Králové	50.19079	15.33245	3	0	0	1
-P4576	Chlumec n/Cidlinou - Městec Králové	50.20889	15.30655	1	0	0	0
-P4576		49.75749	16.48342	1	0	0	0
-P4579	Obora - Dymokury	50.26724	15.19513	1	0	1	0
-P4592	Dymokury - Městec Králové	50.21307	15.29141	1	0	0	0
-P4606	Veleliby - Křinec	50.26164	15.13863	1	0	0	0
-P4613	žst. Rožďalovice	50.30059	15.18093	1	0	0	0
-P4620	žst. Kopidlno	50.33464	15.26285	1	0	0	0
-P4622	Kopidlno - Bartoušov	50.33667	15.27341	2	1	0	0
-P4627	Bartoušovský	50.36219	15.32447	4	0	0	0
-P4629	u zast. Jičíněves	50.37417	15.33700	1	0	0	0
-P4636	ul.Ptácká	50.42014	14.90111	4	0	0	0
-P4637	ul.Jaselská	50.42002	14.90183	2	1	0	0
-P4638	ul.Jičínská, hl.přejezd v Řepově	50.40923	14.94709	7	1	0	0
-P4642	před zn. Kolomuty	50.40658	14.97659	5	1	0	0
-P4646	před zn. Březno	50.41330	15.00426	3	1	0	0
-P4649	v lesíku před Dlouhou Lhotou	50.42007	15.03474	1	0	0	0
-P4650	hl. přejezd v Dlouhé Lhotě	50.42093	15.03869	3	0	0	0
-P4655	před z. Bechov	50.43608	15.08422	2	0	0	0
-P4659	přejezd v Rohatsku	50.43701	15.10674	1	1	0	0
-P4675	Sobotka - Mladějov v Čechách	50.48015	15.16217	7	3	0	0
-P4676	na z. Libošovice	50.48653	15.16426	4	0	0	0
-P4684	Mladějov, k Sobotce	50.48304	15.22098	1	3	0	0
-P4696	Mladějov v Čechách - Libuň	50.48880	15.28551	1	1	0	0
-P4698	Kněžnice - hlavní přejezd	50.49310	15.32085	3	0	0	0
-P4700	Libuň - Lomnice n/Popelkou	50.49925	15.33201	1	0	0	0
-P4710	v Boroví	50.51774	15.38315	1	0	0	0
-P4720	přejezd u Vetrenu	50.52664	15.38266	1	0	0	0
-P4736	Lomnice nad Popelkou - Stará Paka	50.51713	15.44166	1	0	0	0
-P4746	Chroustova vila	50.61020	15.50925	1	0	0	0
-P4753	Hrabačov - Poniklá	50.62683	15.48962	1	0	1	1
-P4761	u zast. Sytová	50.63178	15.46194	2	2	1	0
-P4763	Hrabačov - Poniklá	50.64754	15.45825	1	0	0	0
-P4774	Poniklá - Jablonec n/Jiz.	50.69604	15.43818	1	0	0	0
-P4778	Jablonec n/Jiz. - Rokytnice n/Jiz.	50.70372	15.42934	1	0	0	0
-P4782	U cikána	50.58954	15.61575	1	0	0	0
-P4783	U mlékárny	50.59387	15.61688	4	1	0	0
-P4788	ul. Skřivánčí	50.56871	15.89734	2	1	0	0
-P4789	ul. Zahradní	50.57488	15.89444	2	0	0	0
-P4790	ul. Mírová	50.57773	15.89145	1	0	0	0
-P4792	U hřiště	50.58521	15.88394	1	1	0	0
-P4794	ul. Horská	50.59118	15.88180	2	0	1	0
-P4796	Babský	50.59907	15.87760	1	0	0	0
-P4798	Kalná Voda - Svoboda n/Úpou	50.60690	15.84197	2	0	0	0
-P4812	Trutnov střed - Chvaleč	50.59923	16.01741	1	0	0	0
-P4836	Hodkovický	50.60870	16.07032	1	0	0	0
-P4853	U školy	50.59457	16.16694	2	0	0	0
-P4854	Adršpach - Teplice n/Metují město	50.59464	16.16848	1	0	0	0
-P4867	Újezd u Chocně - Čermná n/Orlicí	50.03491	16.17116	2	0	0	1
-P4873	žst. Čermná n/Orlicí	50.06354	16.13817	3	0	0	0
-P4874	U vojáků	50.07374	16.12549	1	0	0	0
-P4880	Borohrádek - Měnírna Týniště n. Orlicí	50.12999	16.06329	2	0	0	0
-P4889	žst. Brandýs n.Orl.	50.00188	16.27974	6	0	0	0
-P4891	Hedva	49.99788	16.23505	2	0	0	0
-P4892	žst.Choceň, u depa, Choceň-Lhoty	49.99183	16.21411	2	0	0	0
-P4893	zast. Dobříkov	49.99571	16.13673	1	0	0	0
-P4894	Radhošť	49.99116	16.07424	1	0	0	0
-P4896	v louce	49.98644	16.03004	1	0	0	0
-P4897	žst. Uhersko	49.98716	16.01624	2	0	0	0
-P4898	žst. Uhersko, u býv. St. 2	49.98984	16.00305	1	0	0	0
-P4902	Zminný	50.02022	15.86376	1	0	0	0
-P4903	"\""Slovany\"", ul.Dašická"	50.03094	15.80874	8	0	0	0
-P4907	ul.Na Krétě, u čističky	50.04183	15.55136	1	0	0	0
-P4911	do Labětína	50.03399	15.50563	3	0	0	0
-P4912	u podjezdu pod sil.II-322	50.03056	15.46374	1	0	0	0
-P4913	u brány do Elektrárny Chvaletice	50.03168	15.44752	3	0	0	0
-P4914	Chvaletice	50.03418	15.43530	1	0	0	0
-P4915	Chvaletice-Telčice, u benzínky	50.03799	15.41200	1	0	0	0
-P4918	Bašta	50.01158	15.30607	1	0	0	0
-P4920	"\""drbna\"", Dobřanský"	50.00976	15.26580	6	1	0	0
-P4926	žst. Velim	50.06704	15.12736	3	0	0	0
-P4929	Pečky - měnírna	50.09346	15.01114	1	0	0	0
-P4931	"\"" zast.Tatce \"""	50.09962	14.98395	1	0	0	0
-P4932	Pečky - Poříčany	50.10603	14.95560	2	1	0	0
-P4933	Úvalský	50.07324	14.72483	7	1	0	0
-P4937	U zastávky Třebestovice	50.12541	14.96029	1	0	0	0
-P4940	na zhlaví č.2 ŽST Sadská	50.13149	14.98416	2	1	0	0
-P4943	U INFUZIE	50.15142	15.02640	1	1	0	0
-P4949	U Stadionu	50.18313	15.03347	2	0	0	0
-P4950	U Družstva	50.18825	15.03346	1	0	0	0
-P4955	Pečky - km 1,618 DÚ 1522 02	50.08152	15.01832	1	1	0	0
-P4956	km 2,500 DÚ 1522 08 - Plaňany	50.07306	15.00713	1	0	0	0
-P4975	Bošice - Zásmuky	49.99331	15.01302	2	1	0	0
-P4979	Zásmuky - ZEMPO Bečváry	49.96688	15.03463	1	0	0	0
-P4990	u zast. Klešice	49.96499	15.68536	1	0	0	0
-P4991	Rozhovice - Jezbořice	49.97093	15.69686	2	1	1	0
-P4999	zast. Bylany	49.95649	15.73233	1	0	0	0
-P5003	Třibřichy	49.95976	15.76087	1	0	0	0
-P5013	u dopravny Úhřetice	49.97840	15.85985	1	0	0	0
-P5013		49.97852	15.86000	1	0	0	0
-P5022	za žst., u ocelového mostu	49.96761	15.91505	2	0	0	0
-P5026	Moravany	49.99832	15.93229	3	1	2	0
-P5028	u zast.Valy u Přelouče	50.03088	15.61394	1	0	0	0
-P5030	Valy - směr Veselí	50.02363	15.61564	1	0	0	0
-P5045	ul.Barákova	49.94253	15.65944	2	2	0	0
-P5050	Heřmanův Městec - Kostelec u Heřman. M. Z	49.92259	15.64985	1	0	0	0
-P5051	areál Holcin, a.s. Prachovice	49.89419	15.63404	1	0	0	0
-P5054	zast.Platěnice	50.00814	15.96090	1	0	0	0
-P5065	Holice, ul.Josefská	50.06732	15.99190	1	0	0	0
-P5072	Koudelka	50.08244	16.02525	1	1	0	0
-P5079	Borohrádek, souběh tratí	50.09422	16.08742	2	0	0	0
-P5081	Týniště n/Orlicí - Bolehošť	50.21197	16.06486	1	0	0	0
-P5082	Na bídě	50.23020	16.06338	1	0	0	0
-P5087	žst. Opočno pod Orl. hor.	50.27737	16.08586	5	0	0	0
-P5089	Opočno pod Orl. hor. - Bohuslavice n/Metují	50.31193	16.07961	1	0	0	0
-P5091	Opočno pod Orl. hor. - Bohuslavice n/Metují	50.32535	16.09078	6	0	0	0
-P5097	Václavice - Náchod	50.40712	16.13566	2	0	0	0
-P5099	Náchod - Hronov	50.42354	16.18781	2	0	0	0
-P5100	Náchod - Hronov	50.42672	16.19200	1	0	0	0
-P5101	Náchod - Hronov	50.44178	16.19265	1	0	0	0
-P5105	Chocholouš	50.47444	16.17603	1	0	0	0
-P5105		50.47444	16.17599	1	0	0	0
-P5106	Bosna	50.47749	16.17496	1	0	0	0
-P5106		50.47753	16.17484	1	0	0	0
-P5108	U kostela	50.48408	16.18008	1	0	0	0
-P5110	Hronov - Police nad Metují	50.49013	16.18612	5	0	0	0
-P5117	Police n/Metují - Česká Metuje	50.53752	16.20393	3	0	0	0
-P5122	845	50.59452	16.19909	3	0	0	0
-P5156	zast. Dvořisko, Kögel	49.98401	16.19141	1	3	0	0
-P5157	u letiště	49.97880	16.17692	1	0	1	0
-P5161	u jatek TORO V.Mýto,ul.Hradecká	49.96276	16.14373	3	0	0	0
-P5162	u žst.Vysoké Mýto, ul.Vraclavská	49.95460	16.14803	3	0	0	0
-P5167	ul. Prokopa Velikého	49.94889	16.15679	3	1	0	0
-P5176	Hrušová	49.90663	16.20262	1	1	0	0
-P5189	Saint Gobain Vertex Litomyšl	49.88034	16.29264	1	0	0	0
-P5190	Vertex Litomyšl, zadní brána	49.87920	16.29378	1	0	0	0
-P5193	u Zavadilky	50.03290	16.49751	1	0	0	0
-P5195	Červená	50.02426	16.48390	1	0	0	0
-P5197	"\""Valdštejn\"",u zast.Dol.Dobrouč"	50.01356	16.47497	1	0	0	0
-P5200	u dopravny Lanšperk	49.99289	16.44755	1	0	0	0
-P5209	žst.Ústí nad Orlicí, do areálu	49.97134	16.38223	2	1	0	0
-P5212	U rybníčku	50.23066	15.81408	1	2	0	0
-P5215	Předměřice n/Labem - Smiřice	50.25594	15.81733	1	0	0	0
-P5221	"\""Zdeňas\"""	50.29411	15.84799	4	3	1	0
-P5221	"\""Zdeňas\"""	50.29411	15.84799	4	3	1	0
-P5222	žst. Smiřice	50.30146	15.85881	6	1	1	0
-P5223	HOLOUBEK ENERGO a.s.Černožice - Jaroměř	50.31475	15.86944	2	0	0	0
-P5224	U hřbitova	50.32010	15.87048	1	0	0	1
-P5228	Jaroměř - Dvůr Králové n/Labem	50.36553	15.90629	1	0	0	0
-P5231	Jaroměř - Dvůr Králové n/Labem	50.39669	15.87005	6	0	0	0
-P5235	Dvůr Králové n/Labem - Bílá Třemešná	50.42663	15.76987	1	0	0	0
-P5236	Dvůr Králové n/Labem - Bílá Třemešná	50.43782	15.74696	1	0	0	1
-P5258	na škvárovně	49.60175	15.58963	1	2	0	0
-P5259	stát.silnice	49.60966	15.60959	1	0	0	0
-P5259	stát.silnice	49.60966	15.60959	1	0	0	0
-P5261	stát.silnice	49.63274	15.61614	1	1	0	0
-P5263	stát.silnice	49.65773	15.62557	1	0	0	0
-P5269	na Lapíkově	49.70295	15.65149	1	0	0	0
-P5270	Dobkovský	49.70823	15.67327	1	1	0	1
-P5271	stát.silnice	49.71199	15.67897	1	1	0	0
-P5271	Partyzánská	49.71204	15.67900	1	1	0	0
-P5272	stát.silnice	49.71161	15.68780	3	0	0	0
-P5278	obecní cesta	49.69796	15.76993	1	1	0	0
-P5279	stát.silnice	49.69976	15.78574	1	0	0	0
-P5281	cesta do pily	49.69867	15.81048	1	0	1	0
-P5281		49.69872	15.81044	1	0	1	0
-P5295	sil.II.tř._směr Trh.Kamenice	49.76283	15.89549	1	0	0	0
-P5296	u žst.Hlinsko	49.76528	15.89851	2	0	0	0
-P5297	míst.komunikace v žst.Hlinsko	49.76795	15.90431	1	0	0	0
-P5299	zast.Holetín	49.78812	15.92682	1	0	0	0
-P5303	silnice III.třídy	49.78917	15.97259	2	0	0	0
-P5304	zast.Vojtěchov	49.79128	15.97235	1	0	0	0
-P5307	silnice III.třídy	49.79365	15.98851	1	0	0	0
-P5317	zast. Prosetín	49.83267	15.96185	1	0	0	0
-P5328	Horka	49.89012	15.91697	1	1	0	0
-P5329	žst. Chrast u Chr. - u 1. zhl.	49.89972	15.91663	2	1	0	0
-P5334	Orel	49.91433	15.84343	1	0	0	0
-P5337	ul.K Vlčnovu	49.92160	15.82028	1	0	0	2
-P5337	Slatińany Vlčnov(ulice K. Vlčnova)	49.92153	15.82022	1	0	0	2
-P5339	u ocelového mostu přes Chrudimku	49.92583	15.81419	1	0	1	0
-P5342	"Chrudim\""pivovar\"",ul.Obc.Ležáků"	49.94012	15.79451	1	0	0	0
-P5351	žst.Rosice nad Labem u St. 2	50.05035	15.74117	1	0	0	0
-P5357	žst.Stéblová	50.10452	15.75774	2	0	0	0
-P5360	zastávka Čeperka	50.13183	15.77014	1	0	0	0
-P5362	"\""za Vackem\"""	50.14490	15.77723	1	0	0	0
-P5366	Hospoda	50.16257	15.78753	4	1	0	0
-P5366		50.16250	15.78750	4	1	0	0
-P5368	Masenský	50.17488	15.79374	1	0	0	0
-P5368	Masenský	50.17488	15.79374	1	0	0	0
-P5369	U Vlasty Vosáhla	50.18247	15.79765	2	1	0	0
-P5372	Farářství	50.20181	15.80628	2	0	0	0
-P5378	ČKD	50.23458	15.79305	5	0	0	0
-P5379	Světí	50.24714	15.77485	4	2	0	0
-P5381	Všestary - Sadová	50.25231	15.75590	1	0	0	0
-P5382	Všestary - Sadová	50.25397	15.74714	1	3	0	0
-P5384	u zast. Dlouhé Dvory	50.26192	15.72559	1	1	0	0
-P5387	u zast. Dohalice	50.28378	15.69176	3	3	0	0
-P5389	Sádová	50.29805	15.69787	4	0	0	0
-P5394	u zast. Třebovětice	50.32834	15.70186	1	0	0	0
-P5398	u zast. Jeřice	50.34475	15.67340	1	0	0	2
-P5399	Jeřice šikmý	50.35007	15.66276	2	0	0	1
-P5402	U Matyldy	50.35700	15.64798	1	2	0	0
-P5409	Hořice v Podkrkonoší - Ostroměř	50.35142	15.57853	1	0	0	1
-P5410	Letiště	50.35405	15.57573	1	0	0	0
-P5429	Trotina	50.29097	15.83407	2	0	0	0
-P5431	Jaroměř - Rychnovek	50.34799	15.93454	1	1	0	0
-P5433	Jaroměř - Rychnovek	50.35447	15.94489	1	0	0	0
-P5438	Rychnovek - AGRO Č.Skalice	50.36365	15.98350	1	0	0	0
-P5442	Na Bojišti	50.39872	16.05521	4	0	0	0
-P5450	žst. Starkoč	50.41238	16.09577	2	0	0	0
-P5457	Starkoč - Červený Kostelec	50.45357	16.08503	1	1	0	0
-P5460	Kramolna	50.46345	16.07741	1	1	0	0
-P5465	žst. Červený Kostelec	50.48149	16.07529	1	0	0	0
-P5467	Červený Kostelec - Malé Svatoňovice	50.49089	16.07881	2	1	0	0
-P5474	Na Haldě	50.51931	16.06725	1	0	0	0
-P5486	Trutnov střed - obvod Poříčí - Královec	50.65991	15.96803	1	0	0	0
-P5488	Královec - Královec st.hr.	50.67507	15.97287	2	0	0	0
-P5492	u lesní školky	50.64690	15.32054	1	0	0	0
-P5493	zastávka Plavy	50.70132	15.31790	3	0	0	0
-P5494	Železný Brod - Velké Hamry	50.70700	15.31498	1	0	0	0
-P5497	pod sídlištěm, z. V. Hamry město	50.71989	15.31363	3	1	0	0
-P5499	Hodkovická ulice	50.74711	15.06227	1	0	0	0
-P5502	ulice Za mlýnem, před Vescem	50.74426	15.07839	2	0	0	0
-P5507	Prosečská ulice	50.74039	15.09730	1	0	0	0
-P5508	Prosečská ulice	50.73830	15.10188	1	0	0	0
-P5516	ul. Za tratí	50.72461	15.12249	1	1	0	0
-P5518	posl.prosečský př., Nový svět	50.72146	15.13152	1	0	0	0
-P5520	ul. Vodní, před žst. Jablonec	50.72221	15.15852	1	0	0	0
-P5521	ulice V aleji	50.71928	15.16724	1	0	0	0
-P5522	ulice Revoluční	50.71940	15.16922	1	0	0	1
-P5528	ulice Alešova	50.72022	15.19119	3	1	0	0
-P5531	ul.Vít.Nezvala, z.Jabl.Paseky	50.73151	15.19137	1	0	0	0
-P5535	před zn. Lučany n. N.	50.73946	15.22471	2	0	0	0
-P5536	před žst.Smržovka,Rooseweltova	50.73876	15.23843	4	1	0	0
-P5544	za z. Tanvald, ul. Poštovní	50.73733	15.30584	1	0	0	0
-P5545	před Žďárským tunelem,ul.Česká	50.74575	15.31142	2	0	0	0
-P5551	přejezd v Kořenově (u pily)	50.77035	15.36300	1	0	0	0
-P5557	přejezd v Josefově Dole	50.77859	15.24122	2	0	0	0
-P5560	"\""5B\""zast.Bujanov"	48.69865	14.43313	1	0	0	0
-P5561	před žst.Omlenice	48.72194	14.44682	1	0	0	1
-P5563	před žst.Kaplice	48.77522	14.46375	6	1	0	0
-P5566	žst.Velešín	48.82149	14.43220	2	1	0	0
-P5570	před žst.Holkov	48.84705	14.45402	1	0	1	0
-P5575	Bukovec	48.88463	14.44274	1	0	0	0
-P5576	za žst.Kamenný Újezd u Č.B.	48.89404	14.45566	2	0	0	1
-P5577	"\""Na Dolech\"",zast.K.Újezd"	48.90941	14.45137	1	1	0	0
-P5578	žst.Včelná	48.92486	14.44984	1	0	0	0
-P5579	Včelná	48.92741	14.45538	4	2	1	1
-P5580	Roudné	48.94397	14.47281	4	4	1	0
-P5581	odb.Rožnov-ul.Ludvíka Kuby	48.95003	14.47257	3	1	0	1
-P5582	bývalé stanoviště PS	48.77624	14.94209	1	0	0	0
-P5588	Calofrig	48.81969	14.92296	1	0	0	0
-P5592	u hřbitova	48.85209	14.89977	2	0	0	0
-P5594	Nová Ves n/Lužnicí - Suchdol n/Lužnicí	48.86221	14.88893	1	0	0	0
-P5596	zast.Hrdlořezy	48.87346	14.87942	2	0	0	0
-P5598	zast.Suchdol n/L.	48.89163	14.87988	1	0	0	1
-P5599	býv.str.stan.č.16	48.89291	14.88089	2	2	0	0
-P5602	"\""Klikovský\"""	48.90490	14.88249	2	0	0	0
-P5603	Suchdol n/Lužnicí - Majdalena	48.91731	14.88074	6	2	0	0
-P5606	sloupárna Majdalena	48.95368	14.86550	1	0	0	0
-P5607	zastávka Majdalena	48.96471	14.85774	2	0	0	0
-P5615	zastávka Třeboň-lázně	49.00725	14.77832	2	0	0	0
-P5618	Gigant	49.02986	14.75284	1	1	1	0
-P5621	Rožmberk	49.04661	14.75159	1	1	0	0
-P5622	zastávka Lužnice	49.05407	14.74986	3	0	0	0
-P5627	býv.str.stan.č.41	49.07678	14.72718	2	1	0	0
-P5628	před žst.Lomnice n/L.	49.08876	14.72890	2	0	1	0
-P5631	u Nohavů	49.13829	14.73755	1	0	0	0
-P5637	zastávka Řípec	49.22479	14.72431	3	0	0	0
-P5641	na Chlebov	49.25768	14.72636	1	0	0	0
-P5642	u Jitony	49.26613	14.71587	1	0	0	0
-P5645	za žst.Roudná	49.29994	14.71787	2	2	0	0
-P5647	na Strkov	49.34934	14.70815	1	0	0	0
-P5649	Keťaska(Komenského ul. )	49.40871	14.68170	2	0	0	0
-P5650	u SZD	49.43248	14.67425	1	0	0	0
-P5662	za žst.Heřmaničky	49.60547	14.58179	2	0	0	0
-P5663	Heřmaničky - Votice	49.60843	14.58186	4	0	0	0
-P5666	na Božkov	49.93328	14.70632	1	0	0	0
-P5671	ul. Olivova	49.98908	14.66890	7	0	1	0
-P5674	Benický přejezd	50.02364	14.60366	2	0	0	0
-P5678	Čerčany - Pecerady	49.83723	14.67518	3	6	0	0
-P5689	Týnec n.Sázavou - Krhanice	49.83334	14.58983	2	0	0	0
-P5689		50.14572	14.76186	2	0	0	0
-P5690	Týnec n.Sázavou - Krhanice	49.83921	14.57783	2	0	0	1
-P5697	LOM	49.85656	14.54741	2	0	0	0
-P5697	místní kom.	49.85667	14.54750	2	0	0	0
-P5719	Skochovice - Vrané n/Vltavou	49.93184	14.37335	2	0	0	0
-P5723	u Jarovského tunelu	49.94605	14.39776	1	0	0	0
-P5729	Praha Krč - Praha Braník	50.02973	14.40870	2	0	0	0
-P5731	Žst. Dobříš	49.78976	14.18498	3	0	0	0
-P5731		49.78982	14.18450	3	0	0	0
-P5733	ul. Knínská	49.78541	14.19894	5	3	0	1
-P5735	Dobříš km 0,106 = km 1,106 - Malá Hraštice	49.78256	14.20507	2	0	1	0
-P5737	VÚ	49.78616	14.22027	2	0	0	0
-P5738	do osady Porostliny, do Pouští	49.78674	14.22302	1	1	0	0
-P5739	Knínský	49.78797	14.22493	2	0	0	0
-P5745	Dobříš km 0,106 = km 1,106 - Malá Hraštice	49.80917	14.26238	1	0	0	0
-P5750	Malá Hraštice - Mníšek pod Brdy	49.83432	14.26077	1	0	0	0
-P5751	Malá Hraštice - Mníšek pod Brdy	49.83906	14.26009	1	0	0	0
-P5754	Malá Hraštice - Mníšek pod Brdy	49.85328	14.26855	11	0	0	0
-P5755	žst. Mníšek p/Brdy	49.85459	14.27182	1	0	0	0
-P5756	Rymáně	49.85808	14.28065	1	0	0	0
-P5766	zastávka Bojov	49.88054	14.34869	1	0	0	0
-P5771	souběh trati 1711: km 34,706	49.91999	14.37812	2	0	0	0
-P5771	souběh trati 1711: km 34,706	49.91999	14.37812	2	0	0	0
-P5777	Ledečko - Sázava Černé Budy	49.87637	14.91116	1	0	0	0
-P5778	Lipová	49.87361	14.90224	2	0	0	0
-P5790	Vlkovec - Hvězdonice	49.86969	14.80531	3	1	1	0
-P5795	Vlkovec - Hvězdonice	49.87260	14.77409	1	0	0	0
-P5798	u zast. Zlenice	49.87993	14.73377	1	1	0	0
-P5803	U inženýra Ondřicha	49.86360	14.71516	1	0	0	0
-P5804	Hvězdonice - Čerčany	49.86230	14.71295	1	3	0	0
-P5827	U zastávky Kácov	49.77533	15.03010	1	0	0	0
-P5828	Kácov - SÁZAVAN Zruč n/Sáz.	49.77501	15.02723	1	0	0	0
-P5857	Zruč n/Sázavou - Vlastějovice	49.73091	15.16572	1	2	1	0
-P5872	Do Kovošrotu	49.70051	15.26532	1	0	0	0
-P5874	U rest. na Růžku	49.69683	15.27307	2	0	0	0
-P5893	stát.silnice	49.66146	15.38721	3	1	0	0
-P5901	"\""Čerčanka\"", Kolín míst. u MeO"	50.01387	15.22271	1	2	0	0
-P5901		50.01558	15.22232	1	2	0	0
-P5904	Kolín místní nádraží - Červené Pečky	49.98816	15.20763	2	0	0	0
-P5909	Ratboř vl.Cukrovar - Bečváry	49.97430	15.14220	1	0	0	0
-P5911	Ratboř vl.Cukrovar - Bečváry	49.97154	15.12812	6	5	0	1
-P5915	Ratboř vl.Cukrovar - Bečváry	49.96649	15.10200	2	4	0	0
-P5917	Ratboř vl.Cukrovar - Bečváry	49.96018	15.07572	1	0	0	0
-P5918	žst. Bečváry	49.95673	15.07131	2	0	0	0
-P5926	u zast. Hatě	49.91412	15.05804	1	0	0	0
-P5927	Bečváry - Chmeliště	49.89878	15.05548	1	0	0	0
-P5929	Chmeliště - Uhlířské Janovice	49.89508	15.05657	1	0	1	0
-P5930	Chmeliště - Uhlířské Janovice	49.88336	15.06058	1	1	0	0
-P5950	Rataje n/Sáz. předměstí - odb. Rataje n/Sáz.	49.84782	14.97215	2	0	0	0
-P5961	Kutná Hora město - Malešov	49.94751	15.27488	1	0	0	0
-P5968	Kutná Hora město - Malešov	49.92503	15.26061	1	2	0	0
-P5972	Kutná Hora město - Malešov	49.91127	15.23493	1	0	0	0
-P5986	Malešov - Červené Janovice	49.85153	15.22345	1	0	0	0
-P6022	Zbraslavice - Zruč n/Sázavou	49.74172	15.10424	1	0	0	0
-P6024	Benešov u Prahy - Struhařov	49.77201	14.69886	1	0	0	0
-P6029	Struhařov - Postupice	49.76002	14.75530	2	0	0	0
-P6053	ul. Blanická	49.70203	14.89483	2	0	0	0
-P6054	žst. Vlašim	49.69854	14.90083	2	0	0	0
-P6054		49.70194	14.89485	2	0	0	0
-P6061	Vlašim - Zdislavice	49.68781	14.96735	2	2	0	0
-P6063	Zdislavice - Trhový Šťěpánov	49.70794	15.00826	1	0	0	0
-P6073	zast.Voračice	49.66137	14.55680	1	0	0	0
-P6078	žst.Štětkovice	49.66640	14.51588	2	0	0	0
-P6087	za žst.Kos.Hora	49.66035	14.47884	1	1	0	0
-P6092	před žst.Sedlčany	49.65588	14.43912	1	0	0	0
-P6093	"\""C\""-Jubilejní ulice"	49.01328	14.48111	1	0	3	0
-P6094	u hrnčírny	49.01790	14.48268	2	2	1	0
-P6095	k Těšínu	49.02143	14.48112	3	0	1	0
-P6099	žst.Ševětín	49.09930	14.57831	2	0	0	0
-P6101	malý Horusický	49.16696	14.66534	4	1	0	1
-P6110	Rybník - Rožmberk n/Vltavou	48.63448	14.41093	1	0	0	0
-P6115	Rožmberk n/Vltavou - Vyšší Brod klášter	48.62027	14.35137	1	0	0	0
-P6116	Rožmberk n/Vltavou - Vyšší Brod klášter	48.61846	14.34785	1	0	0	0
-P6123	Vyšší Brod klášter - Loučovice	48.63171	14.29799	2	0	0	1
-P6124	Vyšší Brod klášter - Loučovice	48.63697	14.29160	1	0	0	0
-P6132	žst.Loučovice	48.62024	14.25475	1	0	0	0
-P6133	odb.vl. PILA Loučovice - vl. JIP-PAPÍRNY Vlt.mlýn Louč	48.61939	14.24550	1	0	0	0
-P6133		48.61936	14.24551	1	0	0	0
-P6135	Lipno nad Vlt.	48.62895	14.24694	1	0	0	0
-P6139	Veselí n/ Lužnicí - Doňov	49.20038	14.78078	1	1	0	0
-P6141	před žst.Doňov	49.20769	14.79618	5	1	1	0
-P6145	Fejralka	49.20399	14.82890	1	0	0	0
-P6146	u Másílka	49.18946	14.85239	2	0	0	2
-P6147	na Kopečku	49.18863	14.85464	1	1	0	0
-P6148	žst.K.Řečice	49.18685	14.85841	2	0	0	0
-P6151	"\""15\"""	49.17540	14.87417	3	0	0	0
-P6156	Barbora	49.16669	14.92056	2	0	0	0
-P6158	před nz.Děbolín	49.16522	14.94708	2	3	0	0
-P6161	Děbolín - Jindřichův Hradec	49.15691	14.97758	1	0	0	0
-P6163	Jatka	49.15530	14.99708	2	1	0	0
-P6164	u Haláčka	49.16230	15.01354	3	0	0	0
-P6176	Jarošov n/Nežárkou - Kamenný Malíkov	49.19811	15.09762	1	0	0	0
-P6183	před žst.Popelín	49.21925	15.17490	1	0	0	0
-P6184	za žst.Popelín	49.22319	15.18840	1	0	0	0
-P6185	Popelín - Počátky-Žirovnice	49.22794	15.20394	1	0	0	0
-P6187	za žst.Počátky-Žirovnice	49.23865	15.21822	1	0	0	0
-P6194	žst.Jihlávka	49.24712	15.29263	1	0	0	0
-P6204	Jihlávka - Horní Cerekev	49.30246	15.31864	1	0	0	0
-P6211	Horní Cerekev - Batelov	49.31712	15.39206	2	0	0	0
-P6228	Kostelec u Jihlavy - Rantířov	49.38680	15.49635	1	0	1	0
-P6248	Božejovice	49.44765	14.49486	5	0	0	0
-P6254	Sepekov	49.44067	14.42018	1	0	0	0
-P6259	U Mikoty	49.40953	14.36021	1	2	3	0
-P6270	Červená	49.37535	14.27084	1	0	0	0
-P6280	u Volfa	49.35222	14.20936	1	0	0	0
-P6281	Svatonice	49.34144	14.19994	1	0	0	0
-P6283	Vrcovice	49.34017	14.17069	2	1	0	0
-P6289	Písek město - Písek	49.30578	14.16180	1	0	1	1
-P6300	zast.Horky	49.39553	14.64302	2	1	0	0
-P6309	Malšice - VÚ Dolina	49.35449	14.58308	1	0	0	0
-P6318	VÚ Dolina - Sudoměřice u Bechyně	49.30066	14.54466	1	0	0	0
-P6322	Sudoměřice u Bechyně - Bechyně nákladiště	49.29150	14.52231	2	0	0	0
-P6331	zast.Hříběcí	49.32053	15.30927	1	1	0	0
-P6340	Dobrá Voda u Pelhřimova - Pelhřimov	49.36743	15.27503	2	0	0	0
-P6351	AGROALFA	49.40433	15.22845	3	1	0	0
-P6353	k Agrostroji	49.42269	15.22333	7	0	0	0
-P6375	"\""U Najdra\"""	49.44393	14.99830	1	0	0	0
-P6382	býv.str.stan.č.47	49.42674	14.93014	1	11	1	0
-P6387	"\""Kladruby\"""	49.41872	14.84917	1	0	0	0
-P6405	"Měšická ul.-\""u Berky\"""	49.40467	14.68871	1	1	0	0
-P6409	Kostelec u Jihlavy - vl. Podzimek a synové	49.33248	15.48539	2	0	0	0
-P6415	místní	49.30922	15.48041	3	0	0	0
-P6417	Třešť - Hodice	49.29591	15.47671	2	17	2	1
-P6420	Třešť - Hodice	49.28902	15.47956	1	2	0	0
-P6426	Hodice - Sedlejov	49.26847	15.48401	1	0	0	0
-P6433	Sedlejov - Telč	49.21548	15.48922	2	3	0	0
-P6434	Sedlejov - Telč	49.21173	15.48684	1	1	0	0
-P6442	Slavonice - JEDNOTA	49.00190	15.34991	1	0	0	0
-P6443	Slavonice - JEDNOTA	49.00282	15.35377	3	1	0	0
-P6459	JEDNOTA - Dačice	49.07800	15.43920	1	0	0	0
-P6462	JEDNOTA - Dačice	49.08460	15.43931	1	0	1	0
-P6463	Dačice - Telč	49.09194	15.44347	1	1	0	0
-P6471	Dačice - Telč	49.12706	15.45601	1	0	0	0
-P6476	Dačice - Telč	49.14505	15.47272	1	0	0	0
-P6491	Prosenice - Lipník nad Bečvou	49.51715	17.52431	1	0	0	0
-P6492	žst. Lipník nad Bečvou	49.53273	17.58393	1	0	0	0
-P6494	Polom Lučice	49.57761	17.82463	3	0	0	0
-P6495	Jeseník	49.61465	17.90149	2	0	0	0
-P6496	Suchdol - měnírna	49.63479	17.92244	11	0	0	0
-P6496	Suchdol - měnírna	49.63479	17.92244	11	0	0	0
-P6497	Suchdol nad Odrou - Studénka	49.67024	17.97365	10	0	0	0
-P6501	Studénka ul. 2.května	49.70831	18.07096	7	0	0	0
-P6505	Studénka - Jistebník	49.74136	18.13757	1	0	0	0
-P6506	Jistebník	49.74703	18.14745	3	0	0	0
-P6508	Polanka ul. 1. května	49.77819	18.18944	5	0	0	0
-P6509	ulice Bratří Sedláčku	49.81402	18.20674	1	0	0	0
-P6510	Bohumín-Vrbice - Bohumín	49.88975	18.33873	7	0	0	0
-P6511	Bohumín - Dětmarovice	49.91247	18.41443	4	0	0	0
-P6514	zast.Závada	49.89750	18.50869	1	0	0	0
-P6517	Petrovice u Karviné - Petrovice u Karviné st.hr.	49.88921	18.56151	3	0	0	0
-P6518	žst. Červenka - (litovelské zhlaví)	49.72711	17.08152	5	0	0	0
-P6519	U kafilérky	49.87202	16.62910	3	0	0	0
-P6520	Benkov	49.74348	17.04136	9	1	0	0
-P6521	U nádraží	49.69702	17.15735	2	0	0	0
-P6525	čtyřkolejný	49.45328	17.41930	6	0	0	0
-P6525	čtyřkolejný	49.45328	17.41930	6	0	0	0
-P6526	U měnírny	49.45244	17.41226	2	0	0	0
-P6527	U zastávky	49.46090	17.37357	10	0	0	0
-P6532	Holický	49.58010	17.28409	2	0	0	0
-P6533	9.května	49.89723	18.35095	3	0	0	0
-P6535	U Rybeny	49.90586	18.33661	1	0	0	0
-P6535	U Rybeny	49.90586	18.33661	1	0	0	0
-P6541	na ulici Českobratrská	49.47774	17.12230	3	0	1	0
-P6542	na ulici Olomoucká	49.47818	17.11726	3	1	0	0
-P6546	u veteriny	49.48689	17.09478	1	1	0	0
-P6547	u Smržic	49.49295	17.08314	5	2	0	0
-P6548	u Smržic na Kostelec	49.49983	17.07503	1	0	1	0
-P6550	kousek od benziny	49.51131	17.06321	1	0	0	0
-P6551	Kostelec do bytné čtvrti	49.51244	17.05759	1	0	0	0
-P6555	u mostku a zastávky	49.51887	17.03028	1	0	0	0
-P6563	Kostelec na Hané - Ptení	49.52633	16.95942	1	9	1	0
-P6573	u žel. zastávky	49.56320	16.91417	1	1	0	0
-P6577	Ptení - Konice	49.57843	16.89914	1	0	0	0
-P6597	Chornice-Unerázka	49.67286	16.74842	1	0	0	0
-P6622	Olomoucká ulice (u obchvatu)	49.76078	16.67422	1	1	0	0
-P6626	účel.kom. do fabrik, SILO	49.77236	16.66591	1	0	0	0
-P6643	zast.Anenská Studánka	49.85504	16.55658	1	0	0	0
-P6647	žst.Lanškroun, silnice I.tř.	49.90750	16.60269	1	0	0	0
-P6648	Zabreh	49.87854	16.88312	3	1	0	0
-P6649	na Křtaltě	49.88059	16.88422	1	0	0	0
-P6651	u zastávky	49.88591	16.89048	1	0	0	0
-P6653	u zahrádek	49.90313	16.91428	1	0	1	0
-P6654	ul. 1.máje	49.90387	16.91665	1	1	0	0
-P6655	ul. Zahradní	49.90534	16.91853	2	0	1	0
-P6656	u zastávky	49.91146	16.92427	1	0	0	0
-P6660	U cukrovaru, ul.Loštická	49.70909	17.07261	1	2	1	1
-P6661	ul. Králova	49.70799	17.07237	2	0	0	0
-P6663	Litovel - Litovel předměstí	49.70457	17.07157	1	0	0	0
-P6664	ke koupališti	49.70312	17.07124	1	0	0	0
-P6680	u zastávky Odrlice	49.64377	17.07191	1	0	0	0
-P6699	zast. Mankovice	49.63587	17.87507	1	0	0	0
-P6703	kafilerka světla	49.64610	17.85035	1	0	0	0
-P6708	tř. Osvobození dvoukolejný	49.66861	17.83548	2	1	0	0
-P6709	optimitka	49.67266	17.82895	2	0	0	0
-P6713	zast. Loučky	49.68490	17.80974	1	3	0	0
-P6718	kamenolm 2	49.69892	17.78068	1	4	0	0
-P6719	světla za Jakubčovicema	49.69930	17.77404	1	0	0	0
-P6745	Svatoňovice světla	49.79998	17.66920	1	0	0	0
-P6749	Sumvald	49.79123	17.62803	1	0	0	0
-P6751	u depa	49.64339	17.94064	1	0	0	0
-P6754	zast. Hl. Životice	49.67996	17.95074	1	0	0	0
-P6777	Suchdol ul. Za nádražím	49.64337	17.94314	1	1	0	0
-P6795	Šakvice-Starovičky	48.90384	16.73506	2	0	0	0
-P6796	přechod v žst.Vranovice	48.96698	16.60280	1	0	0	0
-P6796	přechod v žst.Vranovice	48.96698	16.60280	1	0	0	0
-P6797	Moravanská	49.14413	16.60657	2	0	0	0
-P6797	Moravanská	49.14413	16.60657	2	0	0	0
-P6801	u žel.zast.Blansko-město	49.36027	16.64001	3	0	0	0
-P6803	Ráječko	49.38214	16.63539	4	1	2	0
-P6804	u žel.zast.Dolní Lhota	49.38657	16.63409	1	0	0	0
-P6805	ve Spešově	49.39444	16.63178	9	0	0	0
-P6806	u žst.Rájec-Jestřebí	49.40926	16.62752	1	0	0	0
-P6806	O.Blažka	49.40922	16.62760	1	0	0	0
-P6808	Lhota Rapotina-Jabloňany-Obora	49.46562	16.61816	2	0	0	0
-P6810	žst.Skalice nad Svitavou	49.48203	16.60775	1	0	0	0
-P6811	ul.Tyršova	49.49551	16.60315	2	0	0	0
-P6815	V Letovicích u hřiště	49.54270	16.57027	1	0	0	0
-P6819	z Rozhraní do Vilémova	49.59411	16.53836	1	0	0	0
-P6823	u žel.zast.Moravská Chrastová,	49.62322	16.52450	3	0	0	0
-P6824	v žst.Březová	49.63579	16.51876	2	0	0	0
-P6826	u žel.zast.Dlouhá Březová	49.65567	16.50781	2	0	1	0
-P6827	na Zavadilce	49.71130	16.48470	4	0	0	0
-P6828	u žel.zast.Svitavy-Lány; na Mo	49.73572	16.48322	1	0	0	0
-P6829	žst.Svitavy, ul.Olomoucká	49.75670	16.47909	5	0	0	0
-P6834	u žst.Opatov	49.80903	16.49048	5	0	0	0
-P6835	zast.Semanín	49.84716	16.47411	2	0	0	0
-P6837	ul.Křenová	49.19125	16.62819	2	0	0	0
-P6841	u Svitavského rybníka	49.76471	16.46491	3	2	0	0
-P6847	zast.Vendolí (dolní), sil.I.tř	49.74582	16.41249	2	1	0	0
-P6861	žst. Polička, silnice II.tř.	49.71866	16.26612	1	0	0	0
-P6862	mezi vlečkami, na Střítež	49.71986	16.25566	1	0	0	0
-P6862	Střítežská	49.71993	16.25536	1	0	0	0
-P6871	Polička - Borová u Poličky	49.72180	16.21062	1	0	0	0
-P6893	žst. Borová u Poličky	49.74469	16.15826	1	0	0	0
-P6895	silnice II.tř., směr Proseč	49.74902	16.14968	1	1	0	0
-P6896	silnice I/34, směr od Hlinska	49.75077	16.13899	1	3	1	0
-P6910	vedle žst.Čachnov	49.75285	16.06255	2	0	0	0
-P6913	Krouna, silnice I/34	49.77047	16.04233	1	0	0	0
-P6924	Čachnov - Skuteč	49.81581	16.02934	1	0	0	0
-P6927	zast.Předhradí	49.82496	16.01804	1	0	0	0
-P6931	u žst.Skuteč, do průmysl.zóny	49.83722	15.99287	1	1	0	0
-P6943	vedle dopravny Jevíčko	49.63025	16.73129	2	2	0	0
-P6953	Borotínský přejezd	49.60302	16.69423	2	0	0	0
-P6968	ve Váženech u Boskovic	49.53048	16.69199	1	0	0	0
-P6972	pod Červeným kopcem	49.50864	16.67104	1	0	0	0
-P6975	u Slávie	49.49060	16.65041	1	0	0	0
-P6978	horní dvojče	49.47787	16.64239	2	0	0	0
-P6983	Tišnov-Předklášteří	49.35158	16.41297	1	0	0	0
-P7000	do prům.zóny v Pohořelicích	48.97092	16.51745	2	2	0	1
-P7007	u cihelny - dnes Stafikr	48.93238	16.74594	1	1	1	0
-P7010	stát.silnice - Jamská	49.55359	15.96590	1	0	0	0
-P7011	stát.silnice z I/38 na Mělkovice	49.55802	15.97350	3	0	0	1
-P7020	stát.silnice	49.56238	16.06123	2	1	0	0
-P7022	u zahradnictví	49.56998	16.07584	1	2	0	0
-P7027	Nové Město na Moravě - Bystřice nad Pernštejnem	49.57067	16.09727	3	0	0	0
-P7039	stát.silnice	49.54461	16.18146	2	0	0	0
-P7045	polní cesta	49.52424	16.21421	1	0	0	0
-P7054	stát.silnice	49.47914	16.23838	1	0	0	0
-P7057	místní kom	49.47555	16.24334	1	0	0	0
-P7069	st.silnice	49.45397	16.33329	1	0	0	0
-P7071	místní kom. do Klečan	49.45281	16.34172	2	0	0	0
-P7081	polní cesta	49.40707	16.37168	1	0	0	0
-P7090	u žst.Boří les	48.73816	16.86271	2	1	0	0
-P7096	Boří les - Valtice	48.74893	16.76283	1	0	0	0
-P7099	v polích blízko rybníku Nesyt	48.76390	16.71716	2	1	0	0
-P7101	u žel.zastávky Sedlec	48.77451	16.69948	1	0	0	0
-P7104	ke staré celnici	48.79099	16.63995	1	0	0	0
-P7110	není	48.82799	16.51042	1	1	0	0
-P7118	není	48.82330	16.28524	3	2	0	0
-P7126	u žel.zast.Dyje	48.84992	16.11961	1	1	0	0
-P7128	není	48.86074	16.07909	2	0	0	0
-P7133	polní cesta-Valtická alej	48.77024	16.81068	1	0	0	0
-P7139	před žst.Velké Pavlovice	48.88765	16.82368	1	0	0	0
-P7140	u Vinopy	48.89747	16.82266	2	12	3	0
-P7148	u žel.zast.Brumovice	48.94785	16.90772	4	0	0	0
-P7160	Hovoranský přejezd	48.91334	17.00492	1	1	0	0
-P7161	v Mutěnicích U Urbana	48.91269	17.02243	1	1	0	0
-P7164	hlavní na Dubňany,Kyjov	48.90750	17.03297	2	2	0	0
-P7165	U Vinařských k Jagošovi	48.90534	17.03565	1	1	1	1
-P7167	k novému rybníku	48.88967	17.05303	1	0	1	0
-P7169	na Zbrodu	48.88792	17.06465	3	0	0	0
-P7176	Pánov-hlavní na Mutěnice	48.87843	17.11610	3	1	0	0
-P7178	Na Výhoně (tvz. v zahrádkách)	48.86287	17.12956	1	0	0	0
-P7179	ul.Kaštanová	49.15602	16.64781	2	2	1	0
-P7180	Holásky - polní	49.14661	16.65089	1	0	0	1
-P7183	před žst.Sokolnice do Telnice	49.10845	16.72943	1	0	0	0
-P7188	Rousínov-Slavíkovice, místní	49.19823	16.87081	2	1	0	1
-P7189	Rousínov, ul. R.Armády,státní	49.20045	16.87397	2	0	0	0
-P7190	z Rous.do Královop. V., Vážanský	49.20582	16.87490	2	0	1	1
-P7194	Topolany-Křižanovice u Vyškova	49.28391	17.03760	1	2	1	0
-P7195	u žel.zast.Hoštice-Heroltice	49.29161	17.05919	1	0	0	0
-P7199	MK z obce do polí asi 17 domů	49.34375	17.19868	2	1	0	0
-P7201	u podniku INGSTAV	49.34212	17.29374	2	0	0	0
-P7202	u stanice (I.tř.)	49.34657	17.30875	2	0	0	0
-P7203	polní	49.35000	17.32013	1	0	0	0
-P7204	Kojetín - Chropyně	49.35155	17.32538	5	2	0	0
-P7211	Chropyně - Věžky	49.39727	17.40049	2	0	0	1
-P7215	Věžky - Přerov	49.42365	17.44499	1	0	0	0
-P7219	Kojetín - Lobodice	49.35758	17.29493	1	1	0	0
-P7223	Kojetín - Lobodice	49.37656	17.28379	1	0	0	0
-P7229	Skašov - Tovačov	49.41766	17.28220	1	1	0	0
-P7243	ulice Hulínská	49.30308	17.40096	3	0	0	0
-P7243	ul. Hulínská	49.30307	17.40096	3	0	0	0
-P7248	Kroměřížská ulice	49.31535	17.45377	2	1	0	0
-P7250	za Hulíne, na Břest	49.32137	17.45986	1	0	0	0
-P7258	Tovární ulice (u TO)	49.32731	17.57266	1	0	1	0
-P7258	ulice Tovární	49.32738	17.57269	1	0	1	0
-P7261	Přílepy	49.32871	17.58795	1	0	0	0
-P7263	u cihelny	49.33847	17.59784	1	0	1	0
-P7272	u stavědla č.1 (stanoviště I)	49.39395	17.66833	2	3	1	0
-P7275	spojnice mezi obcí	49.39682	17.68188	2	1	0	0
-P7290	Kunovický u statku	49.44236	17.82246	3	0	0	0
-P7298	Branky B1	49.45918	17.90334	1	0	1	2
-P7301	ke střelnici	49.46480	17.93727	1	0	0	1
-P7308	u Kauflandu, zastávka Oskol	49.29215	17.40760	1	0	0	0
-P7309	zastávka Kotojedy	49.28345	17.40320	2	0	0	0
-P7317	skržický	49.24324	17.34525	1	0	0	0
-P7322	nětčický na trojce	49.23610	17.30013	2	0	0	0
-P7333	Krhová	49.49708	17.99100	6	0	0	0
-P7335	Domorac	49.51697	18.01170	1	0	0	0
-P7338	Mořkov-pila	49.52895	18.07017	1	0	0	0
-P7352	Rožnovská	49.54400	18.20964	3	0	0	0
-P7354	Ráztoka	49.54091	18.22828	1	0	0	0
-P7356	Žuchov	49.54447	18.24199	1	0	0	0
-P7367	pod nemocnicí	49.53871	18.31039	2	0	0	0
-P7369	Nyklovice	49.54512	18.32371	1	0	0	1
-P7380	Kunčice pod Ondřejníkem - Frýdlant nad Ostravicí	49.58548	18.35846	1	0	0	1
-P7381	Frýdlant nad Ostravicí - Pržno	49.60324	18.35377	2	0	0	1
-P7387	Pržno - Baška	49.62755	18.36857	1	1	0	0
-P7390	Pržno - Baška	49.64438	18.36903	2	1	0	1
-P7396	žst. Frýdek-Místek	49.67486	18.35662	1	0	1	0
-P7399	ul. Buničitá	49.77190	18.30203	1	0	0	0
-P7400	ul.Výletní	49.76693	18.30603	2	0	0	0
-P7400	ul. Výletní (místní kom.)	49.76691	18.30631	2	0	0	0
-P7405	Lískovec u Frýdku - Frýdek-Místek	49.69172	18.33222	2	3	0	0
-P7405		49.69176	18.33230	2	3	0	0
-P7408	Lískovec u Frýdku - Frýdek-Místek	49.68094	18.35063	2	0	1	0
-P7410	Potůčky	49.47863	17.97824	3	1	3	1
-P7417	u pelikána	49.47112	18.02556	1	0	0	0
-P7418	Pěší přechod v Zašové	49.46824	18.04010	1	0	1	0
-P7419	Zašová	49.46772	18.04272	1	0	0	0
-P7420	Střítežský	49.46585	18.05587	5	3	0	2
-P7424	u zastávky	49.46136	18.09243	2	0	0	0
-P7426	Tesla Rožnov	49.46016	18.12241	5	8	0	0
-P7451	žst. Frýdlant nad Ostravicí - ostravické zhlaví	49.58599	18.35942	1	0	0	0
-P7464	Frýdlant nad Ostravicí - Ostravice	49.55757	18.37084	1	0	0	0
-P7468	Frýdlant nad Ostravicí - Ostravice	49.55233	18.37837	1	0	0	0
-P7469	Frýdlant nad Ostravicí - Ostravice	49.55134	18.37946	1	0	1	0
-P7476	pila	49.53931	18.39251	2	2	0	0
-P7479	Prchalov	49.65220	18.13577	1	0	0	0
-P7481	Příbor benzina	49.64737	18.14425	2	2	1	1
-P7482	ul. Místecká Příbor	49.64207	18.14794	2	0	0	0
-P7488	Kopřivnice nákl.nádr. - Kopřivnice	49.59793	18.14869	1	1	0	0
-P7519	Diviška	49.59772	17.27711	2	0	0	0
-P7520	Roháče z Dubé	49.60306	17.28047	2	0	0	0
-P7520		49.60577	17.28427	2	0	0	0
-P7522	Bystrovany	49.59873	17.32278	2	1	1	0
-P7525	U nádraží	49.59428	17.35233	1	1	0	0
-P7526	Bukovanský	49.59526	17.35891	1	2	0	0
-P7528	Do Burku	49.60230	17.37348	1	1	0	0
-P7529	U Moravie	49.61379	17.39512	1	0	0	0
-P7531	U zastávky Hlubočky	49.62550	17.40336	3	0	0	1
-P7534	do kamenolomu	49.66778	17.41645	1	0	0	0
-P7534		49.66778	17.41645	1	0	0	0
-P7541	Domašov nad Bystřicí - Moravský Beroun	49.75484	17.42058	2	0	4	1
-P7542	Ondrášov	49.78854	17.42826	1	0	0	0
-P7544	Dětřichov	49.81590	17.39295	1	0	0	0
-P7549	Dětřichov nad Bystřicí - Valšov	49.85634	17.41029	3	0	0	0
-P7555	Lomnice závory v esíčku	49.89562	17.43047	9	0	0	0
-P7557	Valšov dvoukolejný	49.92640	17.43502	1	0	0	0
-P7557	Valšov dvoukolejný	49.92640	17.43502	1	0	0	0
-P7559	Arab	49.94704	17.44162	2	5	0	0
-P7565	Bruntál - Milotice nad Opavou	50.00919	17.55103	1	0	0	0
-P7584	Bedihošť - Prostějov hl.n.	49.44822	17.16147	1	0	0	0
-P7587	Bedihošť - Prostějov hl.n.	49.46561	17.12907	1	0	1	0
-P7587		49.46557	17.12914	1	0	1	0
-P7589	Myší díra	49.47894	17.13135	1	0	0	1
-P7593	U žst.Vrbátky	49.50378	17.20037	2	0	1	0
-P7593	U nádraží	49.50375	17.20044	2	0	1	0
-P7595	žst. Blatec	49.52459	17.24310	1	0	0	0
-P7599	Rybářská ul.	49.57612	17.26627	6	4	0	0
-P7602	Tovární	49.58699	17.27031	1	0	0	0
-P7604	U Pevnůstky	49.58773	17.26306	2	1	1	0
-P7607	Polská	49.58561	17.25414	2	0	0	0
-P7611	Palackého	49.59507	17.24100	9	4	2	0
-P7612	Tomkova	49.60202	17.23703	2	0	0	0
-P7613	Na trati	49.60445	17.23348	2	1	0	0
-P7614	U autobazaru	49.60604	17.23001	4	0	0	0
-P7616	U železáren - zadní brána	49.60893	17.22797	1	0	0	0
-P7618	do pískovny	49.62279	17.21923	1	0	1	1
-P7620	Na rozcestí	49.63076	17.20824	2	1	0	0
-P7633	Na Vojnici	49.62209	17.10066	1	0	0	0
-P7638	na Slatinice	49.60891	17.07792	1	0	0	0
-P7647	Drahanovice - Třebčín	49.55800	17.11783	1	0	0	0
-P7657	u samoty	49.51355	17.08101	1	0	0	0
-P7665	ulice Šternberská Břidličná	49.91220	17.37019	2	0	3	0
-P7668	Břidličná - Rýmařov	49.92423	17.35762	1	0	0	0
-P7681	ulice T.Kronesové Bruntál	49.99724	17.46522	1	1	0	0
-P7687	vl. SHR Staré Město - Světlá Hora	50.03748	17.40081	1	1	0	0
-P7703	hranice TO - Kunov	50.02551	17.52629	1	2	0	0
-P7719	Karlovice - Vrbno p.Prad.	50.10667	17.43418	1	0	0	0
-P7724	ul. 5.května O. Třebovice	49.83646	18.19951	1	0	0	0
-P7725	Martinov k zahrádkám dvoukolejný	49.84660	18.19523	1	0	0	1
-P7725	ul. U opavice (místní kom.)	49.84660	18.19511	1	0	0	1
-P7726	Martinov k zahrádkám jednokolejn	49.85628	18.19464	1	0	0	1
-P7728	Děhylov tříkolejný	49.87454	18.17806	1	0	0	1
-P7735	z Háje na Benešov	49.90159	18.08755	2	0	0	0
-P7737	Ulice Mlýnská Lhota	49.90674	18.05027	1	0	1	0
-P7738	Ulice Komenského Lhota	49.90723	18.04680	1	0	0	0
-P7741	ul.Palackého Štítina	49.91108	18.01931	7	5	1	0
-P7743	Ul.Hlavní - Štítina žst.	49.91255	18.00876	3	2	1	0
-P7744	Komárov do Tevy	49.91770	17.97194	1	1	0	0
-P7745	Ulice Ostravská Komárov	49.91814	17.96224	4	0	0	0
-P7746	nemocnice, k úpravně vody	50.09824	17.68874	2	0	1	0
-P7748	Ulice Petrovická Krnov	50.09577	17.69860	2	0	0	0
-P7749	Ulice Hřbitovní Krnov	50.09549	17.70281	1	0	1	1
-P7750	Ulice Hlubčická Krnov Cvilín	50.09423	17.71201	1	0	0	0
-P7754	Krnov ČOV	50.08110	17.73285	1	1	0	0
-P7757	zn.Úvalno	50.04899	17.75525	2	0	0	0
-P7767	Ulice k Celnici Vávrovice zn.	49.97526	17.85804	1	0	0	1
-P7769	Ulice Palhanecká Opava	49.95314	17.87231	2	0	1	2
-P7770	Ulice Krnovská Opava	49.95078	17.87365	1	6	0	0
-P7783	Krásné Loučky zn.	50.12534	17.63836	1	0	1	0
-P7808	Ulice Na Hrázi Opava	49.92234	17.89860	6	2	0	0
-P7812	Rybníčky	49.90327	17.88437	9	20	0	0
-P7814	Přechod pro pěší Branka U Op.	49.89028	17.87838	1	0	1	0
-P7818	Ulice Hradecká Opava	49.92150	17.89540	2	0	0	0
-P7819	Ulice Opavská Otice	49.91870	17.87815	2	1	0	0
-P7820	Ulice K Domkům Otice	49.91881	17.87232	2	0	0	0
-P7822	Ulice Otická Otice/Slavkov	49.92001	17.85666	3	2	1	0
-P7846	Na chaty v Mladecku	49.89539	17.71034	1	0	0	0
-P7847	U pošty Mladecko	49.89703	17.70795	2	0	1	0
-P7850	Esíčko Mladecko - Jakartovice	49.90840	17.70116	2	0	0	0
-P7865	k letišti	49.93663	17.97942	1	0	0	0
-P7868	Malé - Velké Hoštice	49.93818	17.95829	4	31	0	0
-P7873	ul. Štěpánkovická Kravaře	49.93742	18.02054	1	0	0	0
-P7873	ul. Štěpánkovická Kravaře	49.93742	18.02054	1	0	0	0
-P7875	Ulice Školní Kravaře Kouty zn.	49.93134	18.03833	1	3	0	0
-P7881	Ulice Bolatická Dolní Benešov	49.92396	18.10181	3	2	0	0
-P7885	Kozmice	49.91809	18.14331	2	0	1	0
-P7890	zn.Bolatice	49.96372	18.07425	2	0	0	0
-P7898	Šlapanice-letiště ul.Tuřanka	49.16239	16.70960	1	0	0	0
-P7904	z Jiříkovic ke Gruntům	49.15668	16.76094	1	1	0	0
-P7908	Blažovice - Slavkov u Brna	49.14736	16.83163	1	0	0	0
-P7909	u žel.zast Křenovice dolní n.	49.14396	16.83438	3	1	0	1
-P7912	Slavkov u Brna - Bučovice	49.14720	16.91499	2	3	1	0
-P7913	u hřiště	49.14542	16.92176	1	1	0	0
-P7915	Slavkov u Brna - Bučovice	49.14493	16.93901	1	0	0	0
-P7922	u žel.zast.Nevojice	49.13676	17.04752	2	0	0	0
-P7924	hlavní na zhlaví-ocelogumový	49.14946	17.08264	5	0	0	0
-P7926	jednosměrka k JZD	49.14931	17.09312	2	1	0	0
-P7927	hlavní u st.1 žst.Nemotice	49.13376	17.11742	1	0	0	0
-P7931	u žel.zast.Jestřabice;STABILA	49.08887	17.11329	1	4	0	0
-P7934	Boršovský, v žst.Kyjov	49.01844	17.12458	1	1	0	0
-P7935	šroubárenský u žel.zast. Kyjov	49.00384	17.12281	3	0	0	1
-P7935	"""šroubárenský přejed 64 km"""	49.00943	17.00611	3	0	0	1
-P7938	ve Vracově u školy	48.97845	17.20893	1	0	0	0
-P7940	u žel.zastávky Vracov	48.97665	17.21920	1	1	0	0
-P7943	z Bzence na Strážnici	48.96764	17.28559	2	2	0	0
-P7943	z Bzence na Strážnici	48.96764	17.28559	2	2	0	0
-P7945	zarazický	48.94317	17.36881	3	1	0	1
-P7949	Blatnický	48.98545	17.40505	1	0	0	0
-P7951	na zahrádky	48.98863	17.41294	1	0	0	1
-P7953	chylický	49.00046	17.42438	1	0	0	0
-P7955	do lázní	49.01578	17.44356	2	0	0	1
-P7957	do LETU na zast.	49.03855	17.46111	1	0	1	0
-P7958	do nového LETU	49.04229	17.46171	1	0	0	1
-P7971	u hřiště (u kiosku)	49.04588	17.59742	1	0	0	0
-P7973	hlavní u zadní brány zbrojovky	49.02942	17.62278	1	2	1	0
-P7983	Hlavní	49.02919	17.73263	1	0	0	0
-P7984	Nezdenice, u penzionu	49.01877	17.75360	1	0	0	1
-P7990	na Rudimov, u Kuchařového	49.03841	17.80283	1	0	0	1
-P7992	za vjezd.od Slavíč. do Víceníkov	49.03775	17.81875	1	0	0	0
-P8003	u Divnice	49.09041	17.91242	1	0	0	0
-P8011	Popov	49.07795	17.97126	1	2	2	0
-P8013	u čapího hnízda	49.07331	17.99341	2	0	0	0
-P8014	na pilu, na dvojce	49.06935	18.00668	2	0	0	0
-P8014	na pilu, na dvojce	49.06935	18.00668	2	0	0	0
-P8024	hlavní silniční do Mouchnice	49.11447	17.13448	1	0	0	0
-P8030	průmyslová zóna, tech.služby	49.05948	17.46185	1	0	0	0
-P8032	U drůbežárny,cyklostezka	49.07187	17.43955	1	0	1	1
-P8033	ke kolibě (motorest)	49.03896	17.69171	1	0	0	0
-P8043	u firmy TOKO	49.08966	17.73559	4	1	0	0
-P8044	u PENY, sídliště Zahradní	49.09401	17.74167	1	1	0	0
-P8045	Hrazánská ulice, u zámku	49.09672	17.74592	1	0	0	0
-P8046	před nádražím, k sídlišti	49.09752	17.74661	1	0	0	0
-P8051	Lhotka n.Beč. - Valašské Meziříčí	49.49892	17.94389	1	0	0	0
-P8052	Juřinka	49.48149	17.96372	1	0	0	0
-P8053	Jarcová	49.45188	17.96908	4	0	0	0
-P8054	Bystřička 1, k přehradě	49.41832	17.96341	2	0	0	0
-P8055	Bystřička 2, hlavní cesta	49.41432	17.95209	3	0	0	0
-P8058	u žst. Jablůnka	49.37913	17.94705	2	1	0	0
-P8060	spoj.komunikace, část za dráhou	49.33668	17.99031	1	0	0	0
-P8061	na Valašské Klobouky	49.30969	18.00365	3	0	0	0
-P8071	u žel.zastávky	49.30301	18.09168	1	0	0	0
-P8074	u školy I.	49.30700	18.10833	3	2	0	0
-P8076	Huslenky u soukromníka	49.30933	18.11470	2	0	0	0
-P8078	Bařiny (za zastávkou)	49.30982	18.11719	1	0	0	0
-P8090	na Lušovou	49.32832	18.16400	2	0	0	0
-P8115	sjezdovka u tachnických služeb	49.35050	18.25005	1	0	0	0
-P8133	u žel.zast.Zarazice	48.93727	17.36196	1	0	0	0
-P8134	I/55 hlavní u žel.zast.Zarazic	48.93687	17.35677	5	1	1	0
-P8136	"\""U Frajera\""; ul.Pátkova"	48.93285	17.34989	2	1	0	0
-P8139	k družstvu, ul.Průhony	48.91966	17.33453	2	0	1	0
-P8140	Na Ořechovce	48.90156	17.32617	2	2	1	0
-P8141	hlavní u pile	48.89807	17.32214	3	2	0	0
-P8143	ul.Za Drahou; k vinohradům	48.89405	17.30439	3	0	1	2
-P8146	k celnímu skladu	48.87932	17.27804	1	1	0	0
-P8148	u žst.Sudoměřice k Petrovu	48.87242	17.24398	2	0	0	0
-P8151	Hrušecký	48.78410	16.94573	5	1	0	0
-P8152	Moravská nová Ves-Mikulčice	48.81393	17.04045	2	0	0	1
-P8153	sev.zhlaví žst.Lužice, ul.Důlní	48.83182	17.07088	3	0	0	0
-P8155	přes sev.zhlaví Rohatec-Raťky	48.89423	17.20159	2	0	0	0
-P8155		48.89448	17.20135	2	0	0	0
-P8157	na žel.zast.Moravský Písek	48.99091	17.32968	1	0	0	0
-P8158	Mor.Písek-Polešovice; hr.Chlad	48.99422	17.33328	7	1	0	0
-P8159	u hr.Salajka	49.01543	17.35637	3	0	0	0
-P8161	Sušice	49.11084	17.46057	2	0	0	0
-P8162	u Hamé	49.11835	17.46880	3	0	0	1
-P8164	u zastávky Spytihněv	49.14268	17.49547	5	0	0	0
-P8166	Halenkovice	49.17626	17.50303	1	0	0	0
-P8168	Žlutava	49.18494	17.50551	1	0	0	0
-P8169	na Machovou	49.25141	17.50259	2	0	0	0
-P8170	v žst. Tlumačov	49.25811	17.49875	3	0	0	0
-P8170		49.25147	17.48471	3	0	0	0
-P8171	Kurovický	49.28763	17.49121	1	0	0	0
-P8172	zastávka Záhlinice	49.29225	17.49120	1	0	0	1
-P8173	na Chrášťany	49.30200	17.48628	1	0	0	0
-P8174	ke statku v Hulíně	49.32813	17.46826	1	0	0	0
-P8175	zastávka Břest	49.34888	17.45531	4	0	0	0
-P8176	polní Žalkovice-Stará Ves	49.36531	17.45454	1	0	0	0
-P8177	Říkovice sever	49.38141	17.45387	6	0	0	0
-P8179	u zastávky	49.41594	17.45243	1	0	0	0
-P8221	u žel.zast.Hodonín a tabáčky	48.84440	17.12080	1	0	0	0
-P8223	Kvítkovice	49.19934	17.53720	2	2	0	0
-P8224	k sídlišti Trávníky	49.20030	17.54596	4	2	0	1
-P8227	u zastávky ZPS	49.20548	17.57330	1	1	0	0
-P8230	Malenovice I	49.20980	17.59627	1	0	1	0
-P8232	přejezd u obchodního centa OBI	49.21280	17.61497	1	0	0	0
-P8233	Louky - Lapaj	49.21633	17.62313	6	1	0	0
-P8235	U INTERŠPÁRU	49.22008	17.64122	2	1	0	0
-P8236	Svit	49.22402	17.65214	3	0	1	0
-P8237	Zlín střed	49.22756	17.66196	1	0	1	0
-P8240	garáže Santražiny	49.22912	17.67326	2	1	0	0
-P8242	Hornomlýnská	49.22709	17.68204	1	1	0	0
-P8244	u nemocnice, Podvesná	49.22574	17.69205	2	1	1	0
-P8246	do uhelných skladů	49.22352	17.70089	1	1	0	0
-P8251	u firmy - plastová okna	49.21743	17.75325	6	5	1	0
-P8253	stará lipská (Na Želechovice)	49.21534	17.77383	2	1	0	0
-P8262	u Jelínka	49.21857	17.84138	1	0	1	0
-P8271	Bocanovice	49.56426	18.74134	3	0	1	0
-P8278	U Moržola	49.64941	18.70342	2	0	0	0
-P8280	Bystřice nad Olší - Třinec	49.65636	18.69615	1	0	0	0
-P8287	Třinec-stan.Třinec-Konská - Český Těšín	49.72361	18.62011	2	0	0	0
-P8289	ul.Těšínská	49.79944	18.58200	2	0	0	0
-P8290	Na poddolovaném	49.81604	18.55952	9	0	0	0
-P8290	pod ČSM	49.81598	18.55936	9	0	0	0
-P8292	Petrovice u Karviné - Státní statek Karviná	49.88877	18.53443	2	0	0	0
-P8292	místní kom.	49.88882	18.53452	2	0	0	0
-P8295	STÁTNÍ STATEK Karviná - Karviná m.-kolej 1	49.87713	18.54068	1	1	0	0
-P8297	u VOKD	49.77548	18.36404	1	0	0	0
-P8298	ul.Datyňská	49.77605	18.35939	1	0	0	0
-P8302	Frýdek-Místek - Dobrá u Frýdku-Místku	49.68260	18.36569	2	1	1	0
-P8304	Frýdek-Místek - Dobrá u Frýdku-Místku	49.68073	18.38769	1	2	0	0
-P8306	Na Špici	49.67471	18.40137	3	0	0	0
-P8307	Frýdek-Místek - Dobrá u Frýdku-Místku	49.67153	18.41077	1	1	0	0
-P8308	Dobrá u Frýdku-Místku - odb. PZ Nošovice	49.67026	18.41779	1	0	0	0
-P8308		49.66973	18.42168	1	0	0	0
-P8310	Dobrá u Frýdku-Místku - odb. PZ Nošovice	49.67152	18.42966	2	1	0	0
-P8320	odb. PZ Nošovice - Hnojník	49.67897	18.50103	1	0	0	0
-P8326	Hnojník - Český Těšín	49.67748	18.54430	1	1	2	0
-P8330	Hnojník - Český Těšín	49.67902	18.56942	1	0	0	0
-P8336	Hnojník - Český Těšín	49.69454	18.60074	1	0	0	0
-P8340	Hnojník - Český Těšín	49.71062	18.61535	2	1	1	0
-P8341	Hnojník - Český Těšín	49.71460	18.61783	1	0	0	0
-P8343	žst. Český Těšín	49.74100	18.62277	6	2	0	0
-P8345	Kostická váha	48.74720	16.93189	3	0	0	0
-P8356	Hundai	49.67024	18.43825	1	0	0	0
-P8392	žst. Přerov - (sudé kol. 18-26)	49.44638	17.44372	2	0	0	0
-P8396	žst. Pečky	50.08983	15.02505	1	0	0	0
+nazev	lat	lon	nehod	lehce	tezce	usmrceno
+Bubenská třída	50.10468	14.43635	7	0	0	0
+Špejchar	50.09811	14.40749	1	0	0	0
+na Hradčanské	50.09768	14.40474	1	0	0	0
+Veleslavínský	50.09520	14.34800	2	0	0	0
+ulice Krajní	50.09054	14.32893	2	1	3	0
+ul. U stanice	50.08983	14.32529	2	1	0	1
+ulice Litovická	50.08932	14.32439	2	0	1	0
+Ruzyně (ul. Drnovská)	50.08390	14.30984	2	1	0	0
+ulice „Lidická“	50.09296	14.21461	2	0	0	0
+	50.09306	14.21461	2	0	0	0
+Jeneč - Unhošť	50.09229	14.18698	6	0	0	0
+Jeneč - Unhošť	50.09476	14.16607	3	0	0	0
+Jeneč - Unhošť	50.09761	14.16178	2	0	0	0
+Jeneč - Unhošť	50.10461	14.13877	4	0	0	0
+U masokombinátu	50.11659	14.11925	3	1	0	0
+Kladno - Kamenné Žehrovice	50.12691	14.08994	1	0	0	0
+u zastávky Kladno - Rozdělov	50.13191	14.06692	1	0	0	0
+Bílé Vršky	50.13293	14.05128	2	0	0	0
+žst. Kamenné Žehrovice	50.14052	14.03449	1	0	0	0
+žst. Stochov	50.14168	13.96072	2	0	1	0
+Stochov - Nové Strašecí	50.13480	13.90636	1	0	0	0
+Nové Strašecí - Řevničov	50.14901	13.83827	1	0	0	0
+Lužná u Rakovníka - Krupá	50.15774	13.74453	2	0	0	0
+Krupá - Hranice OŘ-ST 665/671	50.17107	13.71563	2	0	0	0
+Krupá - Hranice OŘ-ST 665/671	50.20185	13.67136	1	0	0	0
+Hranice OŘ-ST 665/671 - Měcholupy	50.23170	13.59857	1	0	0	0
+Hranice OŘ-ST 665/671 - Měcholupy	50.25351	13.56392	1	0	0	0
+Měcholupy - Trnovany	50.28185	13.55717	1	0	0	0
+žst. Žatec	50.33872	13.54966	2	0	0	0
+ulice Lounská	50.33868	13.54946	2	0	0	0
+Velichov - Hořetice	50.36482	13.54157	2	0	0	0
+Velichov - Hořetice	50.37721	13.50895	1	0	0	0
+žst. Hořetice	50.37998	13.50101	4	1	0	0
+Hořetice - Březno u Chomutova	50.38174	13.48002	1	0	0	0
+Hořetice - Březno u Chomutova	50.39311	13.42834	3	0	0	0
+ul. Pražská	50.38637	13.19189	2	0	0	0
+žst. Ostrov nad Ohří	50.30036	12.95252	5	0	0	0
+Hájek - Dalovice	50.27342	12.91309	1	0	0	0
+Hájek - Dalovice	50.27243	12.91017	1	0	0	0
+žst. Dalovice	50.25678	12.88635	3	1	0	1
+Teplárenská ulice	50.24302	12.87964	3	0	0	0
+Karlovy Vary-Dvory - Chodov-karlovarské zhlaví	50.23516	12.79043	3	0	0	0
+Karlovy Vary-Dvory - Chodov-karlovarské zhlaví	50.22960	12.76726	3	1	1	0
+žst. Dasnice	50.13567	12.56814	1	0	0	0
+žst. Kynšperk n.Ohří	50.12891	12.52171	2	0	0	0
+Nebanice - Tršnice	50.11599	12.47528	1	0	0	0
+Nebanice - Tršnice	50.11684	12.43986	1	0	0	0
+Hradiště	50.09292	12.39604	8	1	0	0
+Tršnice - Nový Drahov	50.14498	12.40190	1	0	0	0
+LB MINERALS Skalná - Velký Luh	50.18671	12.37598	2	0	1	0
+LB MINERALS Skalná - Velký Luh	50.20312	12.37254	1	0	0	0
+Nový Kostel - Luby u Chebu	50.22104	12.42115	1	4	1	0
+žst. Svatava - ZV 5	50.18899	12.62670	2	0	0	0
+Svatava - Oloví	50.24379	12.56534	1	0	0	0
+Oloví - Rotava	50.25896	12.55300	2	0	0	0
+Oloví - Rotava	50.28133	12.54582	2	0	0	0
+Kraslice - Kraslice st.hr.	50.34043	12.49690	1	0	0	0
+Stará Role - Nová Role	50.24730	12.82964	5	0	0	0
+Stará Role - Nová Role	50.26946	12.78288	6	6	1	0
+Stará Role - Nová Role	50.27143	12.77976	4	0	0	0
+SEDLECKÝ KAOLIN Božičany - Nová Role	50.27143	12.77976	4	0	0	0
+Nová Role - Nejdek	50.27497	12.78034	4	0	0	0
+Nová Role - Nejdek	50.30048	12.75299	1	0	0	0
+Nová Role - Nejdek	50.30540	12.75470	1	0	0	0
+žst. Nejdek	50.31963	12.73272	2	0	1	0
+žst. Nejdek	50.31965	12.73078	1	1	0	0
+Nejdek - METALIS	50.32331	12.72582	1	0	0	0
+METALIS - Nové Hamry	50.33210	12.71954	2	1	0	0
+METALIS - Nové Hamry	50.34294	12.71053	1	0	0	0
+Merklín - Hroznětín	50.31331	12.86128	1	1	0	0
+Hroznětín - Sadov	50.30593	12.86904	1	5	0	1
+Chodov-staniční kolejiště - CHODOS	50.23896	12.76171	2	1	0	0
+SEDLECKÝ KAOLIN Božičany - Nová Role	50.26226	12.77938	1	0	0	0
+U závodiště	50.01177	14.38885	5	1	1	0
+U závodiště	50.01177	14.38885	5	1	1	0
+U závodiště	50.01177	14.38885	5	1	1	0
+u okrsku, ul. Na Betonce	49.98402	14.36170	10	1	0	0
+Praha-Radotín - Dobřichovice	49.97496	14.34653	2	0	0	0
+Černošice-velký, ul.Radotínská	49.96043	14.32359	4	0	0	0
+ul. Kazínská, Vrážská	49.95932	14.32342	4	0	2	0
+za zast. Černošice Mokropsy	49.94424	14.32906	2	0	0	0
+Praha-Radotín - Dobřichovice	49.93147	14.30202	4	0	0	0
+ul. Svážná	49.92671	14.28374	1	0	0	1
+u mostu	49.92499	14.27677	10	0	0	0
+Řevnice - Zadní Třebaň	49.91934	14.20927	1	0	0	0
+Zadní Třebaň - Karlštejn	49.93231	14.17978	5	0	0	0
+žst. Karlštejn	49.93121	14.16495	1	0	0	0
+Karlštejn - Beroun-os.n.	49.93329	14.13175	2	1	0	0
+okresní silnice	49.94553	14.04656	2	1	0	0
+u KDC (Cementky)	49.94553	14.04656	2	1	0	0
+okr.silnice na Křižatky	49.93782	14.03014	4	0	0	0
+okr.silnice	49.79159	13.49103	4	1	0	0
+Polní	49.76560	13.22521	1	0	0	0
+okr.silnice III	49.76273	13.03960	1	0	0	0
+okr.silnice	49.89485	12.72269	2	0	0	0
+silnice I tř. č.21	49.89940	12.72661	4	1	1	0
+U nádraží	49.95578	12.69842	1	1	0	0
+okr.silnice	49.99382	12.60985	1	0	0	0
+Lipová u Chebu - Cheb (velenické staničení)	50.04966	12.41152	1	0	0	0
+Vojtanov-ČR - Františkovy Lázně	50.13335	12.33915	7	0	0	0
+Františkovy Lázně - Hazlov	50.13335	12.33915	7	0	0	0
+Hazlov - Aš	50.16990	12.25512	1	0	0	0
+Aš - Aš město	50.21605	12.18764	3	2	0	0
+Aš město - Studánka	50.21967	12.18100	3	2	0	0
+Studánka - Hranice v Čechách	50.27858	12.17547	1	0	0	0
+Mariánské Lázně - Vlkovice	49.95874	12.70521	1	1	0	0
+Teplá - Poutnov	49.97683	12.85814	1	0	0	0
+Krásný Jez - Teplička u Karlových Varů	50.12367	12.84903	1	0	0	0
+Krásný Jez - Teplička u Karlových Varů	50.14880	12.85292	1	2	2	0
+Karlovy Vary-Březová - Karlovy Vary dol.n.	50.22859	12.84984	2	5	0	0
+Loket - Nové Sedlo u Lokte	50.19228	12.74889	7	4	0	0
+mistní u zastávky	49.88472	12.97407	1	0	0	0
+okr.silnice II.tř	49.79490	13.48933	3	3	0	0
+okresní silnice	49.81495	13.55909	1	0	0	0
+okr.silnice	49.81687	13.57132	2	0	0	0
+mistní	49.86002	13.59347	1	0	0	0
+žst. Písek	49.29405	14.14608	3	0	0	0
+Písek - Čížová	49.30191	14.13663	1	0	0	0
+Písek - Čížová	49.31673	14.12935	3	2	0	0
+Dobešický	49.32767	14.10996	3	2	1	3
+U Čížové	49.35578	14.09979	1	0	0	0
+Vráž u Písku - Čimelice	49.41645	14.10826	1	0	0	0
+Vráž u Písku - Čimelice	49.44111	14.09458	1	0	0	0
+Vráž u Písku - Čimelice	49.45995	14.07459	3	0	0	0
+Mirovice - Březnice	49.51339	14.02806	2	0	1	1
+Mirovice - Březnice	49.55699	13.96672	1	0	0	0
+Březnice - Přední Poříčí	49.56081	13.95906	3	6	0	1
+okr.silnice	49.58498	13.97817	7	0	0	0
+okresní silnice	49.58764	13.98505	1	0	0	0
+okresní silnice	49.59501	13.99443	1	0	0	2
+okresní silnice	49.63209	14.02612	2	0	0	0
+okr.silnice	49.69769	14.00147	2	0	0	0
+okr.silnice	49.71434	14.01012	1	0	0	0
+okr.silnice	49.74193	14.00086	6	1	1	2
+obecní cesta	49.77763	14.00042	2	2	0	0
+okr.silnice	49.79340	13.98232	2	0	0	1
+souběh trati 0291, okr.silnice	49.84869	13.97472	1	0	0	0
+souběh trati 0291, okr.silnice	49.84869	13.97472	1	0	0	0
+souběh trati 0291, okr.silnice	49.85363	13.97525	1	0	0	0
+souběh trati 0291, okr.silnice	49.85363	13.97525	1	0	0	0
+okresní silnice III tř.	49.90090	14.16503	1	1	0	0
+okr.silnice	49.85710	14.10043	2	1	0	0
+Hostomice pod Brdy - Neumětely	49.83603	14.02379	2	0	0	0
+okr.silnice	49.85492	13.98474	1	1	0	0
+Domažlická ulice	49.74055	13.34234	2	0	1	0
+Vejprnice-Líně	49.72799	13.27884	2	0	0	0
+Tlučná MK	49.72437	13.24161	1	1	0	0
+Nýřany-Blatnice	49.71281	13.20375	1	0	0	0
+Stod - plz. zhlaví	49.64197	13.15793	1	0	0	0
+Hradec u Stoda	49.63627	13.12311	2	1	0	1
+do průmyslové zóny	49.60741	13.10313	4	0	0	0
+I.tř. č.26 Plzeň-Domažlice	49.59438	13.10076	4	2	0	0
+Staňkov-H.Kamen.	49.55330	13.07832	1	0	0	0
+Staňkov-Krchleby	49.55090	13.07705	1	0	0	0
+Chotiměř-Chotiměř	49.50716	13.01988	1	1	0	0
+Domažlice-Bořice	49.43042	12.96362	1	0	0	0
+Domažlice-Klatovy	49.43091	12.95636	4	0	0	0
+Domažlice-Domažlice MK	49.43699	12.93262	1	0	0	0
+Nýřany	49.71714	13.19077	2	0	0	0
+Nýřany - Kamenný Újezd	49.71728	13.18390	2	1	0	0
+Hor.Týn MK /cesta-pole	49.52303	12.92475	1	0	0	0
+Meclov III.tř 1962	49.51191	12.87885	2	1	0	0
+Zámělič st.sil./zastávka	49.51619	12.83313	1	0	0	1
+zast. Havlovice st.sil. I./26	49.41658	12.87335	5	1	2	0
+Trhanov-Chodov-Pec st.sil.	49.41802	12.84131	2	4	0	0
+Chodov-Trhanov st.sil.	49.41960	12.83986	1	0	0	0
+Klenčí st.sil. II.tř.	49.43827	12.82328	3	2	0	0
+Vlkanov - Ohnišťovice 19522	49.49082	12.81766	1	1	0	0
+Otov-Poběžovice st.sil.	49.50588	12.81548	1	2	0	0
+Hor.Týn-Poběžovice st.sil.	49.51271	12.81743	3	0	0	0
+Svržno-Újezd st.sil.	49.57659	12.76643	2	2	0	0
+Újezd-Bělá st.sil.	49.57913	12.74558	3	3	0	0
+Třemešné - Dubec	49.62804	12.70738	1	0	0	0
+Bor - Tachov II.tř.200	49.72165	12.77876	1	0	0	0
+Částkov II/198 u zast.Pernolec	49.77125	12.67861	2	0	0	0
+Tachov MK	49.80455	12.65061	1	1	0	0
+Holostřevy st.sil. II.tř.	49.72243	12.86927	1	1	0	0
+Skviřín st.sil.	49.71319	12.81357	1	0	0	0
+Pocínovice - Běhařov státní s	49.34367	13.13761	1	0	0	0
+Zelená Lhota u žst.-Prenet	49.25082	13.17802	1	0	0	0
+Janovice-Běhařov st.sil.	49.34956	13.20046	2	0	0	0
+Janovice-Běhařov st.sil.	49.34956	13.20046	2	0	0	0
+Rohozno st.sil.	49.37428	13.22699	3	0	0	0
+Klatovy-Domažlice st.s.č.22	49.39165	13.25309	2	0	0	0
+Borovy st.sil. II.tř. č.182	49.52661	13.29917	1	0	0	0
+Přeštice-Cihelna	49.57899	13.32124	2	0	0	0
+Přeštice Zastávka	49.60061	13.29913	3	0	0	4
+Keramička st.sil. III.tř.	49.62349	13.29265	1	0	0	0
+Šlovice st.sil. III.tř.	49.67648	13.31988	1	0	0	0
+Šlovice - pole/domek	49.68278	13.32503	1	0	0	0
+Samaritská ulice	49.72879	13.38093	1	0	0	0
+Přechod zastávka Plzeň	49.73778	13.37417	1	0	0	0
+Sušice - Hrádek , Žichovice	49.24631	13.53901	4	0	0	0
+Hrádek u S. - Sušice	49.25771	13.49881	2	0	0	0
+Malonice pole-Jindřichovice po	49.29281	13.38896	1	0	0	0
+Malonice - Jindřichovice	49.29700	13.37389	3	0	0	0
+Nemilkov - Běšiny II.tř.	49.28312	13.34600	3	0	0	0
+st.sil. III.tř.	49.30738	13.30019	1	0	0	0
+Luby - pole	49.36097	13.30257	1	0	0	0
+Luby - Sobětice	49.37457	13.30463	1	0	0	1
+Klatovy - zahrádky - Vodárny	49.39118	13.28589	2	4	1	0
+ČZ	49.25340	13.91043	1	0	0	0
+u ČZ	49.25014	13.91112	1	1	0	0
+K silu	49.23532	13.90891	2	0	0	0
+Strakonice - Strunkovice nad Volyňkou	49.23205	13.90171	1	0	0	0
+Strunkovice nad Volyňkou - Volyně	49.17371	13.89392	1	0	0	1
+MOTOTECHNA Volyně - Čkyně	49.14992	13.90593	2	1	0	1
+Hradčanský	49.11041	13.83508	4	0	0	1
+Čkyně - Bohumilice v Čechách	49.09380	13.80731	1	1	0	0
+Vimperk - BRLOH	49.04858	13.76342	1	1	0	0
+Lenora - Volary	48.92299	13.79794	1	0	0	0
+Hlavní lenorský	48.92222	13.81088	1	0	0	0
+ulice Ottova	50.10036	13.72576	5	0	0	0
+ulice Ottova	50.10036	13.72576	5	0	0	0
+Rakovník - Rakona	50.10108	13.71911	1	0	0	0
+"""k ZZN"""	50.10110	13.71920	1	0	0	0
+KERAMO, ATESO - Senomaty	50.09646	13.65502	1	1	0	0
+Senomaty - Pšovlky	50.09302	13.63368	1	0	0	0
+Pšovlky - Oráčov	50.10530	13.59583	1	0	0	0
+Jesenice - Blatno u Jesenice	50.09044	13.43451	1	0	0	0
+Buděš.ul./Vít.Nováka	48.95437	14.47236	2	0	0	1
+Pařízka ul.(Plavská sil.)již.z	48.95937	14.47589	1	1	1	0
+"Mladé \""C\""-Novohradská ul."	48.96098	14.48901	1	1	0	0
+"""V Mladém"""	48.96101	14.48899	1	1	0	0
+"\""Novohradská silnice\"""	48.77547	14.93506	5	2	1	0
+"\""Fišerky\"" ,u Nakolického ryb."	48.79165	14.89130	1	0	0	0
+zastávka Hluboká u Borovan	48.89621	14.67535	2	0	1	0
+Jílovice - Borovany	48.89786	14.65761	1	1	0	0
+"\""u hnoje\"""	48.92738	14.55254	1	1	0	0
+Nová Ves u Č.Budějovic - Č.Budějovice-stav.1	48.92501	14.51816	1	0	1	0
+"\""Vidovský\"""	48.94560	14.50260	1	0	0	0
+Říční/Ke studánce,zast.N.Hoděj	48.95137	14.49906	2	2	0	0
+"\""A\"" Sfinx"	48.98057	14.48657	3	1	0	0
+"\""B\""u Křížku"	48.98215	14.48572	1	0	0	0
+"\""A\"" Motor"	48.99835	14.47780	1	1	0	0
+	48.99835	14.47780	1	1	0	0
+"\""B\""mezi výh.1,2,3 -Nemanic.ul."	49.00329	14.47749	2	0	0	0
+"\""F\"" Sokolovna"	49.00883	14.47699	2	0	1	2
+Bezdrevský	49.03804	14.40895	3	5	0	0
+Dívčice hlavní	49.10387	14.30360	1	0	0	0
+	49.10392	14.30374	1	0	0	0
+Dubenecký 1	49.11395	14.29357	1	0	0	0
+Hlavní	49.15061	14.22280	1	0	0	0
+U zastávky	49.19675	14.22258	4	3	0	1
+Ke hřbitovu	49.19927	14.22253	2	2	0	1
+U Protivína	49.21562	14.20345	6	0	0	0
+Na vysoké	49.24991	14.08180	1	0	2	0
+K cihelně	49.25111	14.01937	1	0	0	0
+Sedlíkovický	49.25447	13.99242	3	1	0	0
+Na Poříčí	49.28885	13.80076	2	1	1	0
+U zastávky Velký Bor	49.34594	13.70017	8	0	0	0
+Kovčín - Nekvasovy	49.41940	13.60931	2	0	1	1
+U stavědla č.2	49.50061	13.60799	1	0	0	0
+U zastávky Srby	49.52435	13.59183	2	0	0	0
+Blovice U SILA	49.57183	13.53642	2	0	1	0
+státní u stavědla č. 1	49.57844	13.53153	3	1	0	0
+státní silnice	49.67140	13.50161	1	0	0	0
+U stavebnin Šabata	49.73608	13.60202	3	2	0	0
+U zastávky Rokycany předměstí	49.73141	13.60357	7	0	0	0
+U zastávky Kamenný Újezd u R.	49.72235	13.61757	1	0	0	0
+U zahradníka - Na ovčíně	49.71436	13.65198	1	0	0	0
+u vlečky STELL Rosso	49.68401	13.66181	1	0	0	0
+Příkosice - na Štitov	49.66826	13.66562	1	0	0	0
+před nádražím	49.66344	13.65535	1	0	0	0
+státní u zastávky Lipnice	49.64493	13.60941	1	0	0	0
+Lipnice - Nezvěstice	49.66037	13.55499	2	0	0	0
+Kasejovice - Kotouň	49.46116	13.73286	1	0	0	0
+Stará hudčická zastávka	49.53656	13.93601	3	0	0	1
+Koupský vršek	49.52852	13.91777	3	0	0	0
+Bělčice pod višňovkou	49.49707	13.88479	1	0	0	0
+Bezdědovice	49.44485	13.87600	1	0	0	0
+Směr Hajany	49.43195	13.87439	2	1	0	0
+U školy	49.42707	13.86762	4	1	0	0
+Zabořský	49.41334	13.87239	1	0	0	0
+Mačkov	49.40169	13.88557	1	0	0	0
+Němčice	49.39409	13.91635	1	0	0	0
+Písek státní	49.36936	13.95461	1	0	0	0
+Milava	49.35689	13.95518	1	0	0	0
+Radomyšl	49.32004	13.94773	2	0	0	0
+Domanice hlavní	49.30685	13.92330	1	1	0	0
+Řepice VÚD	49.27849	13.91376	2	0	0	0
+Elektrárna	49.27159	13.92229	1	0	0	0
+Stožický	49.14405	14.17262	3	1	0	0
+Pod Pražákem	49.14686	14.14582	3	1	0	1
+Žernovický	49.01242	14.00651	1	0	0	0
+	49.01242	14.00655	1	0	0	0
+U Maršana	48.98917	14.02407	1	0	0	0
+Chroboly - Zbytiny	48.95082	14.05587	1	0	0	1
+Na Lipno	48.90803	13.88760	1	0	0	0
+U Harvalíka	48.90264	13.87415	1	0	0	0
+U Harvalíka	48.90264	13.87415	1	0	0	0
+Pod Křížem	48.86216	13.86474	1	0	0	0
+Temelín hlavní	49.19500	14.34337	1	0	0	0
+	49.19527	14.34321	1	0	0	0
+Do Bohunic	49.19873	14.38004	1	1	0	0
+Bohunický	49.21968	14.39847	1	0	0	0
+Cihelňácký	49.21729	14.40966	1	3	0	0
+U cihelny	49.05681	14.20329	2	0	0	0
+U zahrad	48.94418	14.47002	2	0	1	1
+K samotám	48.93487	14.46420	4	2	0	0
+Boršov	48.92631	14.44262	1	1	0	0
+Vrábče	48.91683	14.35691	2	0	0	0
+U plynu	48.91504	14.35520	1	1	0	0
+Švanďák	48.89748	14.32163	1	1	0	0
+Holubov	48.89298	14.32517	2	0	0	0
+Třísov hlavní	48.88634	14.34236	2	1	0	0
+zast. Třísov	48.88358	14.34832	1	0	0	0
+Zlatá Koruna	48.85194	14.35350	1	0	0	0
+Srnín	48.84088	14.34375	1	0	0	0
+Český Krumlov	48.82217	14.31528	1	0	0	0
+U statku	48.81933	14.29032	1	0	0	0
+Na Karláku	48.75072	14.05348	1	1	1	2
+Nová Pec	48.78991	13.95067	1	0	0	0
+	48.78972	13.95056	1	0	0	0
+U prostřední boudy	48.82747	13.93380	1	1	0	0
+Polní	48.84157	13.92511	1	0	0	0
+do závodu Orlík - Škoda JE	49.80275	13.39493	2	2	0	0
+Revoluční ul.	49.81092	13.40133	1	0	0	1
+st.silnice	49.81963	13.39245	1	0	0	0
+okr.silnice	49.85043	13.37944	1	0	0	0
+okr.silnice	49.87116	13.40322	1	0	0	0
+st.silnice I./27	49.87283	13.38793	6	2	1	1
+statní silnice	49.89405	13.37892	3	0	0	0
+polní	49.98808	13.36856	1	0	0	0
+okr.silnice	50.09367	13.39292	1	0	1	0
+Petrohrad - Kryry	50.14112	13.43108	1	0	0	0
+Kryry - Vroutek	50.16447	13.39938	2	1	0	0
+Kryry - Vroutek	50.17956	13.37680	1	0	0	0
+žst. Vroutek	50.18223	13.37631	1	0	0	0
+Podbořany - Kaštice	50.22583	13.40643	2	1	0	0
+Podbořany - Kaštice	50.23184	13.40671	1	0	0	0
+Podbořany - Kaštice	50.23391	13.40846	1	0	0	0
+žst. Kaštice	50.26023	13.41810	3	10	3	0
+Žabokliky	50.33197	13.46740	2	8	0	0
+Ovčín (poč. náprav)	50.33189	13.50176	1	0	0	0
+Žabokliky - Žatec západ	50.33521	13.52563	3	0	1	1
+Žatec západ - Žatec	50.33839	13.54825	1	0	0	0
+Rakona - Lubná	50.08108	13.69483	2	0	0	0
+Zavidov - Čistá	50.05552	13.62816	1	0	0	0
+Čistá - Kralovice u Rakovníka	49.98969	13.49229	1	0	0	0
+dD3 Kralovice u Rakovníka	49.98831	13.48838	1	0	0	0
+Blatno u Jesenice - Lubenec	50.11102	13.38479	1	0	0	0
+Lubenec - Chyše	50.11185	13.24984	1	0	0	0
+Pětipsy - Poláky	50.32359	13.34605	1	0	0	0
+Bažantnice - Březno u Postoloprt	50.35269	13.72003	1	0	0	0
+Louny předměstí-stav.I - Louny město	50.34871	13.78275	1	0	0	0
+Louny město - Louny	50.35344	13.80542	4	0	0	0
+Louny město - Louny	50.35761	13.81011	2	0	0	0
+Žatec - Lišany u Žatce	50.34501	13.63980	1	1	0	0
+žst. Počerady	50.41806	13.68568	2	0	0	0
+žst. Ústí n.L.záp.-průmyslová kol. - kol. mezi výh.č.1S,1V,1F,1J,1C	50.65641	14.00331	1	0	0	0
+lokodepo	50.65605	14.01207	1	0	0	0
+Bohosudov	50.67229	13.87453	1	0	0	0
+Proboštov	50.66169	13.83879	1	0	0	0
+Zemská-Ditmar	50.65831	13.83542	3	1	0	0
+Teplice E.Dvořákové u Knotka	50.65589	13.83410	1	0	0	0
+Teplice v Čechách - Řetenice	50.64236	13.81333	6	0	0	0
+Krušnoh. strojírny	50.64262	13.79285	1	0	0	0
+	51.07360	14.32437	1	0	0	0
+Dolní Rybník - Chomutov město	50.47448	13.42595	1	0	0	2
+Chomutov-os.n. - Černovice u Chomutova	50.46228	13.40377	6	2	1	0
+dD3 Černovice u Chomutova	50.45710	13.36476	1	0	0	0
+Křímov	50.48732	13.29059	2	0	0	0
+KAMENOLOM Č.Hamry - Vejprty	50.49028	13.03338	1	0	0	0
+Háj zast.	50.61923	13.72507	1	0	0	0
+Hájský přejezd	50.61927	13.72511	1	0	0	0
+Osek - Louka u Litvínova	50.59920	13.67769	7	3	0	0
+Dolní Rybník - Jirkov	50.48450	13.44199	3	0	1	0
+Dolní Rybník - Jirkov	50.48506	13.44259	4	2	2	0
+spojka hl.-záp.	50.76959	14.19831	1	0	0	0
+Novosedlice zast.	50.65904	13.82050	1	0	0	0
+Úpořiny - Žalany	50.59183	13.88122	1	0	0	0
+u vč. 1	50.58876	13.96211	3	0	0	0
+U ŽST	50.58189	14.00129	1	0	0	0
+M.Žernoseky	50.53407	14.04730	1	0	0	0
+Chotiměř - Lovosice	50.52495	14.04586	1	0	0	0
+na Miladu	50.64612	13.98117	1	0	0	0
+u Lihovaru	50.64108	13.98385	3	2	0	0
+Ústí nad Labem západ-Trmice - Řehlovice	50.61639	13.96884	3	1	0	0
+Řehlovice - Úpořiny	50.60867	13.93737	1	0	1	0
+žst. Úpořiny	50.61155	13.88207	2	0	0	0
+U OSPAPU	50.61155	13.88207	2	0	0	0
+Úpořiny - Ohníč	50.60546	13.85870	1	0	0	0
+Řetenice - Teplice zámecká zahrada	50.64216	13.79261	2	0	0	0
+Duchcovský	50.63697	13.79548	1	0	0	0
+Řetenice - Teplice zámecká zahrada	50.63435	13.80234	2	0	0	0
+Teplice zámecká zahrada - Bystřany v Čechách	50.63258	13.81860	2	0	1	0
+Teplice zámecká zahrada - Bystřany v Čechách	50.63151	13.82236	1	0	1	0
+Bystřany v Čechách - Úpořiny	50.62118	13.87032	1	0	0	0
+Bystřany v Čechách - Úpořiny	50.61242	13.88346	2	0	0	0
+Kralupy nad Vltavou předměstí - Velká Bučina	50.23608	14.26951	1	0	0	0
+Kralupy nad Vltavou předměstí - Velká Bučina	50.23838	14.26301	2	0	0	0
+Kralupy nad Vltavou předměstí - Velká Bučina	50.24528	14.25493	1	0	0	0
+Kralupy nad Vltavou předměstí - Velká Bučina	50.24762	14.25356	3	1	0	0
+U Kréty	50.23186	14.29124	1	0	0	0
+Kralupy nad Vltavou předměstí - Olovnice	50.23242	14.25474	1	0	0	0
+Olovnice - Zvoleněves	50.23504	14.24109	1	0	0	0
+Olovnice - Zvoleněves	50.23928	14.20572	1	1	0	1
+žst. Zvoleněves	50.23420	14.19010	1	0	0	0
+ulice Pražská	50.22659	14.10357	1	0	0	0
+žst. Slaný	50.23121	14.07734	1	1	0	0
+Slaný - Zlonice	50.23403	14.07786	2	0	0	0
+Slaný - Zlonice	50.27120	14.07458	1	0	0	0
+Zlonice - Klobuky v Čechách	50.29177	14.02313	1	1	2	0
+Louny - Lenešice	50.37484	13.78968	3	0	0	0
+Lenešice - Břvany	50.39818	13.71890	5	2	4	0
+Břvany - Bečov u Mostu	50.41775	13.72294	1	0	0	0
+Bečov u Mostu - Obrnice	50.46460	13.71378	1	0	0	0
+Obrnice - Most	50.50628	13.69311	1	0	0	0
+Most nové nádraží - Most-Herkules seř.n.	50.56417	13.62344	2	0	0	0
+Lom zast.	50.59822	13.65163	1	0	0	0
+Dubí - Mikulov-Nové Město	50.70221	13.70212	1	0	1	0
+ul. Výmolova, ke hřbitovu	50.05607	14.39342	2	0	1	0
+Na Radosti	50.06092	14.30409	1	1	0	0
+ul. ŽalanskéhoXStrojírenská	50.06702	14.29013	3	0	0	0
+ke hřbitovu	50.06743	14.28529	1	0	2	1
+Beroun-Závodí - Vráž u Berouna	49.96880	14.08167	1	2	0	0
+Beroun-Závodí - Vráž u Berouna	49.97008	14.08202	2	1	0	0
+žst. Vráž u Berouna	49.98487	14.12566	1	0	0	0
+Loděnice - Nučice-odb. KND	50.00817	14.19605	1	0	0	0
+Nučice - Ing. Fr. Hustoles	50.02511	14.22922	2	0	0	0
+Nučice - Ing. Fr. Hustoles	50.03097	14.23293	1	0	0	0
+ul. Slivenecká	50.04077	14.39371	1	0	0	0
+žst. Praha-Řeporyje	50.03196	14.31081	1	0	0	0
+hranice k.ú. Řeporyje-Zbuzany	50.02957	14.29500	1	0	1	0
+Praha-Řeporyje - Rudná u Prahy	50.03191	14.25845	6	1	1	2
+Praha-Řeporyje - Rudná u Prahy	50.03976	14.24720	2	0	0	0
+Rudná u Prahy - Hostivice-Litovice	50.04651	14.22618	1	0	0	0
+Rudná u Prahy - Hostivice-Litovice	50.06896	14.22234	2	0	0	0
+Ulice „Nádražní“	50.12270	14.25337	1	1	0	0
+	50.12271	14.25338	1	1	0	0
+Středokluky - FM ČESKÁ Tuchoměřice	50.13651	14.26863	1	1	0	0
+Noutonice - Podlešín	50.18221	14.24712	1	0	0	0
+Noutonice - Podlešín	50.20663	14.19585	1	0	0	0
+Noutonice - Podlešín	50.20821	14.18868	1	0	0	0
+Za okrskem	50.50946	14.04746	2	0	0	0
+LABENA Sulejovice - Čížkovice	50.49980	14.03681	1	0	0	0
+u zast. Úpohlavy	50.46521	14.03781	3	1	0	0
+Chotěšov	50.44286	14.07085	2	4	0	0
+Veltěže	50.35841	13.85861	2	1	0	0
+Louny - Koštice n. Ohří	50.38392	13.94173	1	0	0	0
+Koštice nad Ohří - Libochovice	50.40093	13.95566	1	0	0	0
+Koštice nad Ohří - Libochovice	50.40769	14.03809	3	0	0	0
+Koštice nad Ohří - Libochovice	50.40780	14.04629	5	1	1	0
+okresní silnice	49.97964	14.07521	2	0	0	0
+Ulice Berounská	49.98882	14.05477	1	0	0	0
+Beroun-Závodí - Hýskov	49.98830	14.04863	1	1	0	0
+Hýskov - Nižbor	49.99084	14.03556	6	3	0	0
+Hýskov - Nižbor	50.00255	14.00281	1	0	0	0
+Rakovník - TOS Rakovník	50.10155	13.72023	4	6	0	1
+VÚ 1859 Rakovník - Chrášťany	50.10988	13.68838	1	0	0	0
+Kněževes	50.12917	13.66376	3	0	0	0
+Hořesedly	50.16733	13.64243	5	1	0	0
+Domoušice - Hřivice	50.23070	13.71305	1	0	0	0
+Hřivice - Louny předměstí	50.32157	13.74641	1	1	0	0
+Hřivice - Louny předměstí	50.32715	13.75135	2	2	1	0
+Čížkovice - Třebenice	50.47903	14.03453	1	0	0	0
+Třebívlice - Libčeves	50.44443	13.85528	1	0	0	0
+u Barev a Laků	50.23773	14.30654	4	0	0	0
+k zahrádkám	50.16778	14.36385	1	0	0	0
+Vraňany - Dolní Beřkovice	50.34257	14.38293	3	2	0	1
+Vraňany - Dolní Beřkovice	50.36611	14.41837	4	5	3	0
+Dolní Beřkovice - Hněvice	50.42277	14.38636	1	0	0	0
+Hněvice - ČEZ-EMĚ (vl. ČEZ)	50.42277	14.38636	1	0	0	0
+Oleško	50.47775	14.19417	3	0	0	0
+Nové Kopisty	50.49745	14.11938	2	0	0	0
+Prosmyky	50.49969	14.10845	1	0	0	0
+Lovosice - Prackovice nad Labem	50.52142	14.04519	2	1	0	0
+Prackovice nad Labem - Ústí nad Labem jih	50.58375	14.03083	2	0	0	0
+U Kotvy	50.62554	14.05419	2	0	0	0
+vlečka LUNA	50.63981	14.04573	3	1	0	0
+SCVK	50.64270	14.04436	1	0	0	0
+modernizace-není konstrukce	50.66902	14.10321	3	0	0	0
+Povrly - Děčín hl.n.	50.67498	14.16411	1	0	0	0
+k celnímu skladu z ul. Práce	50.76885	14.20022	2	0	0	0
+k.u. Podmokly	50.78498	14.20930	3	0	0	0
+BETONIKA, RAF Lužec n.Vlt. - Lužec nad Vltavou	50.32626	14.39664	3	1	0	0
+BETONIKA, RAF Lužec n.Vlt. - Lužec nad Vltavou	50.32384	14.40034	1	0	0	0
+Kladno-Ostrovec - Kladno-Dubí	50.14918	14.09150	1	0	0	0
+ul. Kratochvílova	50.15060	14.09204	3	0	1	0
+Kladno-Ostrovec - Kladno-Dubí	50.15821	14.10826	3	1	0	0
+ul. Na Cikánce	50.16141	14.11475	3	0	0	0
+Vrapický, směr Cvrčovice	50.16576	14.15090	1	0	0	0
+Otvovice - Kralupy nad Vltavou	50.22506	14.29776	1	0	0	0
+na teplické	50.25059	14.35586	4	0	0	0
+U cukrovaru	50.25626	14.38062	2	0	0	0
+šikmý Netřebský	50.26073	14.42792	1	0	1	0
+Chlumínský	50.26773	14.45813	1	0	0	0
+na Staré štaci	50.26744	14.49588	1	0	0	0
+Blikače	50.40598	14.13391	1	0	0	0
+U sila	50.36080	14.23481	1	0	0	0
+Vodochody	50.35994	14.26352	1	0	0	0
+Meva-Procházka	50.42904	14.28690	3	3	0	0
+ul. Švermova	50.42173	14.27040	3	1	0	0
+Roudnice nad Labem - Straškov-odbočka	50.36675	14.26537	1	0	0	0
+Vodochody	50.36058	14.26304	1	0	0	0
+Straškov - Kmetiněves	50.30318	14.16970	1	0	1	1
+Kmetiněves - INTERIER Zlonice	50.28285	14.09521	1	0	0	0
+INTERIER Zlonice - Zlonice	50.28330	14.08794	1	0	0	0
+Březiny	50.76088	14.24502	2	0	0	0
+Děčín východ-horní nádraží - Benešov nad Ploučnicí	50.75884	14.25338	1	0	0	0
+Markvartice - Česká Kamenice	50.78641	14.34278	3	0	0	0
+Markvartice - Česká Kamenice	50.79181	14.38657	2	0	0	0
+ul. Českolipská	50.72949	14.31489	2	1	0	0
+zast. Starý Šachov	50.72106	14.37621	1	0	0	0
+před žst. Horní Police	50.70966	14.39190	3	1	0	0
+žst. Horní Police	50.70587	14.40357	3	0	0	0
+Horní Police - Stružnice	50.70543	14.41427	1	0	0	0
+Hornopočernická	50.12691	14.55748	1	0	0	0
+Jilemnická	50.13963	14.55146	2	1	0	0
+Semilská	50.14128	14.54685	3	0	0	0
+Cukrovarská	50.15098	14.51535	4	0	0	0
+do Calofrigu	50.15225	14.51345	1	1	0	0
+u Teplárny Třeboradice	50.16912	14.52179	2	0	0	0
+Praha-Čakovice - Měšice u Prahy	50.19367	14.51865	4	0	0	0
+Praha-Čakovice - Měšice u Prahy	50.19666	14.51519	1	0	0	0
+žst. Neratovice - (kralupské zhlaví)	50.26407	14.51020	1	0	0	1
+hlavní Neratovický na Mělnické	50.26325	14.51275	5	0	0	0
+do Spolany Neratovice	50.26201	14.52392	1	0	0	0
+Neratovice - Všetaty	50.26630	14.55433	1	0	0	0
+žst. Všetaty-pražsko-turnovská část	50.28370	14.58645	5	0	0	0
+Všetaty - Byšice	50.30316	14.59418	1	0	0	0
+žst. Byšice	50.30618	14.61154	1	0	0	0
+Byšice - Kropáčova Vrutice	50.32379	14.69355	1	0	0	0
+žst. Kropáčova Vrutice	50.32222	14.70754	1	0	0	0
+Kropáčova Vrutice - Chotětov	50.31994	14.71565	2	0	0	0
+Kropáčova Vrutice - Chotětov	50.31447	14.74903	1	0	1	0
+Kropáčova Vrutice - Chotětov	50.33028	14.80530	2	0	2	1
+žst. Chotětov	50.33746	14.80834	3	0	0	0
+Chotětov - Mladá Boleslav hl.n.	50.37653	14.86910	3	1	0	0
+žst. Mladá Boleslav hl.n.	50.40709	14.89123	2	0	0	0
+U Putny	50.43522	14.89045	1	0	0	0
+ulice 5. května	50.47739	14.93486	1	0	0	2
+ul.Boleslavská,kdysi R.armády	50.47869	14.93863	2	0	0	0
+na býv.st.sil.do MB,ul.5.května	50.49105	14.96288	3	2	0	0
+ul.Jiráskova, hl.přejezd v MH	50.51987	14.98160	1	0	0	0
+Jiráskova	50.51977	14.98155	1	0	0	0
+na býv. st. silnici ve Březině	50.54586	15.03669	1	0	0	0
+druhý přejezd před Loukovem	50.55355	15.04923	2	0	0	0
+směr firma GIGA, s. r. o.	50.57672	15.07057	4	0	1	0
+přejezd v Přepeřích	50.58799	15.11406	2	0	0	0
+Čelákovický	50.15331	14.75071	1	0	0	0
+Brandýský v centru	50.18296	14.65749	9	0	0	0
+Brandýský šikmý u sadu	50.18783	14.64153	3	4	0	0
+Čelákovice - Lázně Toušeň	50.16509	14.71541	1	0	0	0
+Toušeňský (směr Zápy)	50.17387	14.69766	1	1	0	0
+obecní cesta	50.18342	14.66823	1	0	0	0
+Jiřický směr Nová Ves	50.22740	14.55262	2	4	0	0
+Jiřický směr Čakovičky	50.23306	14.54738	1	0	0	0
+Jiřice - Neratovice	50.24149	14.54382	1	0	0	0
+U zast. Lobkovice	50.25070	14.53103	1	0	0	0
+Jiřice - Neratovice	50.25270	14.52723	1	0	0	0
+Jiřice - Neratovice	50.25613	14.52149	2	0	0	1
+žst. Čelákovice - (mochovská kol.)	50.15283	14.75083	1	0	0	0
+Kovona	50.19681	14.83160	1	0	0	0
+Lysá nad Labem - Stará Boleslav	50.19731	14.82723	1	0	0	0
+Lysá nad Labem - Stará Boleslav	50.20437	14.76487	1	0	0	1
+Lysá nad Labem - Stará Boleslav	50.20598	14.73838	2	2	1	0
+Lysá nad Labem - Stará Boleslav	50.20566	14.70717	4	0	0	0
+žst. Dřísy	50.24135	14.63691	1	0	0	0
+Dřísy - Všetaty	50.25366	14.61439	3	0	0	0
+Dřísy - Všetaty	50.26589	14.58815	1	0	0	0
+žst. Veleliby	50.21253	15.02462	1	1	0	0
+Veleliby - Cachovice	50.23757	14.99377	2	1	0	1
+Cachovice - Luštěnice	50.28501	14.94687	1	0	0	0
+Cachovice - Luštěnice	50.30933	14.95160	2	0	1	0
+žst. Luštěnice	50.32069	14.94488	1	0	0	0
+Luštěnice - Dobrovice	50.35305	14.94314	4	0	0	0
+Dobrovice - Mladá Boleslav hl.n.	50.36624	14.92326	1	0	0	0
+Dobrovice - Mladá Boleslav hl.n.	50.37406	14.91138	2	3	2	1
+Dobrovice - Mladá Boleslav hl.n.	50.38330	14.89428	2	3	1	3
+Neuberk	50.39889	14.87887	3	1	0	0
+Pod strání, do ul.Stříb.kopec	50.78423	15.01811	1	0	0	1
+ulice Tolstého	50.78788	14.99190	2	0	0	0
+Liberec - Chrastava	50.80055	14.95842	2	1	0	1
+Chrastava - Hrádek nad Nisou	50.82542	14.89593	1	0	0	0
+Liberecká ulice	50.85368	14.84896	1	0	0	0
+Neumannova ulice, z. Stráž n/N	50.78926	15.02661	2	2	1	0
+Liberec - Mníšek u Liberce	50.81172	15.04020	2	0	0	0
+u hřbitova, ul. Fojtecká	50.82914	15.05899	1	0	0	1
+zast. Oldřichov v Hájích	50.85573	15.09189	1	0	0	0
+hl. přejezd, Žitavská ul.	50.91969	15.06824	4	1	0	0
+u mostu na Poustku	50.95556	15.02817	1	0	0	0
+u skály za Minkovicemi	50.95583	15.02783	1	0	0	2
+u smeťáku	50.96431	15.02706	2	0	0	0
+u Jelínka	50.96681	15.02782	1	1	0	0
+u školy, před žst. Višňová	50.96985	15.02861	2	1	0	0
+na konci žst. Višňová	50.97641	15.02817	2	2	0	0
+ul. Jiráskova	50.92536	15.06928	1	0	0	0
+ul. Fr. Palackého	50.92553	15.07087	2	0	0	0
+ul. Pod rozhlednou	50.92735	15.07860	1	0	0	0
+před z. Krásný Les-bažantnice	50.93087	15.10853	1	0	0	0
+Frýdlant v Čechách předměstí - Řasnice	50.93405	15.12536	1	0	0	0
+na z. Řasnice zastávka	50.93932	15.16347	2	0	0	0
+Nové Město pod Smrkem - HANS WOLF	50.93261	15.21438	2	0	0	0
+Lysá nad Labem - Milovice	50.19823	14.85528	1	0	0	0
+U Výzkumáku	50.20029	14.85760	2	0	0	0
+Všetaty - Mělník	50.29298	14.58363	2	0	0	0
+Mikov	50.31893	14.54691	2	0	1	0
+Skuhrov	50.34123	14.51186	1	0	0	0
+ul.Kokořínská	50.35120	14.49523	2	0	1	0
+U stavidla (Jatka)	50.35749	14.48550	3	0	0	0
+7 zlodějů	50.36902	14.47267	2	0	0	3
+Na ráji	50.37207	14.47023	1	0	0	0
+Mlazice	50.37552	14.46756	1	0	0	0
+Kamenný šraňk	50.38024	14.46532	3	0	0	1
+Vehlovice	50.38738	14.46288	1	1	0	0
+u podniku Sport (Stračí)	50.45019	14.39770	1	0	0	0
+u žst. Štětí (Radouň)	50.45917	14.39155	7	0	0	0
+Hoštka z náměstí (Malešov)	50.49044	14.33578	1	0	0	0
+Montažni základna	50.50998	14.27161	2	0	0	0
+	50.50969	14.27172	2	0	0	0
+ústav Křešice	50.52328	14.23226	3	0	0	0
+U zastávky Křešice	50.52627	14.21634	1	0	0	0
+U strážního domku	50.52488	14.20457	6	0	0	0
+U Čestmíra	50.52740	14.18936	2	0	0	0
+Bělina	50.52312	14.09451	1	0	0	0
+Rybena	50.52237	14.08776	5	1	0	0
+Setuza	50.65567	14.05074	4	2	2	0
+fi:Signal - n.p.Obnova	50.65905	14.06537	1	0	0	0
+Rafanda - Olšinky	50.65789	14.07827	1	1	0	0
+zastávka Valtířov	50.67240	14.12179	1	0	0	0
+U stražního domku	50.66445	14.13608	2	0	0	0
+u žst. Velké Březno	50.66327	14.14158	1	0	0	0
+Zastávka	50.67142	14.16826	1	2	1	0
+Obalex	50.74032	14.18827	1	0	0	0
+U výboru	50.74349	14.18795	1	0	0	0
+Loděnice	50.75461	14.20070	2	0	0	0
+zast. Staré Město	50.76666	14.21492	1	0	0	0
+Březová ulice	50.76786	14.23087	1	1	0	0
+Plavecký bazén	50.36004	14.48124	4	0	0	0
+U koupaliště	50.36081	14.47814	2	1	0	0
+Bezručova	50.35941	14.47118	1	0	0	0
+Slavín	50.34929	14.49873	1	0	0	0
+Mělník - Lhotka u Mělníka	50.34629	14.55515	1	0	0	0
+Mělník - Lhotka u Mělníka	50.35579	14.57123	3	0	0	0
+Mělník - Lhotka u Mělníka	50.38076	14.54199	3	1	0	0
+Lhotka u Mělníka - Nebužely	50.38545	14.58762	1	0	0	0
+Nebužely - Živonín	50.39293	14.61270	1	1	0	0
+Vrátno - Sudoměř u Mladé Boleslavi	50.43869	14.74233	1	0	0	0
+Sudoměř u Mladé Boleslavi - Skalsko	50.43353	14.75385	1	0	0	0
+Čechova ulice	50.75567	15.05379	4	3	0	0
+Doubská ulice	50.74786	15.05459	6	3	0	0
+prostřední přejezd v Ústí	50.51526	15.45850	1	0	0	1
+prostřední přejezd v Ústí	50.51526	15.45850	1	0	0	1
+Stará Paka - Koštálov	50.55375	15.41940	1	0	0	0
+za z. Libštát	50.55747	15.41511	3	0	0	0
+u st. 2 v žst. Košťálov	50.56985	15.40163	1	0	0	0
+u st. 1 žst. Semily, ul. Nádr.	50.60117	15.32479	2	0	0	0
+přejezd u sokolovny	50.63768	15.19307	1	0	0	0
+zast. Dolánky	50.60385	15.17196	1	1	0	0
+u 70-ky, ve Čtveříně	50.59685	15.09929	1	0	0	0
+u zastávky Doubí u Turnova	50.60767	15.10161	2	0	0	0
+pod Husou	50.61514	15.09992	1	0	0	0
+na zast. Rádlo	50.69443	15.10840	3	2	0	2
+dol.šimon.př., ul.Minkovická	50.71294	15.05379	2	2	0	0
+Puškinova ul., na z. Pilínkov	50.72708	15.03545	2	1	0	0
+Pilínkovská ulice	50.72988	15.04063	1	0	0	0
+U Kameňáku	50.36793	15.53453	1	0	0	0
+V lese	50.38884	15.44801	1	0	0	2
+u zast. Vitiněves	50.39911	15.38086	2	0	0	0
+Butoves - Jičín	50.42266	15.36329	3	0	0	0
+Staré Místo u Jičína - Jičín	50.42266	15.36329	3	0	0	0
+V Železnici	50.46362	15.37569	1	0	0	0
+v Libuni k nádraží	50.49222	15.30093	1	0	0	0
+na z. Libuň zastávka	50.49995	15.30124	1	1	0	0
+za z. Semínova Lhota	50.51799	15.28005	2	1	0	0
+v Ktové na silnici Tu - Jc	50.52747	15.24235	1	0	0	0
+1. přejezd v Borku	50.53601	15.23150	1	1	0	0
+2. přejezd v Borku	50.53706	15.22999	1	0	0	0
+u benzínové pumpy	50.57276	15.17190	1	0	0	0
+na z. Turnov město	50.57972	15.15178	1	0	0	1
+ul. Nad Perchtou	50.58479	15.14312	1	0	0	0
+před zast. Lítkovice	50.46187	15.05015	1	3	0	0
+hl.přejezd Kněžm.,ul.U nádraží	50.47251	15.01812	2	0	0	0
+Bakov nad Jizerou - PAPÍRNY Bělá pod Bezdězem	50.49170	14.91407	1	0	0	0
+Bakov nad Jizerou - PAPÍRNY Bělá pod Bezdězem	50.49535	14.90731	1	1	1	0
+hl. přejezd ve Splavech	50.58684	14.62968	1	0	0	0
+Arbesova ulice	50.68902	14.53181	3	1	2	0
+před CL střelnice,Českokamenická	50.69153	14.53320	1	1	0	0
+za zn. Skalice u České Lípy	50.74225	14.52394	1	0	0	0
+za žst. Nový Bor, B. Egermanna	50.76289	14.54973	3	0	0	0
+Žižkova ul.	50.76593	14.55247	1	0	0	0
+U pily	50.87488	14.50310	1	0	0	0
+Dymník	50.94847	14.53424	1	0	2	1
+U nádraží	50.95670	14.54490	4	1	0	0
+U nádraží	50.95670	14.54490	4	1	0	0
+U nádraží	50.95670	14.54490	4	1	0	0
+u zast. Ledkov	50.34462	15.23580	1	0	0	0
+Dětenice - Dolní Bousov	50.39045	15.10126	1	0	0	0
+Richard	50.53852	14.11776	1	0	1	0
+Ul. Masarykova	50.54192	14.12510	3	1	0	1
+Pod mostkou	50.54047	14.13432	1	0	0	0
+za zastávkou Trnovany	50.54407	14.17751	1	1	1	0
+hl. přejezd v Trnovanech	50.54418	14.18380	3	1	0	0
+před zast. Horní Řepčice	50.55723	14.26492	2	0	0	0
+před žst. Liběšice	50.57075	14.27809	1	0	0	0
+Zimoř	50.57837	14.30942	1	0	0	0
+ul. Konojedská, za žst. Úštěk	50.58989	14.34505	1	0	0	0
+před zast. Dubičná	50.61118	14.35698	1	0	1	0
+Úštěk - Blíževedly	50.60869	14.37770	8	2	1	0
+před zast. Blíževedly	50.61062	14.39553	1	0	0	0
+za žst. Zahrádky	50.63765	14.50943	1	0	0	0
+"ul. 5. května, (\""kopeček\"")"	50.66895	14.53829	3	0	0	0
+zast. Božíkov, ul. U zastávky	50.67833	14.65064	5	0	2	1
+za žst. Mimoň, ul. Vrchlického	50.66017	14.71830	2	0	0	0
+za zast. Velký Grunov	50.70001	14.72943	1	0	0	0
+před žst. Brniště	50.71375	14.73039	1	0	0	0
+	50.71376	14.73041	1	0	0	0
+ul.Cvikovská,u vj.náv.před Jabl.	50.76616	14.75060	2	1	0	0
+na býv.st.silnici Jablonné-Lbc	50.77894	14.78163	2	3	0	0
+zač. zn. Zdislava	50.76978	14.87389	1	0	0	0
+před žst. Křižany	50.75154	14.91594	3	0	0	0
+u Kovošrotu, ul. Švermova	50.76289	15.01702	3	0	0	0
+	50.76243	15.02198	3	0	0	0
+u Slévárny, ul. Domky	50.76201	15.02093	8	4	1	0
+ul. Volgogradská	50.75429	15.02789	1	0	0	0
+u Ekoagroproduktu, ul. Potoční	50.64818	14.73210	1	1	0	0
+U hřbitova	50.88439	14.52065	1	0	0	0
+Rybniště - Dolní Podluží	50.88299	14.55791	1	0	0	0
+Rybniště - Dolní Podluží	50.88337	14.57890	1	0	0	0
+Rybniště - Dolní Podluží	50.88117	14.61489	1	1	0	0
+U jatek	50.89020	14.62154	1	0	0	0
+U slévárny	50.90223	14.63045	3	0	0	0
+Varnsdorf - Varnsdorf staré nádraží	50.90474	14.61966	2	1	0	0
+Varnsdorf - Varnsdorf staré nádraží	50.90509	14.61694	1	0	0	0
+U pivovaru	50.91826	14.60442	1	1	0	0
+Mikulášovice dolní nádraží - Panský	50.95105	14.42817	1	1	0	0
+Rumburk - Šluknov	50.96067	14.53685	2	1	0	0
+Rumburk - Šluknov	50.96389	14.53024	2	0	0	0
+Valdek	50.98122	14.50662	1	0	1	0
+Rumburk - Šluknov	51.00249	14.46646	3	0	1	1
+Šluknov - KAMENOLOM	51.00774	14.45326	1	0	0	0
+Šluknov - KAMENOLOM	51.00659	14.44870	1	0	0	0
+Velký Šenov - Mikulášovice dolní nádraží	50.99431	14.35518	1	0	0	0
+Mikulášovice dolní nádraží - Dolní Poustevna	50.99612	14.29932	1	0	0	0
+"Zálabí - \""Rozkoš\"""	50.03213	15.21195	2	0	0	0
+U Korama	50.04742	15.20614	1	0	0	0
+U Zastávky	50.07363	15.20002	1	0	0	1
+Osek - na prvním zhlaví	50.09655	15.19479	1	0	0	0
+Kánínský	50.12218	15.18774	1	0	1	0
+U Sklárny	50.14608	15.12928	4	0	0	0
+U Velkoobchodu	50.15420	15.11686	1	0	0	0
+Do Depa	50.18831	15.06459	1	0	0	0
+Zbožský	50.19091	15.01395	1	0	0	0
+Lánský	50.18684	14.95576	1	0	0	0
+na zast.Stratov	50.18741	14.90781	3	0	0	0
+Kostomlaty nad Labem - Lysá nad Labem	50.18979	14.87834	1	0	0	0
+U Výtahu	50.19362	14.85979	1	0	0	0
+Šikmý směr Byšičky	50.19057	14.80407	2	0	0	1
+Mstětice hlavní, čtyřkolejný	50.13866	14.69602	1	0	0	0
+	50.14435	14.68611	1	0	0	0
+Mstětice - Praha-Horní Počernice	50.13016	14.66453	3	0	0	0
+ulice Bystrá	50.11466	14.60214	3	0	0	0
+Hálková ulice	48.85986	16.06182	1	2	0	0
+není	48.86054	16.05825	1	1	0	0
+není	48.94054	15.87641	1	0	0	0
+není	49.01890	15.83181	1	0	0	0
+není	49.07090	15.82120	1	0	0	2
+není	49.08657	15.85907	2	1	0	0
+není	49.09819	15.85685	1	0	0	0
+není	49.10684	15.84617	1	2	0	1
+není	49.14267	15.83812	2	1	0	1
+není	49.16003	15.83319	1	1	0	0
+není	49.17545	15.81355	1	0	0	0
+není	49.24374	15.76171	1	1	1	0
+není	49.24374	15.76171	1	1	1	0
+není	49.26578	15.77371	1	0	0	0
+není	49.30336	15.75274	1	1	0	0
+Střítež	49.45896	15.62597	1	0	0	0
+Štoky-Přibyslav	49.54216	15.65409	1	1	0	0
+Šlapanov - Havlíčkův Brod	49.57942	15.61103	2	0	0	0
+Josefodolský	49.67184	15.41281	2	0	0	0
+Josefodolský	49.67184	15.41281	2	0	0	0
+Patnáctka	49.67970	15.42095	3	0	0	0
+Na Prvním zhlaví	49.75706	15.39974	3	0	0	0
+Na Druhém zhlaví	49.76475	15.39701	1	0	0	0
+Stupárovický	49.83425	15.46847	1	0	0	0
+Horky	49.87258	15.44310	1	0	0	0
+U Nemocnice	49.90485	15.40382	2	0	0	0
+Chotusická	49.91920	15.38947	1	1	0	0
+Kalabousek	49.92905	15.36334	1	0	0	0
+Čáslav - Kutná Hora hl.n.	49.94267	15.32895	4	0	0	0
+Do Depa	49.95684	15.31469	1	0	0	1
+Libenický	49.99744	15.27078	1	0	0	0
+Čáslav-místní nádr. - Skovice	49.91361	15.40773	1	0	0	0
+Čáslav-místní nádr. - Skovice	49.91711	15.42269	8	0	2	0
+Čáslav-místní nádr. - Skovice	49.91713	15.42326	2	1	0	0
+Skovice	49.90583	15.45969	1	0	0	0
+Skovice	49.90585	15.45969	1	0	0	0
+Skovice - Žleby	49.89556	15.47461	1	0	1	1
+Ronov nad Doubravou - Třemošnice	49.88318	15.55584	1	0	0	0
+Ronov nad Doubravou - Třemošnice	49.87712	15.56277	2	0	0	0
+Ronov nad Doubravou - Třemošnice	49.87427	15.56866	2	1	0	1
+obecní cesta	49.59536	15.56911	1	1	0	0
+obecní cesta	49.58610	15.56460	1	0	0	0
+stát.silnice	49.55747	15.53885	1	0	1	0
+stát.silnice	49.52580	15.47765	2	1	0	0
+stát.silnice	49.52121	15.45728	1	0	0	0
+Herálec - Humpolec	49.52411	15.44160	1	0	0	0
+polní cesta	49.52777	15.42368	1	0	0	0
+silnice na Jihlavu	49.53268	15.36582	1	0	0	0
+U Zahrádek	49.53095	15.35480	1	1	0	0
+Dobronín - Dobronín zastávka	49.48317	15.64607	1	0	0	0
+Dobronín - Dobronín zastávka	49.47892	15.66602	1	0	0	0
+v žst.Tetčice	49.17202	16.40942	2	0	0	0
+v Rosicích u Brna; ul.Zbýšovská	49.17756	16.38711	1	0	0	1
+v Zastávce u Brna	49.18612	16.36165	1	0	0	0
+není	49.19071	16.20179	8	0	0	0
+není	49.19022	16.16988	1	0	0	0
+Boženy Němcové	49.20528	16.15193	1	0	0	0
+K Častoticím	49.22171	16.07793	1	0	0	0
+není	49.21391	16.02399	1	0	0	1
+není	49.21266	15.97036	2	0	0	0
+ul. Ruská	49.21147	15.87790	1	0	1	0
+Borovina	49.20973	15.85478	1	0	0	0
+Krahulov	49.21282	15.81269	2	0	0	0
+není	49.04601	15.79361	3	1	0	0
+není	49.02118	15.65129	1	0	0	0
+není	49.22824	16.05915	1	0	0	0
+není	49.23405	16.05334	1	0	1	1
+není	49.23937	16.03963	1	1	0	0
+není	49.27373	16.00790	1	0	0	0
+U zastávky Oslavička	49.31935	15.96660	2	0	0	0
+u Sedláka	48.83207	16.37395	1	0	0	0
+není	48.92263	16.36312	1	1	0	0
+není	48.96373	16.35139	1	0	0	0
+Mor.Krumlov ČD	49.04475	16.33932	3	0	0	0
+u Obulanových	49.09238	16.44247	1	0	0	0
+U Hronových	49.10257	16.44632	1	0	0	0
+u žel.zastávky Troubsko	49.16373	16.52608	2	2	0	2
+K sadům, ul.Klobásova	49.16204	16.56453	2	0	1	0
+Skřípák	49.09812	16.39642	3	1	0	0
+u žst.Ivančice	49.09823	16.37392	1	0	0	0
+nemá	48.77419	16.38761	1	2	0	0
+na zhlaví č.2	50.10603	15.19307	1	1	1	0
+u zast. Sány	50.12996	15.24076	1	0	0	0
+Badra	50.13497	15.25103	1	0	0	0
+Hradčanský	50.14698	15.28402	1	0	0	1
+90	50.14939	15.29116	2	0	0	0
+Chlumec nad Cidlinou - Nové Město nad Cidlinou	50.16184	15.46121	3	0	0	0
+Chlumec n/Cidlinou - Nový Bydžov	50.16184	15.46121	3	0	0	0
+	50.16252	15.45770	3	0	0	0
+žst. Káranice	50.15453	15.55411	3	0	0	0
+	50.15452	15.55411	3	0	0	0
+U Ditricha	50.15880	15.63775	3	0	0	0
+Dobřenice - Praskačka	50.15984	15.66061	4	0	0	0
+Lhota	50.16658	15.69570	1	0	0	0
+Vlčkovice	50.17961	15.74898	1	0	0	0
+Pouchov	50.22239	15.84180	1	0	0	0
+U cikánů	50.20546	15.96902	6	1	0	0
+U hradla	50.20273	15.97568	1	0	0	0
+U Tanexu	50.19883	15.98521	4	0	0	0
+Krňovický	50.19715	15.98937	2	0	0	1
+Amerika	50.19041	16.00596	2	0	0	1
+0	50.15899	16.06868	2	0	0	0
+Měnírna Týniště n. O. - Týniště n/Orlicí	50.15112	16.07875	1	0	0	0
+Týniště n/Orlicí - Častolovice	50.15112	16.07875	1	0	0	0
+Ke koupališti	50.11884	16.20931	1	0	0	1
+Kostelec n/Orlicí - Doudleby n/Orlicí	50.11515	16.22745	1	0	0	0
+	50.11526	16.22773	1	0	0	0
+žst. Doudleby n/Orlicí	50.10984	16.25567	1	0	0	0
+u hradla Doudleby	50.10811	16.26196	2	0	0	0
+u dřevařských závodů	50.08014	16.31798	3	0	0	0
+u benzinky	50.07273	16.45513	4	1	0	0
+	50.07273	16.45513	4	1	0	0
+u Hedvy	50.02896	16.51515	2	0	0	0
+u Myslivny	50.01326	16.53962	1	1	0	0
+u lomu	50.01348	16.57968	1	0	0	0
+u betonárky	50.02015	16.58927	1	0	0	0
+u autobusového nadrazi	50.02835	16.59685	1	0	0	0
+u Mikysku, pod tělocvičnou	50.03259	16.60268	3	0	0	1
+Mladkov, zastavka ČD	50.09208	16.62991	1	0	0	0
+U hřbitova	50.15467	16.27472	5	4	0	0
+U ZNZ	50.15914	16.27277	2	0	0	0
+U Bottkových	50.16215	16.27110	1	2	0	0
+U školky	50.16447	16.27058	1	0	0	0
+u zast. Rychnov	50.16655	16.27095	1	0	0	1
+ŠKODA Kvasiny průmyslová zóna	50.20015	16.25620	1	0	0	0
+žst. Vamberk	50.11563	16.27964	1	0	0	0
+U železáren	50.12108	16.28844	1	0	0	0
+	50.12096	16.28848	1	0	0	0
+Vamberk - Slatina n/Zdobnicí	50.13689	16.37509	1	1	0	0
+U Pitry	50.13957	16.38637	1	0	0	0
+Slatina n/Zdobnicí - Rokytnice v Orlických horách	50.16360	16.44396	1	1	0	0
+Podlesí - Červený Potok	50.08840	16.84768	2	0	0	0
+k.ú.Dolní lipka	50.08990	16.71422	1	0	0	0
+u Tesly	50.08524	16.75493	1	1	0	0
+u vodárny	50.07393	16.75554	1	0	1	1
+v blízkosti dopravny Č.Voda	50.04930	16.74585	1	0	0	0
+u firmy ITEMA, s.r.o.	50.02035	16.74816	1	1	0	0
+I/11	50.01414	16.74788	1	1	0	0
+Štíty	49.97265	16.75261	2	0	0	0
+U podjezdu	49.60232	17.27599	3	3	0	0
+U vodárny	49.61829	17.27817	1	1	1	1
+Trusovice	49.65533	17.28298	1	0	1	1
+Lhota	49.71788	17.28803	3	0	0	0
+u zastávky	49.77511	17.18794	1	0	0	0
+Újezd u Uničova - UNEX Uničov	49.77663	17.16110	1	0	0	0
+UNEX Uničov - Uničov	49.77772	17.14177	2	0	0	0
+Troubelice - Libina	49.80880	17.07757	2	0	0	0
+u kadeřnictví	49.94309	17.03448	1	1	0	0
+u Benziny	49.96631	17.00552	2	1	0	0
+Nový Malín - Šumperk	49.96423	16.99993	1	2	0	0
+ul.Luže	49.96432	16.99992	1	2	0	0
+ul.Příčná - u prádelny	49.96364	16.99626	1	0	0	0
+ul.Příčná	49.95837	16.99632	1	0	0	0
+Lidická	49.96255	16.98730	1	0	0	1
+u stanice	49.92408	16.93546	2	1	0	0
+Bludov-Chromeč - OP papírna, s.r.o. vlečka Olšany	49.92886	16.92203	3	1	0	0
+Bludov-Chromeč - OP papírna, s.r.o. vlečka Olšany	49.94054	16.90300	2	0	0	0
+Bludov-Chromeč - OP papírna, s.r.o. vlečka Olšany	49.95218	16.87526	1	0	0	0
+Bludov-Chromeč - OP papírna, s.r.o. vlečka Olšany	49.95711	16.87009	1	0	0	0
+OP papírna, s.r.o. vl. Olšany - Ruda n/Moravou	49.96830	16.87484	1	0	0	1
+Ruda n/Moravou - Bohdíkov	49.99839	16.89484	3	1	0	0
+Ruda n/Moravou - Bohdíkov	50.02462	16.89909	1	1	0	0
+Hanušovice - Jindřichov na Moravě	50.07748	16.95359	1	0	0	0
+Hanušovice - Jindřichov na Moravě	50.08072	16.96553	2	0	0	0
+Branná - Ostružná	50.16861	17.02896	1	0	0	0
+Petříkov	50.19106	17.05276	1	0	0	0
+Ostružná - SLEZSKÝ KÁMEN H.Lipová	50.19465	17.06314	1	0	0	0
+Lipová Lázně - Jeseník	50.22877	17.16307	1	0	0	0
+žst. Jeseník	50.22659	17.18809	1	0	0	0
+Jeseník - ŘETĚZÁRNA Česká Ves	50.23101	17.19946	1	0	0	0
+Lipová Lázně jeskyně - Vápenná	50.27229	17.10915	1	0	0	0
+Lipová Lázně jeskyně - Vápenná	50.28095	17.09932	1	0	0	0
+Vápenná - Žulová	50.29080	17.09958	1	0	0	0
+Mikulovice - Zlaté Hory	50.26295	17.35369	1	0	0	0
+Luková 2 zast.	50.19018	15.48690	1	1	1	0
+U tenisu	50.23790	15.48364	1	0	0	0
+U nemocnice	50.24205	15.48454	3	0	0	0
+cihelna Flekačka	50.24994	15.48808	1	0	0	0
+Nový Bydžov - Skřivany	50.26499	15.49468	1	0	0	0
+u zast. Skřivany	50.27151	15.49846	5	0	0	0
+Smidary - stanice	50.29648	15.49278	4	0	0	0
+u zast. Ohnišťany	50.33373	15.50713	1	1	0	0
+Na stopce	50.34102	15.51342	1	1	0	0
+Ostroměř - Šárovcova Lhota	50.37164	15.55834	3	0	0	0
+Pod Lhotou	50.40513	15.55123	1	0	0	0
+Šárovcova Lhota - Lázně Bělohrad	50.40789	15.56162	1	0	0	0
+Lázně Bělohrad - Nová Paka	50.42904	15.57566	2	0	0	0
+ne	50.42906	15.57548	2	0	0	0
+u zast. N. Paka město	50.49480	15.51249	2	1	0	0
+Šlejharka	50.49849	15.50744	1	0	0	0
+u koně	50.50131	15.50209	1	0	0	0
+Stará Paka - Roztoky u Jilemnice	50.54511	15.46450	1	0	0	0
+Roztoky u Jilemnice - Martinice v Krkonoších	50.56971	15.49130	1	0	0	0
+Martinice v Krkonoších - Kunčice n/Labem	50.59683	15.58651	1	0	0	0
+Martinice v Krkonoších - Kunčice n/Labem	50.59388	15.59436	4	0	0	0
+Martinice v Krkonoších - Kunčice n/Labem	50.58825	15.61484	2	0	0	0
+Kunčice n/Labem - Hostinné	50.56802	15.65041	3	1	0	0
+Kunčice n/Labem - Hostinné	50.54765	15.69582	1	1	0	0
+Kunčice n/Labem - Hostinné	50.54593	15.69949	2	1	0	0
+Kunčice n/Labem - Hostinné	50.53872	15.72974	3	0	0	0
+Hostinné - Pilníkov	50.53504	15.74064	1	0	0	0
+U TOSu	50.53233	15.74272	1	0	0	0
+Amerika	50.51720	15.74294	2	0	0	0
+Hostinné - Pilníkov	50.51468	15.75043	1	0	0	0
+Hostinné - Pilníkov	50.52060	15.76409	1	0	0	0
+Chotěvický	50.52201	15.77817	1	0	0	1
+Pilníkov - Trutnov hl.n.	50.53673	15.81551	3	0	0	0
+Vlčický	50.54677	15.83485	1	1	0	0
+Břečštejnská	50.56420	15.89704	1	1	0	0
+Novoměstská /dříve Lomní /	50.56551	15.92186	1	0	0	0
+Polská	50.56737	15.92793	3	0	0	0
+Chlumec n/Cidlinou - Městec Králové	50.18647	15.34029	1	0	0	0
+Chlumec n/Cidlinou - Městec Králové	50.19079	15.33245	3	0	0	1
+Chlumec n/Cidlinou - Městec Králové	50.20889	15.30655	1	0	0	0
+	49.75749	16.48342	1	0	0	0
+Obora - Dymokury	50.26724	15.19513	1	0	1	0
+Dymokury - Městec Králové	50.21307	15.29141	1	0	0	0
+Veleliby - Křinec	50.26164	15.13863	1	0	0	0
+žst. Rožďalovice	50.30059	15.18093	1	0	0	0
+žst. Kopidlno	50.33464	15.26285	1	0	0	0
+Kopidlno - Bartoušov	50.33667	15.27341	2	1	0	0
+Bartoušovský	50.36219	15.32447	4	0	0	0
+u zast. Jičíněves	50.37417	15.33700	1	0	0	0
+ul.Ptácká	50.42014	14.90111	4	0	0	0
+ul.Jaselská	50.42002	14.90183	2	1	0	0
+ul.Jičínská, hl.přejezd v Řepově	50.40923	14.94709	7	1	0	0
+před zn. Kolomuty	50.40658	14.97659	5	1	0	0
+před zn. Březno	50.41330	15.00426	3	1	0	0
+v lesíku před Dlouhou Lhotou	50.42007	15.03474	1	0	0	0
+hl. přejezd v Dlouhé Lhotě	50.42093	15.03869	3	0	0	0
+před z. Bechov	50.43608	15.08422	2	0	0	0
+přejezd v Rohatsku	50.43701	15.10674	1	1	0	0
+Sobotka - Mladějov v Čechách	50.48015	15.16217	7	3	0	0
+na z. Libošovice	50.48653	15.16426	4	0	0	0
+Mladějov, k Sobotce	50.48304	15.22098	1	3	0	0
+Mladějov v Čechách - Libuň	50.48880	15.28551	1	1	0	0
+Kněžnice - hlavní přejezd	50.49310	15.32085	3	0	0	0
+Libuň - Lomnice n/Popelkou	50.49925	15.33201	1	0	0	0
+v Boroví	50.51774	15.38315	1	0	0	0
+přejezd u Vetrenu	50.52664	15.38266	1	0	0	0
+Lomnice nad Popelkou - Stará Paka	50.51713	15.44166	1	0	0	0
+Chroustova vila	50.61020	15.50925	1	0	0	0
+Hrabačov - Poniklá	50.62683	15.48962	1	0	1	1
+u zast. Sytová	50.63178	15.46194	2	2	1	0
+Hrabačov - Poniklá	50.64754	15.45825	1	0	0	0
+Poniklá - Jablonec n/Jiz.	50.69604	15.43818	1	0	0	0
+Jablonec n/Jiz. - Rokytnice n/Jiz.	50.70372	15.42934	1	0	0	0
+U cikána	50.58954	15.61575	1	0	0	0
+U mlékárny	50.59387	15.61688	4	1	0	0
+ul. Skřivánčí	50.56871	15.89734	2	1	0	0
+ul. Zahradní	50.57488	15.89444	2	0	0	0
+ul. Mírová	50.57773	15.89145	1	0	0	0
+U hřiště	50.58521	15.88394	1	1	0	0
+ul. Horská	50.59118	15.88180	2	0	1	0
+Babský	50.59907	15.87760	1	0	0	0
+Kalná Voda - Svoboda n/Úpou	50.60690	15.84197	2	0	0	0
+Trutnov střed - Chvaleč	50.59923	16.01741	1	0	0	0
+Hodkovický	50.60870	16.07032	1	0	0	0
+U školy	50.59457	16.16694	2	0	0	0
+Adršpach - Teplice n/Metují město	50.59464	16.16848	1	0	0	0
+Újezd u Chocně - Čermná n/Orlicí	50.03491	16.17116	2	0	0	1
+žst. Čermná n/Orlicí	50.06354	16.13817	3	0	0	0
+U vojáků	50.07374	16.12549	1	0	0	0
+Borohrádek - Měnírna Týniště n. Orlicí	50.12999	16.06329	2	0	0	0
+žst. Brandýs n.Orl.	50.00188	16.27974	6	0	0	0
+Hedva	49.99788	16.23505	2	0	0	0
+žst.Choceň, u depa, Choceň-Lhoty	49.99183	16.21411	2	0	0	0
+zast. Dobříkov	49.99571	16.13673	1	0	0	0
+Radhošť	49.99116	16.07424	1	0	0	0
+v louce	49.98644	16.03004	1	0	0	0
+žst. Uhersko	49.98716	16.01624	2	0	0	0
+žst. Uhersko, u býv. St. 2	49.98984	16.00305	1	0	0	0
+Zminný	50.02022	15.86376	1	0	0	0
+"\""Slovany\"", ul.Dašická"	50.03094	15.80874	8	0	0	0
+ul.Na Krétě, u čističky	50.04183	15.55136	1	0	0	0
+do Labětína	50.03399	15.50563	3	0	0	0
+u podjezdu pod sil.II-322	50.03056	15.46374	1	0	0	0
+u brány do Elektrárny Chvaletice	50.03168	15.44752	3	0	0	0
+Chvaletice	50.03418	15.43530	1	0	0	0
+Chvaletice-Telčice, u benzínky	50.03799	15.41200	1	0	0	0
+Bašta	50.01158	15.30607	1	0	0	0
+"\""drbna\"", Dobřanský"	50.00976	15.26580	6	1	0	0
+žst. Velim	50.06704	15.12736	3	0	0	0
+Pečky - měnírna	50.09346	15.01114	1	0	0	0
+"\"" zast.Tatce \"""	50.09962	14.98395	1	0	0	0
+Pečky - Poříčany	50.10603	14.95560	2	1	0	0
+Úvalský	50.07324	14.72483	7	1	0	0
+U zastávky Třebestovice	50.12541	14.96029	1	0	0	0
+na zhlaví č.2 ŽST Sadská	50.13149	14.98416	2	1	0	0
+U INFUZIE	50.15142	15.02640	1	1	0	0
+U Stadionu	50.18313	15.03347	2	0	0	0
+U Družstva	50.18825	15.03346	1	0	0	0
+Pečky - km 1,618 DÚ 1522 02	50.08152	15.01832	1	1	0	0
+km 2,500 DÚ 1522 08 - Plaňany	50.07306	15.00713	1	0	0	0
+Bošice - Zásmuky	49.99331	15.01302	2	1	0	0
+Zásmuky - ZEMPO Bečváry	49.96688	15.03463	1	0	0	0
+u zast. Klešice	49.96499	15.68536	1	0	0	0
+Rozhovice - Jezbořice	49.97093	15.69686	2	1	1	0
+zast. Bylany	49.95649	15.73233	1	0	0	0
+Třibřichy	49.95976	15.76087	1	0	0	0
+u dopravny Úhřetice	49.97840	15.85985	1	0	0	0
+	49.97852	15.86000	1	0	0	0
+za žst., u ocelového mostu	49.96761	15.91505	2	0	0	0
+Moravany	49.99832	15.93229	3	1	2	0
+u zast.Valy u Přelouče	50.03088	15.61394	1	0	0	0
+Valy - směr Veselí	50.02363	15.61564	1	0	0	0
+ul.Barákova	49.94253	15.65944	2	2	0	0
+Heřmanův Městec - Kostelec u Heřman. M. Z	49.92259	15.64985	1	0	0	0
+areál Holcin, a.s. Prachovice	49.89419	15.63404	1	0	0	0
+zast.Platěnice	50.00814	15.96090	1	0	0	0
+Holice, ul.Josefská	50.06732	15.99190	1	0	0	0
+Koudelka	50.08244	16.02525	1	1	0	0
+Borohrádek, souběh tratí	50.09422	16.08742	2	0	0	0
+Týniště n/Orlicí - Bolehošť	50.21197	16.06486	1	0	0	0
+Na bídě	50.23020	16.06338	1	0	0	0
+žst. Opočno pod Orl. hor.	50.27737	16.08586	5	0	0	0
+Opočno pod Orl. hor. - Bohuslavice n/Metují	50.31193	16.07961	1	0	0	0
+Opočno pod Orl. hor. - Bohuslavice n/Metují	50.32535	16.09078	6	0	0	0
+Václavice - Náchod	50.40712	16.13566	2	0	0	0
+Náchod - Hronov	50.42354	16.18781	2	0	0	0
+Náchod - Hronov	50.42672	16.19200	1	0	0	0
+Náchod - Hronov	50.44178	16.19265	1	0	0	0
+Chocholouš	50.47444	16.17603	1	0	0	0
+	50.47444	16.17599	1	0	0	0
+Bosna	50.47749	16.17496	1	0	0	0
+	50.47753	16.17484	1	0	0	0
+U kostela	50.48408	16.18008	1	0	0	0
+Hronov - Police nad Metují	50.49013	16.18612	5	0	0	0
+Police n/Metují - Česká Metuje	50.53752	16.20393	3	0	0	0
+845	50.59452	16.19909	3	0	0	0
+zast. Dvořisko, Kögel	49.98401	16.19141	1	3	0	0
+u letiště	49.97880	16.17692	1	0	1	0
+u jatek TORO V.Mýto,ul.Hradecká	49.96276	16.14373	3	0	0	0
+u žst.Vysoké Mýto, ul.Vraclavská	49.95460	16.14803	3	0	0	0
+ul. Prokopa Velikého	49.94889	16.15679	3	1	0	0
+Hrušová	49.90663	16.20262	1	1	0	0
+Saint Gobain Vertex Litomyšl	49.88034	16.29264	1	0	0	0
+Vertex Litomyšl, zadní brána	49.87920	16.29378	1	0	0	0
+u Zavadilky	50.03290	16.49751	1	0	0	0
+Červená	50.02426	16.48390	1	0	0	0
+"\""Valdštejn\"",u zast.Dol.Dobrouč"	50.01356	16.47497	1	0	0	0
+u dopravny Lanšperk	49.99289	16.44755	1	0	0	0
+žst.Ústí nad Orlicí, do areálu	49.97134	16.38223	2	1	0	0
+U rybníčku	50.23066	15.81408	1	2	0	0
+Předměřice n/Labem - Smiřice	50.25594	15.81733	1	0	0	0
+"\""Zdeňas\"""	50.29411	15.84799	4	3	1	0
+"\""Zdeňas\"""	50.29411	15.84799	4	3	1	0
+žst. Smiřice	50.30146	15.85881	6	1	1	0
+HOLOUBEK ENERGO a.s.Černožice - Jaroměř	50.31475	15.86944	2	0	0	0
+U hřbitova	50.32010	15.87048	1	0	0	1
+Jaroměř - Dvůr Králové n/Labem	50.36553	15.90629	1	0	0	0
+Jaroměř - Dvůr Králové n/Labem	50.39669	15.87005	6	0	0	0
+Dvůr Králové n/Labem - Bílá Třemešná	50.42663	15.76987	1	0	0	0
+Dvůr Králové n/Labem - Bílá Třemešná	50.43782	15.74696	1	0	0	1
+na škvárovně	49.60175	15.58963	1	2	0	0
+stát.silnice	49.60966	15.60959	1	0	0	0
+stát.silnice	49.60966	15.60959	1	0	0	0
+stát.silnice	49.63274	15.61614	1	1	0	0
+stát.silnice	49.65773	15.62557	1	0	0	0
+na Lapíkově	49.70295	15.65149	1	0	0	0
+Dobkovský	49.70823	15.67327	1	1	0	1
+stát.silnice	49.71199	15.67897	1	1	0	0
+Partyzánská	49.71204	15.67900	1	1	0	0
+stát.silnice	49.71161	15.68780	3	0	0	0
+obecní cesta	49.69796	15.76993	1	1	0	0
+stát.silnice	49.69976	15.78574	1	0	0	0
+cesta do pily	49.69867	15.81048	1	0	1	0
+	49.69872	15.81044	1	0	1	0
+sil.II.tř._směr Trh.Kamenice	49.76283	15.89549	1	0	0	0
+u žst.Hlinsko	49.76528	15.89851	2	0	0	0
+míst.komunikace v žst.Hlinsko	49.76795	15.90431	1	0	0	0
+zast.Holetín	49.78812	15.92682	1	0	0	0
+silnice III.třídy	49.78917	15.97259	2	0	0	0
+zast.Vojtěchov	49.79128	15.97235	1	0	0	0
+silnice III.třídy	49.79365	15.98851	1	0	0	0
+zast. Prosetín	49.83267	15.96185	1	0	0	0
+Horka	49.89012	15.91697	1	1	0	0
+žst. Chrast u Chr. - u 1. zhl.	49.89972	15.91663	2	1	0	0
+Orel	49.91433	15.84343	1	0	0	0
+ul.K Vlčnovu	49.92160	15.82028	1	0	0	2
+Slatińany Vlčnov(ulice K. Vlčnova)	49.92153	15.82022	1	0	0	2
+u ocelového mostu přes Chrudimku	49.92583	15.81419	1	0	1	0
+"Chrudim\""pivovar\"",ul.Obc.Ležáků"	49.94012	15.79451	1	0	0	0
+žst.Rosice nad Labem u St. 2	50.05035	15.74117	1	0	0	0
+žst.Stéblová	50.10452	15.75774	2	0	0	0
+zastávka Čeperka	50.13183	15.77014	1	0	0	0
+"\""za Vackem\"""	50.14490	15.77723	1	0	0	0
+Hospoda	50.16257	15.78753	4	1	0	0
+	50.16250	15.78750	4	1	0	0
+Masenský	50.17488	15.79374	1	0	0	0
+Masenský	50.17488	15.79374	1	0	0	0
+U Vlasty Vosáhla	50.18247	15.79765	2	1	0	0
+Farářství	50.20181	15.80628	2	0	0	0
+ČKD	50.23458	15.79305	5	0	0	0
+Světí	50.24714	15.77485	4	2	0	0
+Všestary - Sadová	50.25231	15.75590	1	0	0	0
+Všestary - Sadová	50.25397	15.74714	1	3	0	0
+u zast. Dlouhé Dvory	50.26192	15.72559	1	1	0	0
+u zast. Dohalice	50.28378	15.69176	3	3	0	0
+Sádová	50.29805	15.69787	4	0	0	0
+u zast. Třebovětice	50.32834	15.70186	1	0	0	0
+u zast. Jeřice	50.34475	15.67340	1	0	0	2
+Jeřice šikmý	50.35007	15.66276	2	0	0	1
+U Matyldy	50.35700	15.64798	1	2	0	0
+Hořice v Podkrkonoší - Ostroměř	50.35142	15.57853	1	0	0	1
+Letiště	50.35405	15.57573	1	0	0	0
+Trotina	50.29097	15.83407	2	0	0	0
+Jaroměř - Rychnovek	50.34799	15.93454	1	1	0	0
+Jaroměř - Rychnovek	50.35447	15.94489	1	0	0	0
+Rychnovek - AGRO Č.Skalice	50.36365	15.98350	1	0	0	0
+Na Bojišti	50.39872	16.05521	4	0	0	0
+žst. Starkoč	50.41238	16.09577	2	0	0	0
+Starkoč - Červený Kostelec	50.45357	16.08503	1	1	0	0
+Kramolna	50.46345	16.07741	1	1	0	0
+žst. Červený Kostelec	50.48149	16.07529	1	0	0	0
+Červený Kostelec - Malé Svatoňovice	50.49089	16.07881	2	1	0	0
+Na Haldě	50.51931	16.06725	1	0	0	0
+Trutnov střed - obvod Poříčí - Královec	50.65991	15.96803	1	0	0	0
+Královec - Královec st.hr.	50.67507	15.97287	2	0	0	0
+u lesní školky	50.64690	15.32054	1	0	0	0
+zastávka Plavy	50.70132	15.31790	3	0	0	0
+Železný Brod - Velké Hamry	50.70700	15.31498	1	0	0	0
+pod sídlištěm, z. V. Hamry město	50.71989	15.31363	3	1	0	0
+Hodkovická ulice	50.74711	15.06227	1	0	0	0
+ulice Za mlýnem, před Vescem	50.74426	15.07839	2	0	0	0
+Prosečská ulice	50.74039	15.09730	1	0	0	0
+Prosečská ulice	50.73830	15.10188	1	0	0	0
+ul. Za tratí	50.72461	15.12249	1	1	0	0
+posl.prosečský př., Nový svět	50.72146	15.13152	1	0	0	0
+ul. Vodní, před žst. Jablonec	50.72221	15.15852	1	0	0	0
+ulice V aleji	50.71928	15.16724	1	0	0	0
+ulice Revoluční	50.71940	15.16922	1	0	0	1
+ulice Alešova	50.72022	15.19119	3	1	0	0
+ul.Vít.Nezvala, z.Jabl.Paseky	50.73151	15.19137	1	0	0	0
+před zn. Lučany n. N.	50.73946	15.22471	2	0	0	0
+před žst.Smržovka,Rooseweltova	50.73876	15.23843	4	1	0	0
+za z. Tanvald, ul. Poštovní	50.73733	15.30584	1	0	0	0
+před Žďárským tunelem,ul.Česká	50.74575	15.31142	2	0	0	0
+přejezd v Kořenově (u pily)	50.77035	15.36300	1	0	0	0
+přejezd v Josefově Dole	50.77859	15.24122	2	0	0	0
+"\""5B\""zast.Bujanov"	48.69865	14.43313	1	0	0	0
+před žst.Omlenice	48.72194	14.44682	1	0	0	1
+před žst.Kaplice	48.77522	14.46375	6	1	0	0
+žst.Velešín	48.82149	14.43220	2	1	0	0
+před žst.Holkov	48.84705	14.45402	1	0	1	0
+Bukovec	48.88463	14.44274	1	0	0	0
+za žst.Kamenný Újezd u Č.B.	48.89404	14.45566	2	0	0	1
+"\""Na Dolech\"",zast.K.Újezd"	48.90941	14.45137	1	1	0	0
+žst.Včelná	48.92486	14.44984	1	0	0	0
+Včelná	48.92741	14.45538	4	2	1	1
+Roudné	48.94397	14.47281	4	4	1	0
+odb.Rožnov-ul.Ludvíka Kuby	48.95003	14.47257	3	1	0	1
+bývalé stanoviště PS	48.77624	14.94209	1	0	0	0
+Calofrig	48.81969	14.92296	1	0	0	0
+u hřbitova	48.85209	14.89977	2	0	0	0
+Nová Ves n/Lužnicí - Suchdol n/Lužnicí	48.86221	14.88893	1	0	0	0
+zast.Hrdlořezy	48.87346	14.87942	2	0	0	0
+zast.Suchdol n/L.	48.89163	14.87988	1	0	0	1
+býv.str.stan.č.16	48.89291	14.88089	2	2	0	0
+"\""Klikovský\"""	48.90490	14.88249	2	0	0	0
+Suchdol n/Lužnicí - Majdalena	48.91731	14.88074	6	2	0	0
+sloupárna Majdalena	48.95368	14.86550	1	0	0	0
+zastávka Majdalena	48.96471	14.85774	2	0	0	0
+zastávka Třeboň-lázně	49.00725	14.77832	2	0	0	0
+Gigant	49.02986	14.75284	1	1	1	0
+Rožmberk	49.04661	14.75159	1	1	0	0
+zastávka Lužnice	49.05407	14.74986	3	0	0	0
+býv.str.stan.č.41	49.07678	14.72718	2	1	0	0
+před žst.Lomnice n/L.	49.08876	14.72890	2	0	1	0
+u Nohavů	49.13829	14.73755	1	0	0	0
+zastávka Řípec	49.22479	14.72431	3	0	0	0
+na Chlebov	49.25768	14.72636	1	0	0	0
+u Jitony	49.26613	14.71587	1	0	0	0
+za žst.Roudná	49.29994	14.71787	2	2	0	0
+na Strkov	49.34934	14.70815	1	0	0	0
+Keťaska(Komenského ul. )	49.40871	14.68170	2	0	0	0
+u SZD	49.43248	14.67425	1	0	0	0
+za žst.Heřmaničky	49.60547	14.58179	2	0	0	0
+Heřmaničky - Votice	49.60843	14.58186	4	0	0	0
+na Božkov	49.93328	14.70632	1	0	0	0
+ul. Olivova	49.98908	14.66890	7	0	1	0
+Benický přejezd	50.02364	14.60366	2	0	0	0
+Čerčany - Pecerady	49.83723	14.67518	3	6	0	0
+Týnec n.Sázavou - Krhanice	49.83334	14.58983	2	0	0	0
+	50.14572	14.76186	2	0	0	0
+Týnec n.Sázavou - Krhanice	49.83921	14.57783	2	0	0	1
+LOM	49.85656	14.54741	2	0	0	0
+místní kom.	49.85667	14.54750	2	0	0	0
+Skochovice - Vrané n/Vltavou	49.93184	14.37335	2	0	0	0
+u Jarovského tunelu	49.94605	14.39776	1	0	0	0
+Praha Krč - Praha Braník	50.02973	14.40870	2	0	0	0
+Žst. Dobříš	49.78976	14.18498	3	0	0	0
+	49.78982	14.18450	3	0	0	0
+ul. Knínská	49.78541	14.19894	5	3	0	1
+Dobříš km 0,106 = km 1,106 - Malá Hraštice	49.78256	14.20507	2	0	1	0
+VÚ	49.78616	14.22027	2	0	0	0
+do osady Porostliny, do Pouští	49.78674	14.22302	1	1	0	0
+Knínský	49.78797	14.22493	2	0	0	0
+Dobříš km 0,106 = km 1,106 - Malá Hraštice	49.80917	14.26238	1	0	0	0
+Malá Hraštice - Mníšek pod Brdy	49.83432	14.26077	1	0	0	0
+Malá Hraštice - Mníšek pod Brdy	49.83906	14.26009	1	0	0	0
+Malá Hraštice - Mníšek pod Brdy	49.85328	14.26855	11	0	0	0
+žst. Mníšek p/Brdy	49.85459	14.27182	1	0	0	0
+Rymáně	49.85808	14.28065	1	0	0	0
+zastávka Bojov	49.88054	14.34869	1	0	0	0
+souběh trati 1711: km 34,706	49.91999	14.37812	2	0	0	0
+souběh trati 1711: km 34,706	49.91999	14.37812	2	0	0	0
+Ledečko - Sázava Černé Budy	49.87637	14.91116	1	0	0	0
+Lipová	49.87361	14.90224	2	0	0	0
+Vlkovec - Hvězdonice	49.86969	14.80531	3	1	1	0
+Vlkovec - Hvězdonice	49.87260	14.77409	1	0	0	0
+u zast. Zlenice	49.87993	14.73377	1	1	0	0
+U inženýra Ondřicha	49.86360	14.71516	1	0	0	0
+Hvězdonice - Čerčany	49.86230	14.71295	1	3	0	0
+U zastávky Kácov	49.77533	15.03010	1	0	0	0
+Kácov - SÁZAVAN Zruč n/Sáz.	49.77501	15.02723	1	0	0	0
+Zruč n/Sázavou - Vlastějovice	49.73091	15.16572	1	2	1	0
+Do Kovošrotu	49.70051	15.26532	1	0	0	0
+U rest. na Růžku	49.69683	15.27307	2	0	0	0
+stát.silnice	49.66146	15.38721	3	1	0	0
+"\""Čerčanka\"", Kolín míst. u MeO"	50.01387	15.22271	1	2	0	0
+	50.01558	15.22232	1	2	0	0
+Kolín místní nádraží - Červené Pečky	49.98816	15.20763	2	0	0	0
+Ratboř vl.Cukrovar - Bečváry	49.97430	15.14220	1	0	0	0
+Ratboř vl.Cukrovar - Bečváry	49.97154	15.12812	6	5	0	1
+Ratboř vl.Cukrovar - Bečváry	49.96649	15.10200	2	4	0	0
+Ratboř vl.Cukrovar - Bečváry	49.96018	15.07572	1	0	0	0
+žst. Bečváry	49.95673	15.07131	2	0	0	0
+u zast. Hatě	49.91412	15.05804	1	0	0	0
+Bečváry - Chmeliště	49.89878	15.05548	1	0	0	0
+Chmeliště - Uhlířské Janovice	49.89508	15.05657	1	0	1	0
+Chmeliště - Uhlířské Janovice	49.88336	15.06058	1	1	0	0
+Rataje n/Sáz. předměstí - odb. Rataje n/Sáz.	49.84782	14.97215	2	0	0	0
+Kutná Hora město - Malešov	49.94751	15.27488	1	0	0	0
+Kutná Hora město - Malešov	49.92503	15.26061	1	2	0	0
+Kutná Hora město - Malešov	49.91127	15.23493	1	0	0	0
+Malešov - Červené Janovice	49.85153	15.22345	1	0	0	0
+Zbraslavice - Zruč n/Sázavou	49.74172	15.10424	1	0	0	0
+Benešov u Prahy - Struhařov	49.77201	14.69886	1	0	0	0
+Struhařov - Postupice	49.76002	14.75530	2	0	0	0
+ul. Blanická	49.70203	14.89483	2	0	0	0
+žst. Vlašim	49.69854	14.90083	2	0	0	0
+	49.70194	14.89485	2	0	0	0
+Vlašim - Zdislavice	49.68781	14.96735	2	2	0	0
+Zdislavice - Trhový Šťěpánov	49.70794	15.00826	1	0	0	0
+zast.Voračice	49.66137	14.55680	1	0	0	0
+žst.Štětkovice	49.66640	14.51588	2	0	0	0
+za žst.Kos.Hora	49.66035	14.47884	1	1	0	0
+před žst.Sedlčany	49.65588	14.43912	1	0	0	0
+"\""C\""-Jubilejní ulice"	49.01328	14.48111	1	0	3	0
+u hrnčírny	49.01790	14.48268	2	2	1	0
+k Těšínu	49.02143	14.48112	3	0	1	0
+žst.Ševětín	49.09930	14.57831	2	0	0	0
+malý Horusický	49.16696	14.66534	4	1	0	1
+Rybník - Rožmberk n/Vltavou	48.63448	14.41093	1	0	0	0
+Rožmberk n/Vltavou - Vyšší Brod klášter	48.62027	14.35137	1	0	0	0
+Rožmberk n/Vltavou - Vyšší Brod klášter	48.61846	14.34785	1	0	0	0
+Vyšší Brod klášter - Loučovice	48.63171	14.29799	2	0	0	1
+Vyšší Brod klášter - Loučovice	48.63697	14.29160	1	0	0	0
+žst.Loučovice	48.62024	14.25475	1	0	0	0
+odb.vl. PILA Loučovice - vl. JIP-PAPÍRNY Vlt.mlýn Louč	48.61939	14.24550	1	0	0	0
+	48.61936	14.24551	1	0	0	0
+Lipno nad Vlt.	48.62895	14.24694	1	0	0	0
+Veselí n/ Lužnicí - Doňov	49.20038	14.78078	1	1	0	0
+před žst.Doňov	49.20769	14.79618	5	1	1	0
+Fejralka	49.20399	14.82890	1	0	0	0
+u Másílka	49.18946	14.85239	2	0	0	2
+na Kopečku	49.18863	14.85464	1	1	0	0
+žst.K.Řečice	49.18685	14.85841	2	0	0	0
+"\""15\"""	49.17540	14.87417	3	0	0	0
+Barbora	49.16669	14.92056	2	0	0	0
+před nz.Děbolín	49.16522	14.94708	2	3	0	0
+Děbolín - Jindřichův Hradec	49.15691	14.97758	1	0	0	0
+Jatka	49.15530	14.99708	2	1	0	0
+u Haláčka	49.16230	15.01354	3	0	0	0
+Jarošov n/Nežárkou - Kamenný Malíkov	49.19811	15.09762	1	0	0	0
+před žst.Popelín	49.21925	15.17490	1	0	0	0
+za žst.Popelín	49.22319	15.18840	1	0	0	0
+Popelín - Počátky-Žirovnice	49.22794	15.20394	1	0	0	0
+za žst.Počátky-Žirovnice	49.23865	15.21822	1	0	0	0
+žst.Jihlávka	49.24712	15.29263	1	0	0	0
+Jihlávka - Horní Cerekev	49.30246	15.31864	1	0	0	0
+Horní Cerekev - Batelov	49.31712	15.39206	2	0	0	0
+Kostelec u Jihlavy - Rantířov	49.38680	15.49635	1	0	1	0
+Božejovice	49.44765	14.49486	5	0	0	0
+Sepekov	49.44067	14.42018	1	0	0	0
+U Mikoty	49.40953	14.36021	1	2	3	0
+Červená	49.37535	14.27084	1	0	0	0
+u Volfa	49.35222	14.20936	1	0	0	0
+Svatonice	49.34144	14.19994	1	0	0	0
+Vrcovice	49.34017	14.17069	2	1	0	0
+Písek město - Písek	49.30578	14.16180	1	0	1	1
+zast.Horky	49.39553	14.64302	2	1	0	0
+Malšice - VÚ Dolina	49.35449	14.58308	1	0	0	0
+VÚ Dolina - Sudoměřice u Bechyně	49.30066	14.54466	1	0	0	0
+Sudoměřice u Bechyně - Bechyně nákladiště	49.29150	14.52231	2	0	0	0
+zast.Hříběcí	49.32053	15.30927	1	1	0	0
+Dobrá Voda u Pelhřimova - Pelhřimov	49.36743	15.27503	2	0	0	0
+AGROALFA	49.40433	15.22845	3	1	0	0
+k Agrostroji	49.42269	15.22333	7	0	0	0
+"\""U Najdra\"""	49.44393	14.99830	1	0	0	0
+býv.str.stan.č.47	49.42674	14.93014	1	11	1	0
+"\""Kladruby\"""	49.41872	14.84917	1	0	0	0
+"Měšická ul.-\""u Berky\"""	49.40467	14.68871	1	1	0	0
+Kostelec u Jihlavy - vl. Podzimek a synové	49.33248	15.48539	2	0	0	0
+místní	49.30922	15.48041	3	0	0	0
+Třešť - Hodice	49.29591	15.47671	2	17	2	1
+Třešť - Hodice	49.28902	15.47956	1	2	0	0
+Hodice - Sedlejov	49.26847	15.48401	1	0	0	0
+Sedlejov - Telč	49.21548	15.48922	2	3	0	0
+Sedlejov - Telč	49.21173	15.48684	1	1	0	0
+Slavonice - JEDNOTA	49.00190	15.34991	1	0	0	0
+Slavonice - JEDNOTA	49.00282	15.35377	3	1	0	0
+JEDNOTA - Dačice	49.07800	15.43920	1	0	0	0
+JEDNOTA - Dačice	49.08460	15.43931	1	0	1	0
+Dačice - Telč	49.09194	15.44347	1	1	0	0
+Dačice - Telč	49.12706	15.45601	1	0	0	0
+Dačice - Telč	49.14505	15.47272	1	0	0	0
+Prosenice - Lipník nad Bečvou	49.51715	17.52431	1	0	0	0
+žst. Lipník nad Bečvou	49.53273	17.58393	1	0	0	0
+Polom Lučice	49.57761	17.82463	3	0	0	0
+Jeseník	49.61465	17.90149	2	0	0	0
+Suchdol - měnírna	49.63479	17.92244	11	0	0	0
+Suchdol - měnírna	49.63479	17.92244	11	0	0	0
+Suchdol nad Odrou - Studénka	49.67024	17.97365	10	0	0	0
+Studénka ul. 2.května	49.70831	18.07096	7	0	0	0
+Studénka - Jistebník	49.74136	18.13757	1	0	0	0
+Jistebník	49.74703	18.14745	3	0	0	0
+Polanka ul. 1. května	49.77819	18.18944	5	0	0	0
+ulice Bratří Sedláčku	49.81402	18.20674	1	0	0	0
+Bohumín-Vrbice - Bohumín	49.88975	18.33873	7	0	0	0
+Bohumín - Dětmarovice	49.91247	18.41443	4	0	0	0
+zast.Závada	49.89750	18.50869	1	0	0	0
+Petrovice u Karviné - Petrovice u Karviné st.hr.	49.88921	18.56151	3	0	0	0
+žst. Červenka - (litovelské zhlaví)	49.72711	17.08152	5	0	0	0
+U kafilérky	49.87202	16.62910	3	0	0	0
+Benkov	49.74348	17.04136	9	1	0	0
+U nádraží	49.69702	17.15735	2	0	0	0
+čtyřkolejný	49.45328	17.41930	6	0	0	0
+čtyřkolejný	49.45328	17.41930	6	0	0	0
+U měnírny	49.45244	17.41226	2	0	0	0
+U zastávky	49.46090	17.37357	10	0	0	0
+Holický	49.58010	17.28409	2	0	0	0
+9.května	49.89723	18.35095	3	0	0	0
+U Rybeny	49.90586	18.33661	1	0	0	0
+U Rybeny	49.90586	18.33661	1	0	0	0
+na ulici Českobratrská	49.47774	17.12230	3	0	1	0
+na ulici Olomoucká	49.47818	17.11726	3	1	0	0
+u veteriny	49.48689	17.09478	1	1	0	0
+u Smržic	49.49295	17.08314	5	2	0	0
+u Smržic na Kostelec	49.49983	17.07503	1	0	1	0
+kousek od benziny	49.51131	17.06321	1	0	0	0
+Kostelec do bytné čtvrti	49.51244	17.05759	1	0	0	0
+u mostku a zastávky	49.51887	17.03028	1	0	0	0
+Kostelec na Hané - Ptení	49.52633	16.95942	1	9	1	0
+u žel. zastávky	49.56320	16.91417	1	1	0	0
+Ptení - Konice	49.57843	16.89914	1	0	0	0
+Chornice-Unerázka	49.67286	16.74842	1	0	0	0
+Olomoucká ulice (u obchvatu)	49.76078	16.67422	1	1	0	0
+účel.kom. do fabrik, SILO	49.77236	16.66591	1	0	0	0
+zast.Anenská Studánka	49.85504	16.55658	1	0	0	0
+žst.Lanškroun, silnice I.tř.	49.90750	16.60269	1	0	0	0
+Zabreh	49.87854	16.88312	3	1	0	0
+na Křtaltě	49.88059	16.88422	1	0	0	0
+u zastávky	49.88591	16.89048	1	0	0	0
+u zahrádek	49.90313	16.91428	1	0	1	0
+ul. 1.máje	49.90387	16.91665	1	1	0	0
+ul. Zahradní	49.90534	16.91853	2	0	1	0
+u zastávky	49.91146	16.92427	1	0	0	0
+U cukrovaru, ul.Loštická	49.70909	17.07261	1	2	1	1
+ul. Králova	49.70799	17.07237	2	0	0	0
+Litovel - Litovel předměstí	49.70457	17.07157	1	0	0	0
+ke koupališti	49.70312	17.07124	1	0	0	0
+u zastávky Odrlice	49.64377	17.07191	1	0	0	0
+zast. Mankovice	49.63587	17.87507	1	0	0	0
+kafilerka světla	49.64610	17.85035	1	0	0	0
+tř. Osvobození dvoukolejný	49.66861	17.83548	2	1	0	0
+optimitka	49.67266	17.82895	2	0	0	0
+zast. Loučky	49.68490	17.80974	1	3	0	0
+kamenolm 2	49.69892	17.78068	1	4	0	0
+světla za Jakubčovicema	49.69930	17.77404	1	0	0	0
+Svatoňovice světla	49.79998	17.66920	1	0	0	0
+Sumvald	49.79123	17.62803	1	0	0	0
+u depa	49.64339	17.94064	1	0	0	0
+zast. Hl. Životice	49.67996	17.95074	1	0	0	0
+Suchdol ul. Za nádražím	49.64337	17.94314	1	1	0	0
+Šakvice-Starovičky	48.90384	16.73506	2	0	0	0
+přechod v žst.Vranovice	48.96698	16.60280	1	0	0	0
+přechod v žst.Vranovice	48.96698	16.60280	1	0	0	0
+Moravanská	49.14413	16.60657	2	0	0	0
+Moravanská	49.14413	16.60657	2	0	0	0
+u žel.zast.Blansko-město	49.36027	16.64001	3	0	0	0
+Ráječko	49.38214	16.63539	4	1	2	0
+u žel.zast.Dolní Lhota	49.38657	16.63409	1	0	0	0
+ve Spešově	49.39444	16.63178	9	0	0	0
+u žst.Rájec-Jestřebí	49.40926	16.62752	1	0	0	0
+O.Blažka	49.40922	16.62760	1	0	0	0
+Lhota Rapotina-Jabloňany-Obora	49.46562	16.61816	2	0	0	0
+žst.Skalice nad Svitavou	49.48203	16.60775	1	0	0	0
+ul.Tyršova	49.49551	16.60315	2	0	0	0
+V Letovicích u hřiště	49.54270	16.57027	1	0	0	0
+z Rozhraní do Vilémova	49.59411	16.53836	1	0	0	0
+u žel.zast.Moravská Chrastová,	49.62322	16.52450	3	0	0	0
+v žst.Březová	49.63579	16.51876	2	0	0	0
+u žel.zast.Dlouhá Březová	49.65567	16.50781	2	0	1	0
+na Zavadilce	49.71130	16.48470	4	0	0	0
+u žel.zast.Svitavy-Lány; na Mo	49.73572	16.48322	1	0	0	0
+žst.Svitavy, ul.Olomoucká	49.75670	16.47909	5	0	0	0
+u žst.Opatov	49.80903	16.49048	5	0	0	0
+zast.Semanín	49.84716	16.47411	2	0	0	0
+ul.Křenová	49.19125	16.62819	2	0	0	0
+u Svitavského rybníka	49.76471	16.46491	3	2	0	0
+zast.Vendolí (dolní), sil.I.tř	49.74582	16.41249	2	1	0	0
+žst. Polička, silnice II.tř.	49.71866	16.26612	1	0	0	0
+mezi vlečkami, na Střítež	49.71986	16.25566	1	0	0	0
+Střítežská	49.71993	16.25536	1	0	0	0
+Polička - Borová u Poličky	49.72180	16.21062	1	0	0	0
+žst. Borová u Poličky	49.74469	16.15826	1	0	0	0
+silnice II.tř., směr Proseč	49.74902	16.14968	1	1	0	0
+silnice I/34, směr od Hlinska	49.75077	16.13899	1	3	1	0
+vedle žst.Čachnov	49.75285	16.06255	2	0	0	0
+Krouna, silnice I/34	49.77047	16.04233	1	0	0	0
+Čachnov - Skuteč	49.81581	16.02934	1	0	0	0
+zast.Předhradí	49.82496	16.01804	1	0	0	0
+u žst.Skuteč, do průmysl.zóny	49.83722	15.99287	1	1	0	0
+vedle dopravny Jevíčko	49.63025	16.73129	2	2	0	0
+Borotínský přejezd	49.60302	16.69423	2	0	0	0
+ve Váženech u Boskovic	49.53048	16.69199	1	0	0	0
+pod Červeným kopcem	49.50864	16.67104	1	0	0	0
+u Slávie	49.49060	16.65041	1	0	0	0
+horní dvojče	49.47787	16.64239	2	0	0	0
+Tišnov-Předklášteří	49.35158	16.41297	1	0	0	0
+do prům.zóny v Pohořelicích	48.97092	16.51745	2	2	0	1
+u cihelny - dnes Stafikr	48.93238	16.74594	1	1	1	0
+stát.silnice - Jamská	49.55359	15.96590	1	0	0	0
+stát.silnice z I/38 na Mělkovice	49.55802	15.97350	3	0	0	1
+stát.silnice	49.56238	16.06123	2	1	0	0
+u zahradnictví	49.56998	16.07584	1	2	0	0
+Nové Město na Moravě - Bystřice nad Pernštejnem	49.57067	16.09727	3	0	0	0
+stát.silnice	49.54461	16.18146	2	0	0	0
+polní cesta	49.52424	16.21421	1	0	0	0
+stát.silnice	49.47914	16.23838	1	0	0	0
+místní kom	49.47555	16.24334	1	0	0	0
+st.silnice	49.45397	16.33329	1	0	0	0
+místní kom. do Klečan	49.45281	16.34172	2	0	0	0
+polní cesta	49.40707	16.37168	1	0	0	0
+u žst.Boří les	48.73816	16.86271	2	1	0	0
+Boří les - Valtice	48.74893	16.76283	1	0	0	0
+v polích blízko rybníku Nesyt	48.76390	16.71716	2	1	0	0
+u žel.zastávky Sedlec	48.77451	16.69948	1	0	0	0
+ke staré celnici	48.79099	16.63995	1	0	0	0
+není	48.82799	16.51042	1	1	0	0
+není	48.82330	16.28524	3	2	0	0
+u žel.zast.Dyje	48.84992	16.11961	1	1	0	0
+není	48.86074	16.07909	2	0	0	0
+polní cesta-Valtická alej	48.77024	16.81068	1	0	0	0
+před žst.Velké Pavlovice	48.88765	16.82368	1	0	0	0
+u Vinopy	48.89747	16.82266	2	12	3	0
+u žel.zast.Brumovice	48.94785	16.90772	4	0	0	0
+Hovoranský přejezd	48.91334	17.00492	1	1	0	0
+v Mutěnicích U Urbana	48.91269	17.02243	1	1	0	0
+hlavní na Dubňany,Kyjov	48.90750	17.03297	2	2	0	0
+U Vinařských k Jagošovi	48.90534	17.03565	1	1	1	1
+k novému rybníku	48.88967	17.05303	1	0	1	0
+na Zbrodu	48.88792	17.06465	3	0	0	0
+Pánov-hlavní na Mutěnice	48.87843	17.11610	3	1	0	0
+Na Výhoně (tvz. v zahrádkách)	48.86287	17.12956	1	0	0	0
+ul.Kaštanová	49.15602	16.64781	2	2	1	0
+Holásky - polní	49.14661	16.65089	1	0	0	1
+před žst.Sokolnice do Telnice	49.10845	16.72943	1	0	0	0
+Rousínov-Slavíkovice, místní	49.19823	16.87081	2	1	0	1
+Rousínov, ul. R.Armády,státní	49.20045	16.87397	2	0	0	0
+z Rous.do Královop. V., Vážanský	49.20582	16.87490	2	0	1	1
+Topolany-Křižanovice u Vyškova	49.28391	17.03760	1	2	1	0
+u žel.zast.Hoštice-Heroltice	49.29161	17.05919	1	0	0	0
+MK z obce do polí asi 17 domů	49.34375	17.19868	2	1	0	0
+u podniku INGSTAV	49.34212	17.29374	2	0	0	0
+u stanice (I.tř.)	49.34657	17.30875	2	0	0	0
+polní	49.35000	17.32013	1	0	0	0
+Kojetín - Chropyně	49.35155	17.32538	5	2	0	0
+Chropyně - Věžky	49.39727	17.40049	2	0	0	1
+Věžky - Přerov	49.42365	17.44499	1	0	0	0
+Kojetín - Lobodice	49.35758	17.29493	1	1	0	0
+Kojetín - Lobodice	49.37656	17.28379	1	0	0	0
+Skašov - Tovačov	49.41766	17.28220	1	1	0	0
+ulice Hulínská	49.30308	17.40096	3	0	0	0
+ul. Hulínská	49.30307	17.40096	3	0	0	0
+Kroměřížská ulice	49.31535	17.45377	2	1	0	0
+za Hulíne, na Břest	49.32137	17.45986	1	0	0	0
+Tovární ulice (u TO)	49.32731	17.57266	1	0	1	0
+ulice Tovární	49.32738	17.57269	1	0	1	0
+Přílepy	49.32871	17.58795	1	0	0	0
+u cihelny	49.33847	17.59784	1	0	1	0
+u stavědla č.1 (stanoviště I)	49.39395	17.66833	2	3	1	0
+spojnice mezi obcí	49.39682	17.68188	2	1	0	0
+Kunovický u statku	49.44236	17.82246	3	0	0	0
+Branky B1	49.45918	17.90334	1	0	1	2
+ke střelnici	49.46480	17.93727	1	0	0	1
+u Kauflandu, zastávka Oskol	49.29215	17.40760	1	0	0	0
+zastávka Kotojedy	49.28345	17.40320	2	0	0	0
+skržický	49.24324	17.34525	1	0	0	0
+nětčický na trojce	49.23610	17.30013	2	0	0	0
+Krhová	49.49708	17.99100	6	0	0	0
+Domorac	49.51697	18.01170	1	0	0	0
+Mořkov-pila	49.52895	18.07017	1	0	0	0
+Rožnovská	49.54400	18.20964	3	0	0	0
+Ráztoka	49.54091	18.22828	1	0	0	0
+Žuchov	49.54447	18.24199	1	0	0	0
+pod nemocnicí	49.53871	18.31039	2	0	0	0
+Nyklovice	49.54512	18.32371	1	0	0	1
+Kunčice pod Ondřejníkem - Frýdlant nad Ostravicí	49.58548	18.35846	1	0	0	1
+Frýdlant nad Ostravicí - Pržno	49.60324	18.35377	2	0	0	1
+Pržno - Baška	49.62755	18.36857	1	1	0	0
+Pržno - Baška	49.64438	18.36903	2	1	0	1
+žst. Frýdek-Místek	49.67486	18.35662	1	0	1	0
+ul. Buničitá	49.77190	18.30203	1	0	0	0
+ul.Výletní	49.76693	18.30603	2	0	0	0
+ul. Výletní (místní kom.)	49.76691	18.30631	2	0	0	0
+Lískovec u Frýdku - Frýdek-Místek	49.69172	18.33222	2	3	0	0
+	49.69176	18.33230	2	3	0	0
+Lískovec u Frýdku - Frýdek-Místek	49.68094	18.35063	2	0	1	0
+Potůčky	49.47863	17.97824	3	1	3	1
+u pelikána	49.47112	18.02556	1	0	0	0
+Pěší přechod v Zašové	49.46824	18.04010	1	0	1	0
+Zašová	49.46772	18.04272	1	0	0	0
+Střítežský	49.46585	18.05587	5	3	0	2
+u zastávky	49.46136	18.09243	2	0	0	0
+Tesla Rožnov	49.46016	18.12241	5	8	0	0
+žst. Frýdlant nad Ostravicí - ostravické zhlaví	49.58599	18.35942	1	0	0	0
+Frýdlant nad Ostravicí - Ostravice	49.55757	18.37084	1	0	0	0
+Frýdlant nad Ostravicí - Ostravice	49.55233	18.37837	1	0	0	0
+Frýdlant nad Ostravicí - Ostravice	49.55134	18.37946	1	0	1	0
+pila	49.53931	18.39251	2	2	0	0
+Prchalov	49.65220	18.13577	1	0	0	0
+Příbor benzina	49.64737	18.14425	2	2	1	1
+ul. Místecká Příbor	49.64207	18.14794	2	0	0	0
+Kopřivnice nákl.nádr. - Kopřivnice	49.59793	18.14869	1	1	0	0
+Diviška	49.59772	17.27711	2	0	0	0
+Roháče z Dubé	49.60306	17.28047	2	0	0	0
+	49.60577	17.28427	2	0	0	0
+Bystrovany	49.59873	17.32278	2	1	1	0
+U nádraží	49.59428	17.35233	1	1	0	0
+Bukovanský	49.59526	17.35891	1	2	0	0
+Do Burku	49.60230	17.37348	1	1	0	0
+U Moravie	49.61379	17.39512	1	0	0	0
+U zastávky Hlubočky	49.62550	17.40336	3	0	0	1
+do kamenolomu	49.66778	17.41645	1	0	0	0
+	49.66778	17.41645	1	0	0	0
+Domašov nad Bystřicí - Moravský Beroun	49.75484	17.42058	2	0	4	1
+Ondrášov	49.78854	17.42826	1	0	0	0
+Dětřichov	49.81590	17.39295	1	0	0	0
+Dětřichov nad Bystřicí - Valšov	49.85634	17.41029	3	0	0	0
+Lomnice závory v esíčku	49.89562	17.43047	9	0	0	0
+Valšov dvoukolejný	49.92640	17.43502	1	0	0	0
+Valšov dvoukolejný	49.92640	17.43502	1	0	0	0
+Arab	49.94704	17.44162	2	5	0	0
+Bruntál - Milotice nad Opavou	50.00919	17.55103	1	0	0	0
+Bedihošť - Prostějov hl.n.	49.44822	17.16147	1	0	0	0
+Bedihošť - Prostějov hl.n.	49.46561	17.12907	1	0	1	0
+	49.46557	17.12914	1	0	1	0
+Myší díra	49.47894	17.13135	1	0	0	1
+U žst.Vrbátky	49.50378	17.20037	2	0	1	0
+U nádraží	49.50375	17.20044	2	0	1	0
+žst. Blatec	49.52459	17.24310	1	0	0	0
+Rybářská ul.	49.57612	17.26627	6	4	0	0
+Tovární	49.58699	17.27031	1	0	0	0
+U Pevnůstky	49.58773	17.26306	2	1	1	0
+Polská	49.58561	17.25414	2	0	0	0
+Palackého	49.59507	17.24100	9	4	2	0
+Tomkova	49.60202	17.23703	2	0	0	0
+Na trati	49.60445	17.23348	2	1	0	0
+U autobazaru	49.60604	17.23001	4	0	0	0
+U železáren - zadní brána	49.60893	17.22797	1	0	0	0
+do pískovny	49.62279	17.21923	1	0	1	1
+Na rozcestí	49.63076	17.20824	2	1	0	0
+Na Vojnici	49.62209	17.10066	1	0	0	0
+na Slatinice	49.60891	17.07792	1	0	0	0
+Drahanovice - Třebčín	49.55800	17.11783	1	0	0	0
+u samoty	49.51355	17.08101	1	0	0	0
+ulice Šternberská Břidličná	49.91220	17.37019	2	0	3	0
+Břidličná - Rýmařov	49.92423	17.35762	1	0	0	0
+ulice T.Kronesové Bruntál	49.99724	17.46522	1	1	0	0
+vl. SHR Staré Město - Světlá Hora	50.03748	17.40081	1	1	0	0
+hranice TO - Kunov	50.02551	17.52629	1	2	0	0
+Karlovice - Vrbno p.Prad.	50.10667	17.43418	1	0	0	0
+ul. 5.května O. Třebovice	49.83646	18.19951	1	0	0	0
+Martinov k zahrádkám dvoukolejný	49.84660	18.19523	1	0	0	1
+ul. U opavice (místní kom.)	49.84660	18.19511	1	0	0	1
+Martinov k zahrádkám jednokolejn	49.85628	18.19464	1	0	0	1
+Děhylov tříkolejný	49.87454	18.17806	1	0	0	1
+z Háje na Benešov	49.90159	18.08755	2	0	0	0
+Ulice Mlýnská Lhota	49.90674	18.05027	1	0	1	0
+Ulice Komenského Lhota	49.90723	18.04680	1	0	0	0
+ul.Palackého Štítina	49.91108	18.01931	7	5	1	0
+Ul.Hlavní - Štítina žst.	49.91255	18.00876	3	2	1	0
+Komárov do Tevy	49.91770	17.97194	1	1	0	0
+Ulice Ostravská Komárov	49.91814	17.96224	4	0	0	0
+nemocnice, k úpravně vody	50.09824	17.68874	2	0	1	0
+Ulice Petrovická Krnov	50.09577	17.69860	2	0	0	0
+Ulice Hřbitovní Krnov	50.09549	17.70281	1	0	1	1
+Ulice Hlubčická Krnov Cvilín	50.09423	17.71201	1	0	0	0
+Krnov ČOV	50.08110	17.73285	1	1	0	0
+zn.Úvalno	50.04899	17.75525	2	0	0	0
+Ulice k Celnici Vávrovice zn.	49.97526	17.85804	1	0	0	1
+Ulice Palhanecká Opava	49.95314	17.87231	2	0	1	2
+Ulice Krnovská Opava	49.95078	17.87365	1	6	0	0
+Krásné Loučky zn.	50.12534	17.63836	1	0	1	0
+Ulice Na Hrázi Opava	49.92234	17.89860	6	2	0	0
+Rybníčky	49.90327	17.88437	9	20	0	0
+Přechod pro pěší Branka U Op.	49.89028	17.87838	1	0	1	0
+Ulice Hradecká Opava	49.92150	17.89540	2	0	0	0
+Ulice Opavská Otice	49.91870	17.87815	2	1	0	0
+Ulice K Domkům Otice	49.91881	17.87232	2	0	0	0
+Ulice Otická Otice/Slavkov	49.92001	17.85666	3	2	1	0
+Na chaty v Mladecku	49.89539	17.71034	1	0	0	0
+U pošty Mladecko	49.89703	17.70795	2	0	1	0
+Esíčko Mladecko - Jakartovice	49.90840	17.70116	2	0	0	0
+k letišti	49.93663	17.97942	1	0	0	0
+Malé - Velké Hoštice	49.93818	17.95829	4	31	0	0
+ul. Štěpánkovická Kravaře	49.93742	18.02054	1	0	0	0
+ul. Štěpánkovická Kravaře	49.93742	18.02054	1	0	0	0
+Ulice Školní Kravaře Kouty zn.	49.93134	18.03833	1	3	0	0
+Ulice Bolatická Dolní Benešov	49.92396	18.10181	3	2	0	0
+Kozmice	49.91809	18.14331	2	0	1	0
+zn.Bolatice	49.96372	18.07425	2	0	0	0
+Šlapanice-letiště ul.Tuřanka	49.16239	16.70960	1	0	0	0
+z Jiříkovic ke Gruntům	49.15668	16.76094	1	1	0	0
+Blažovice - Slavkov u Brna	49.14736	16.83163	1	0	0	0
+u žel.zast Křenovice dolní n.	49.14396	16.83438	3	1	0	1
+Slavkov u Brna - Bučovice	49.14720	16.91499	2	3	1	0
+u hřiště	49.14542	16.92176	1	1	0	0
+Slavkov u Brna - Bučovice	49.14493	16.93901	1	0	0	0
+u žel.zast.Nevojice	49.13676	17.04752	2	0	0	0
+hlavní na zhlaví-ocelogumový	49.14946	17.08264	5	0	0	0
+jednosměrka k JZD	49.14931	17.09312	2	1	0	0
+hlavní u st.1 žst.Nemotice	49.13376	17.11742	1	0	0	0
+u žel.zast.Jestřabice;STABILA	49.08887	17.11329	1	4	0	0
+Boršovský, v žst.Kyjov	49.01844	17.12458	1	1	0	0
+šroubárenský u žel.zast. Kyjov	49.00384	17.12281	3	0	0	1
+"""šroubárenský přejed 64 km"""	49.00943	17.00611	3	0	0	1
+ve Vracově u školy	48.97845	17.20893	1	0	0	0
+u žel.zastávky Vracov	48.97665	17.21920	1	1	0	0
+z Bzence na Strážnici	48.96764	17.28559	2	2	0	0
+z Bzence na Strážnici	48.96764	17.28559	2	2	0	0
+zarazický	48.94317	17.36881	3	1	0	1
+Blatnický	48.98545	17.40505	1	0	0	0
+na zahrádky	48.98863	17.41294	1	0	0	1
+chylický	49.00046	17.42438	1	0	0	0
+do lázní	49.01578	17.44356	2	0	0	1
+do LETU na zast.	49.03855	17.46111	1	0	1	0
+do nového LETU	49.04229	17.46171	1	0	0	1
+u hřiště (u kiosku)	49.04588	17.59742	1	0	0	0
+hlavní u zadní brány zbrojovky	49.02942	17.62278	1	2	1	0
+Hlavní	49.02919	17.73263	1	0	0	0
+Nezdenice, u penzionu	49.01877	17.75360	1	0	0	1
+na Rudimov, u Kuchařového	49.03841	17.80283	1	0	0	1
+za vjezd.od Slavíč. do Víceníkov	49.03775	17.81875	1	0	0	0
+u Divnice	49.09041	17.91242	1	0	0	0
+Popov	49.07795	17.97126	1	2	2	0
+u čapího hnízda	49.07331	17.99341	2	0	0	0
+na pilu, na dvojce	49.06935	18.00668	2	0	0	0
+na pilu, na dvojce	49.06935	18.00668	2	0	0	0
+hlavní silniční do Mouchnice	49.11447	17.13448	1	0	0	0
+průmyslová zóna, tech.služby	49.05948	17.46185	1	0	0	0
+U drůbežárny,cyklostezka	49.07187	17.43955	1	0	1	1
+ke kolibě (motorest)	49.03896	17.69171	1	0	0	0
+u firmy TOKO	49.08966	17.73559	4	1	0	0
+u PENY, sídliště Zahradní	49.09401	17.74167	1	1	0	0
+Hrazánská ulice, u zámku	49.09672	17.74592	1	0	0	0
+před nádražím, k sídlišti	49.09752	17.74661	1	0	0	0
+Lhotka n.Beč. - Valašské Meziříčí	49.49892	17.94389	1	0	0	0
+Juřinka	49.48149	17.96372	1	0	0	0
+Jarcová	49.45188	17.96908	4	0	0	0
+Bystřička 1, k přehradě	49.41832	17.96341	2	0	0	0
+Bystřička 2, hlavní cesta	49.41432	17.95209	3	0	0	0
+u žst. Jablůnka	49.37913	17.94705	2	1	0	0
+spoj.komunikace, část za dráhou	49.33668	17.99031	1	0	0	0
+na Valašské Klobouky	49.30969	18.00365	3	0	0	0
+u žel.zastávky	49.30301	18.09168	1	0	0	0
+u školy I.	49.30700	18.10833	3	2	0	0
+Huslenky u soukromníka	49.30933	18.11470	2	0	0	0
+Bařiny (za zastávkou)	49.30982	18.11719	1	0	0	0
+na Lušovou	49.32832	18.16400	2	0	0	0
+sjezdovka u tachnických služeb	49.35050	18.25005	1	0	0	0
+u žel.zast.Zarazice	48.93727	17.36196	1	0	0	0
+I/55 hlavní u žel.zast.Zarazic	48.93687	17.35677	5	1	1	0
+"\""U Frajera\""; ul.Pátkova"	48.93285	17.34989	2	1	0	0
+k družstvu, ul.Průhony	48.91966	17.33453	2	0	1	0
+Na Ořechovce	48.90156	17.32617	2	2	1	0
+hlavní u pile	48.89807	17.32214	3	2	0	0
+ul.Za Drahou; k vinohradům	48.89405	17.30439	3	0	1	2
+k celnímu skladu	48.87932	17.27804	1	1	0	0
+u žst.Sudoměřice k Petrovu	48.87242	17.24398	2	0	0	0
+Hrušecký	48.78410	16.94573	5	1	0	0
+Moravská nová Ves-Mikulčice	48.81393	17.04045	2	0	0	1
+sev.zhlaví žst.Lužice, ul.Důlní	48.83182	17.07088	3	0	0	0
+přes sev.zhlaví Rohatec-Raťky	48.89423	17.20159	2	0	0	0
+	48.89448	17.20135	2	0	0	0
+na žel.zast.Moravský Písek	48.99091	17.32968	1	0	0	0
+Mor.Písek-Polešovice; hr.Chlad	48.99422	17.33328	7	1	0	0
+u hr.Salajka	49.01543	17.35637	3	0	0	0
+Sušice	49.11084	17.46057	2	0	0	0
+u Hamé	49.11835	17.46880	3	0	0	1
+u zastávky Spytihněv	49.14268	17.49547	5	0	0	0
+Halenkovice	49.17626	17.50303	1	0	0	0
+Žlutava	49.18494	17.50551	1	0	0	0
+na Machovou	49.25141	17.50259	2	0	0	0
+v žst. Tlumačov	49.25811	17.49875	3	0	0	0
+	49.25147	17.48471	3	0	0	0
+Kurovický	49.28763	17.49121	1	0	0	0
+zastávka Záhlinice	49.29225	17.49120	1	0	0	1
+na Chrášťany	49.30200	17.48628	1	0	0	0
+ke statku v Hulíně	49.32813	17.46826	1	0	0	0
+zastávka Břest	49.34888	17.45531	4	0	0	0
+polní Žalkovice-Stará Ves	49.36531	17.45454	1	0	0	0
+Říkovice sever	49.38141	17.45387	6	0	0	0
+u zastávky	49.41594	17.45243	1	0	0	0
+u žel.zast.Hodonín a tabáčky	48.84440	17.12080	1	0	0	0
+Kvítkovice	49.19934	17.53720	2	2	0	0
+k sídlišti Trávníky	49.20030	17.54596	4	2	0	1
+u zastávky ZPS	49.20548	17.57330	1	1	0	0
+Malenovice I	49.20980	17.59627	1	0	1	0
+přejezd u obchodního centa OBI	49.21280	17.61497	1	0	0	0
+Louky - Lapaj	49.21633	17.62313	6	1	0	0
+U INTERŠPÁRU	49.22008	17.64122	2	1	0	0
+Svit	49.22402	17.65214	3	0	1	0
+Zlín střed	49.22756	17.66196	1	0	1	0
+garáže Santražiny	49.22912	17.67326	2	1	0	0
+Hornomlýnská	49.22709	17.68204	1	1	0	0
+u nemocnice, Podvesná	49.22574	17.69205	2	1	1	0
+do uhelných skladů	49.22352	17.70089	1	1	0	0
+u firmy - plastová okna	49.21743	17.75325	6	5	1	0
+stará lipská (Na Želechovice)	49.21534	17.77383	2	1	0	0
+u Jelínka	49.21857	17.84138	1	0	1	0
+Bocanovice	49.56426	18.74134	3	0	1	0
+U Moržola	49.64941	18.70342	2	0	0	0
+Bystřice nad Olší - Třinec	49.65636	18.69615	1	0	0	0
+Třinec-stan.Třinec-Konská - Český Těšín	49.72361	18.62011	2	0	0	0
+ul.Těšínská	49.79944	18.58200	2	0	0	0
+Na poddolovaném	49.81604	18.55952	9	0	0	0
+pod ČSM	49.81598	18.55936	9	0	0	0
+Petrovice u Karviné - Státní statek Karviná	49.88877	18.53443	2	0	0	0
+místní kom.	49.88882	18.53452	2	0	0	0
+STÁTNÍ STATEK Karviná - Karviná m.-kolej 1	49.87713	18.54068	1	1	0	0
+u VOKD	49.77548	18.36404	1	0	0	0
+ul.Datyňská	49.77605	18.35939	1	0	0	0
+Frýdek-Místek - Dobrá u Frýdku-Místku	49.68260	18.36569	2	1	1	0
+Frýdek-Místek - Dobrá u Frýdku-Místku	49.68073	18.38769	1	2	0	0
+Na Špici	49.67471	18.40137	3	0	0	0
+Frýdek-Místek - Dobrá u Frýdku-Místku	49.67153	18.41077	1	1	0	0
+Dobrá u Frýdku-Místku - odb. PZ Nošovice	49.67026	18.41779	1	0	0	0
+	49.66973	18.42168	1	0	0	0
+Dobrá u Frýdku-Místku - odb. PZ Nošovice	49.67152	18.42966	2	1	0	0
+odb. PZ Nošovice - Hnojník	49.67897	18.50103	1	0	0	0
+Hnojník - Český Těšín	49.67748	18.54430	1	1	2	0
+Hnojník - Český Těšín	49.67902	18.56942	1	0	0	0
+Hnojník - Český Těšín	49.69454	18.60074	1	0	0	0
+Hnojník - Český Těšín	49.71062	18.61535	2	1	1	0
+Hnojník - Český Těšín	49.71460	18.61783	1	0	0	0
+žst. Český Těšín	49.74100	18.62277	6	2	0	0
+Kostická váha	48.74720	16.93189	3	0	0	0
+Hundai	49.67024	18.43825	1	0	0	0
+žst. Přerov - (sudé kol. 18-26)	49.44638	17.44372	2	0	0	0
+žst. Pečky	50.08983	15.02505	1	0	0	0

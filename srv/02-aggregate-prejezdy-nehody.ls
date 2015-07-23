@@ -22,11 +22,11 @@ prejezdy = fs.readFileSync '#__dirname/../data/prejezdy-dec.tsv'
   .split "\n"
   .map (row, i) ->
     if i == 0
-      return "id\tnazev\tlat\tlon\tnehod\tlehce\ttezce\tusmrceno"
+      return "nazev\tlat\tlon\tnehod\tlehce\ttezce\tusmrceno"
     fields = row.split '\t'
     [id, nazev_usek, km, trolej, kom_trida, kom_cislo, nazev_mistni, _, _, lat, lon] = fields
     return null if prejezdyAssoc[id] is void
-    [id, nazev_mistni || nazev_usek, lat, lon, prejezdyAssoc[id].nehody, prejezdyAssoc[id].lehc, prejezdyAssoc[id].tezc, prejezdyAssoc[id].usmr].join "\t"
+    [nazev_mistni || nazev_usek, lat, lon, prejezdyAssoc[id].nehody, prejezdyAssoc[id].lehc, prejezdyAssoc[id].tezc, prejezdyAssoc[id].usmr].join "\t"
   .filter -> it isnt null
   .join "\n"
 
