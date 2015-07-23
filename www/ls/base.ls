@@ -4,7 +4,7 @@ data = d3.tsv.parse ig.data.prejezdy, (row) ->
     row[field] = parseFloat value
   row.latLng = L.latLng row.lat, row.lon
   row.radius = row.nehod
-  row.ratio = (row.tezce + row.usmrceno)# / row.nehod
+  row.ratio = (row.usmrceno)# / row.nehod
   row
 
 data .= filter (.ratio)
