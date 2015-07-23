@@ -9,7 +9,6 @@ data = d3.tsv.parse ig.data.prejezdy, (row) ->
 
 data .= filter (.ratio)
 
-console.log data.length
 container = d3.select ig.containers.base
 mapElement = container.append \div
   ..attr \class \map
@@ -17,7 +16,7 @@ mapElement = container.append \div
 map = L.map do
   * mapElement.node!
   * minZoom: 7,
-    maxZoom: 15,
+    maxZoom: 13,
     zoom: 8
     center: [49.78, 15.5]
     maxBounds: [[48.3,11.6], [51.3,19.1]]
@@ -25,13 +24,13 @@ map = L.map do
 baseLayer = L.tileLayer do
   * "https://samizdat.cz/tiles/ton_b1/{z}/{x}/{y}.png"
   * zIndex: 1
-    opacity: 1
+    opacity: 0.1
     attribution: 'mapová data &copy; přispěvatelé <a target="_blank" href="http://osm.org">OpenStreetMap</a>, obrazový podkres <a target="_blank" href="http://stamen.com">Stamen</a>, <a target="_blank" href="https://samizdat.cz">Samizdat</a>'
 
 labelLayer = L.tileLayer do
   * "https://samizdat.cz/tiles/ton_l1/{z}/{x}/{y}.png"
   * zIndex: 3
-    opacity: 0.75
+    opacity: 0.5
 
 radiusScale = d3.scale.sqrt!
   ..domain [0 5]
@@ -67,6 +66,18 @@ markers = for datum in data
     Smrtelně\t<b>#{datum.usmrceno}</b></pre>"
 
 
+trate = topojson.feature do
+  ig.data.trate
+  ig.data.trate.objects.trate
+
+trateLayer = L.geoJson do
+  * trate
+  * style: ->
+    opacity: 1
+    color: \black
+    dashArray: "6,8"
+    weight: 2
+    clickable: no
+trateLayer.addTo map
 baseLayer.addTo map
 labelLayer.addTo map
-

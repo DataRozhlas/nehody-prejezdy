@@ -12,6 +12,7 @@ externalStyles =
 
 externalData =
   "prejezdy": "#__dirname/data/prejezdy-out.tsv"
+  "trate": "#__dirname/data/trate.topo.json"
 
 preferScripts = <[ postInit.js _loadData.js ../data.js init.js _loadExternal.js]>
 deferScripts = <[ geoUtils.js base.js ]>
